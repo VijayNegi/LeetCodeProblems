@@ -1,18 +1,22 @@
 class Solution {
+    string strSort(string s) {
+        int counter[26] = {0};
+        for (char c : s) {
+            counter[c - 'a']++;
+        }
+        string t;
+        for (int c = 0; c < 26; c++) {
+            t.append(counter[c], c + 'a');
+        }
+        return t;
+    }
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         unordered_map<string,vector<string>> mAna;
         
         for(auto n: strs)
         {
-            int a[26]={0};
-            for(auto c:n)
-                a[c -'a']++;
-            string key;
-            for(int i=0;i<26;++i)
-                if(a[i]) key.append(a[i],'a'+i);
-            
-            mAna[key].push_back(n);
+            mAna[strSort(n)].push_back(n);
         }
         
         vector<vector<string>> result;
