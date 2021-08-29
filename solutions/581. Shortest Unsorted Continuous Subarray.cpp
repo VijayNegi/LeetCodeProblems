@@ -1,5 +1,10 @@
 class Solution {
 public:
+// Think of problem as - In ideal sorted array. 
+// Every element from right to left will be smaller.
+// Every element from left to right will be larger.
+// finding atual position of Min by going right to left you will get start.
+// finding atual position of max by going left to right you will get end.
     int findUnsortedSubarray(vector<int>& nums) {
         int n = nums.size();
         int minV = nums[n-1];
@@ -16,5 +21,5 @@ public:
         }
         
         return end - start +1;
-    }
+    }
 };
