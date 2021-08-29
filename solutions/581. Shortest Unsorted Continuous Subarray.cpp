@@ -16,5 +16,5 @@ public:
         }
         
         return end - start +1;
-    }
+    }
 };
