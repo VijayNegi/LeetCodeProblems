@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //bruteforce
     int arrangeCoins1(int n) {
         int count=0;
         int coin = n;
@@ -8,6 +9,7 @@ public:
 ​
         return --count;
     }
+    // binary search
     int arrangeCoins2(int n) {
         int count=-1;
         
@@ -38,6 +40,7 @@ public:
     
         return count;
     }
+    // formula
     int arrangeCoins(int n) {
         int count=0;
         long coin = n;
