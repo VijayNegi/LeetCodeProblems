@@ -1,3 +1,30 @@
+class Solution {
+public:
+    string multiply1(string num1, string num2) {
+        function<string(string,string)> bigAdd = [&](string num1,string num2)
+        {
+            int size1 = num1.size();
+            int size2 = num2.size();
+            string result;
+            int carry(0);
+            while( size1 && size2)
+            {
+                int num = (num1[size1-1] - '0') + (num2[size2-1]- '0') + carry;
+                carry = num/10;
+                num %=10;
+                result.push_back(num + '0');
+                --size1,--size2;
+            }
+            while( size1)
+            {
+                int num = (num1[size1-1] - '0') + carry;
+                carry = num/10;
+                num %=10;
+                result.push_back(num + '0');
+                --size1;
+            }
+            while( size2)
+            {
                 int num = (num2[size2-1] - '0') + carry;
                 carry = num/10;
                 num %=10;
