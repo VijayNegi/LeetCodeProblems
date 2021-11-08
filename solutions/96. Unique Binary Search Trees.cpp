@@ -1,30 +1,26 @@
 class Solution {
 public:
+    // dp - Memoization
     int numTrees(int n) {
-        
-        vector<int> mem(n+3,0);
+        vector<int> mem(n+2,0);
         mem[0] = 1;
         mem[1] = 1;
         mem[2] = 2;
-        function<int(int,int)> uniqueBST = [&](int start,int end)
+        function<int(int)> uniqueBST = [&](int s)
         {
-            
-            int s = end - start +1;
             if(mem[s]>0)
                 return mem[s];
             
             int ways=0;
-            for(int i=start;i<=end; ++i)
+            for(int i=1;i<=s; ++i)
             {
-                int left = uniqueBST(start,i-1);
-                int right = uniqueBST(i+1,end);
+                int left = uniqueBST(i-1);
+                int right = uniqueBST(s-i);
                 ways += left * right;
             }
             mem[s] = ways;
             return ways;
         };
-        
-        return uniqueBST(1,n);
-        
+        return uniqueBST(n);
     }
 };
