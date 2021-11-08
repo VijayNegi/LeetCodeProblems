@@ -7,6 +7,7 @@
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|32 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|8 ms|
 |91|[ Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](./solutions/91.%20Decode%20Ways.cpp)|0 ms|
+|96|[ Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](./solutions/96.%20Unique%20Binary%20Search%20Trees.cpp)|0 ms|
 |129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|0 ms|
 |130|[ Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](./solutions/130.%20Surrounded%20Regions.cpp)|16 ms|
 |260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](./solutions/260.%20Single%20Number%20III.cpp)|4 ms|
