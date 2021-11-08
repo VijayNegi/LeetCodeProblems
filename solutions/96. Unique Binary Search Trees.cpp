@@ -1,7 +1,7 @@
 class Solution {
 public:
     // dp - Memoization
-    int numTrees(int n) {
+    int numTrees1(int n) {
         vector<int> mem(n+2,0);
         mem[0] = 1;
         mem[1] = 1;
@@ -23,4 +23,14 @@ public:
         };
         return uniqueBST(n);
     }
+    // dp - Tabulation
+    int numTrees(int n) {
+        vector<int> dp(n+1);
+        dp[0] = dp[1] = 1;
+        for(int i = 2; i <= n; i++) 
+            for(int j = 1; j <= i; j++)
+                dp[i] += dp[j-1] * dp[i-j];
+        return dp[n];
+    }
+​
 };
