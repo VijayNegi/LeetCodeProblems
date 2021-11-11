@@ -23,4 +23,5 @@
 |980|[ Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[C++](./solutions/980.%20Unique%20Paths%20III.cpp)|4 ms|
 |1178|[ Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[C++](./solutions/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle.cpp)|1952 ms|
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[C++](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp)|116 ms|
+|1413|[ Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[C++](./solutions/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)|0 ms|
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[C++](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)|120 ms|
