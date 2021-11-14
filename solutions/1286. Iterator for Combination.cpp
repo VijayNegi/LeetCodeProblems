@@ -36,14 +36,14 @@ public:
             int l = str.find(res[mChar]);
             res = res.substr(0, mChar) + str.substr(l +1, comlen - mChar);
         }
-        //cout<<temp<<endl;
+        
         return temp;
         
     }
     
     bool hasNext() {
         return _hasNext;
-        //return (mask != 0) true: false;
+        
     }
 };
 ​
