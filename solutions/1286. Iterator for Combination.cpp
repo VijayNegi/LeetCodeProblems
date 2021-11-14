@@ -17,25 +17,22 @@ public:
     
     string next() {
         string temp = res;
+        int len = str.size();
         
-        function<int(int)> comb = [&](int pos)
+        int mChar = 1;
+        while(mChar<= comlen && mChar <= len)
         {
-            if(pos < 0)
-                return -1;
-            int l = str.find(res[pos]);
-            int max = str.size() - comlen + pos;
-            //cout<<"position of char "<< pos<<" at "<<l<<" and max till "<<max<<endl;
-            if(l< max)
-                return pos;
-            return comb(pos - 1);
-            
-        };
-        int mChar = comb(comlen -1);
-        //cout<<" char to move "<<mChar<<endl;
-        if(mChar == -1)
+            if(res[comlen - mChar] == str[ len - mChar])
+                ++mChar;
+            else
+                break;
+        }
+​
+        if(mChar>comlen)
             _hasNext = false;
         else
         {
+            mChar = comlen - mChar;
             int l = str.find(res[mChar]);
             res = res.substr(0, mChar) + str.substr(l +1, comlen - mChar);
         }
