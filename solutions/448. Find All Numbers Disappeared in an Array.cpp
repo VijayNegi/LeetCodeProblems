@@ -15,8 +15,8 @@ public:
         
         return res;
     }
-    
-    vector<int> findDisappearedNumbers(vector<int>& nums) {
+    // hasmap
+    vector<int> findDisappearedNumbers2(vector<int>& nums) {
         unordered_set<int> s;
         for(int i=0;i<nums.size();++i)
         {
@@ -32,6 +32,19 @@ public:
             res.push_back(i);
         }
         
+        return res;
+    }
+    //inplace
+    vector<int> findDisappearedNumbers(vector<int>& nums) {
+        int len = nums.size();
+        for(int i=0; i<len; i++) {
+            int m = abs(nums[i])-1; // index start from 0
+            nums[m] = nums[m]>0 ? -nums[m] : nums[m];
+        }
+        vector<int> res;
+        for(int i = 0; i<len; i++) {
+            if(nums[i] > 0) res.push_back(i+1);
+        }
         return res;
     }
 };
