@@ -8,8 +8,8 @@ public:
         if(!fl or !sl)
             return res;
         
-        sort(begin(firstL),end(firstL));
-        sort(begin(secondL),end(secondL));
+        //sort(begin(firstL),end(firstL));
+        //sort(begin(secondL),end(secondL));
         
         int currf = 0;
         int currs = 0;
