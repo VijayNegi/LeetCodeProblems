@@ -5,6 +5,7 @@
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./solutions/36.%20Valid%20Sudoku.cpp)|20 ms|
 |43|[ Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](./solutions/43.%20Multiply%20Strings.cpp)|8 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|32 ms|
+|53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|84 ms|
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./solutions/62.%20Unique%20Paths.cpp)|0 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|8 ms|
 |91|[ Decode Ways](https://leetcode.com/problems/decode-ways/)|[C++](./solutions/91.%20Decode%20Ways.cpp)|0 ms|
