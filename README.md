@@ -46,3 +46,4 @@
 |2085|[ Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[C++](./solutions/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.cpp)|36 ms|
 |2086|[ Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)|[C++](./solutions/2086.%20Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses.cpp)|20 ms|
 |2087|[ Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)|[C++](./solutions/2087.%20Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid.cpp)|164 ms|
+|2088|[ Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/)|[C++](./solutions/2088.%20Count%20Fertile%20Pyramids%20in%20a%20Land.cpp)|312 ms|
