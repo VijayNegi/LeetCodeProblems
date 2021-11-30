@@ -1,3 +1,17 @@
+class Solution {
+public:
+    int maximalRectangle(vector<vector<char>>& matrix) {
+        int r = matrix.size();
+        if(r==0)
+            return 0;
+        int c = matrix[0].size();
+        
+        
+//         vector<vector<int>> matH(r,vector(c,0)),matV(r,vector(c,0));
+        
+//         for(int i=0;i<r;++i)
+//         {
+//             for(int j=0;j<c;++j)
 //             {
 //                 if(matrix[i][j] == '1')
 //                 {
