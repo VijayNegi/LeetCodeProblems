@@ -46,6 +46,7 @@
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|32 ms|
 |1032|[ Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[C++](./solutions/1032.%20Stream%20of%20Characters.cpp)|264 ms|
 |1178|[ Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[C++](./solutions/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle.cpp)|1952 ms|
+|1217|[ Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|4 ms|
 |1286|[ Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[C++](./solutions/1286.%20Iterator%20for%20Combination.cpp)|8 ms|
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[C++](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp)|116 ms|
 |1413|[ Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[C++](./solutions/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)|0 ms|
