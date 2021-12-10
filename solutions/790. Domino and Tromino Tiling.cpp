@@ -22,7 +22,7 @@ public:
         return dp[n][0];
     }
     //space optimization as both incomplete tiles are equal
-    int numTilings(int n) {
+    int numTilings2(int n) {
         if(n==1)
             return 1;
         else if(n==2)
@@ -40,5 +40,23 @@ public:
         }
         
         return dp[n][0];
+    }
+    //further space optimization
+    //https://leetcode.com/problems/domino-and-tromino-tiling/discuss/116581/Detail-and-explanation-of-O(n)-solution-why-dpn2*dn-1%2Bdpn-3
+    int numTilings(int n) {
+        if(n<=2)
+            return n;
+        
+        vector<int> dp(n+1,0); // complete
+        dp[0] = 1;
+        dp[1] = 1;
+        dp[2] = 2;
+        
+        for(int i = 3;i<=n;++i)
+        {
+            dp[i] = ((ll)dp[i-1] + dp[i-1] + dp[i-3])%mod;
+        }
+        
+        return dp[n];
     }
 };
