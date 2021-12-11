@@ -1,3 +1,24 @@
+typedef long long ll;
+const int mod = 1e9+7;
+class Solution {
+public:
+    int gcd(int a,int b)
+    {
+        if(b==0)
+            return a;
+        else
+            return gcd(b,a%b);
+    }
+    //60ms
+    int nthMagicalNumber1(int n, int a, int b) {
+        
+        int g = gcd(a,b);
+        //cout<<"g="<<g<<"\n";
+        int lower = min(a,b);
+        if(g==lower)
+            return ((ll)lower*n)%mod;
+        int lcm = (a*b)/g;
+        //cout<<"lcm="<<lcm<<"\n";
         int period = (lcm/a) + (lcm/b) - 1;
         //cout<<"period="<<period<<"\n";
         int m = n/period;
