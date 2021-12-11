@@ -64,3 +64,4 @@
 |2099|[ Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)|[C++](./solutions/2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.cpp)|8 ms|
 |2100|[ Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)|[C++](./solutions/2100.%20Find%20Good%20Days%20to%20Rob%20the%20Bank.cpp)|112 ms|
 |2101|[ Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)|[C++](./solutions/2101.%20Detonate%20the%20Maximum%20Bombs.cpp)|204 ms|
+|2102|[ Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)|[C++](./solutions/2102.%20Sequentially%20Ordinal%20Rank%20Tracker.cpp)|336 ms|
