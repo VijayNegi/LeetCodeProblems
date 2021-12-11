@@ -1,25 +1,3 @@
-#if 0
-// contest , 500ms
-class SORTracker {
-    int qc;
-    vector<int> maxh;
-    vector<int> minh;
-    vector<pair<string,int>> loc;
-    function<bool(int,int)> less,greater;
-public:
-    SORTracker() {
-        qc=1;
-        less = [&](int i,int j)
-        {
-            if(loc[i].second<loc[j].second)
-                return true;
-            else if(loc[i].second>loc[j].second)
-                return false;
-​
-            return loc[i].first > loc[j].first;
-        };
-        greater = [&](int i,int j)
-        {
             if(loc[i].second>loc[j].second)
                 return true;
             else if(loc[i].second<loc[j].second)
@@ -58,3 +36,36 @@ public:
             {
                 int k = maxh.front();
                 std::pop_heap(maxh.begin(), maxh.end(),less);
+                maxh.pop_back();
+                minh.push_back(k);
+                std::push_heap(minh.begin(), minh.end(),greater);
+            }
+        }
+        
+        
+        // if(maxh.size()>=1)
+        //     cout<<"max top : "<<loc[maxh.front()].first<<"\n";
+        // if(minh.size()>=1)
+        //     cout<<"min top: "<<loc[minh.front()].first<<"\n";
+        // cout<<"------"<<endl;
+    }
+    
+    string get() {
+        ++qc;
+        int k = minh.front();
+        if(maxh.size()>=1)
+        {
+            int p = maxh.front();
+            std::pop_heap(maxh.begin(), maxh.end(),less);
+            maxh.pop_back();
+            minh.push_back(p);
+            std::push_heap(minh.begin(), minh.end(),greater);
+        }
+        //cout<<"out: "<<loc[k].first<<endl;
+        return loc[k].first;
+        
+    }
+};
+// using priority queues
+class SORTracker {
+public:
