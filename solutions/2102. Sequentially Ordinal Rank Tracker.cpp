@@ -1,27 +1,3 @@
-        if(greater(pos,minh.front()))
-        {
-            minh.push_back(pos);
-            std::push_heap(minh.begin(), minh.end(),greater);
-            if(minh.size()>qc)
-            {
-                int k = minh.front();
-                std::pop_heap(minh.begin(), minh.end(),greater);
-                minh.pop_back();
-                maxh.push_back(k);
-                std::push_heap(maxh.begin(), maxh.end(),less);
-            }
-        }
-        else
-        {
-            maxh.push_back(pos);
-            std::push_heap(maxh.begin(), maxh.end(),less);
-            if(minh.size()<qc)
-            {
-                int k = maxh.front();
-                std::pop_heap(maxh.begin(), maxh.end(),less);
-                maxh.pop_back();
-                minh.push_back(k);
-                std::push_heap(minh.begin(), minh.end(),greater);
             }
         }
         
@@ -49,26 +25,51 @@
         
     }
 };
-#endif
-//using set
+// using priority queues
 class SORTracker {
 public:
-    set<pair<int, string>> s;
-    set<pair<int, string>>::iterator it = end(s);    
+    SORTracker() : number_of_get(0) {}
+    
     void add(string name, int score) {
-        auto it1 = s.insert({-score, name}).first;
-        if (it == end(s) || *it1 < *it)
-            --it;
+        min_heap.push(make_pair(score, name));
+        while (min_heap.size() > number_of_get) {
+            max_heap.push(min_heap.top());
+            min_heap.pop();
+        }
     }
+    
     string get() {
-        return (it++)->second;
+        auto p = max_heap.top();
+        min_heap.push(p);
+        max_heap.pop();
+        ++number_of_get;
+        return p.second;
     }
+    
+private:
+    struct Compare1 { // comparator for min_heap
+        bool operator()(const pair<int, string>& a, const pair<int, string>& b)
+        {
+            if (a.first != b.first) {
+                return a.first > b.first;
+            } else {
+                return a.second < b.second;
+            }
+        }
+    };
+​
+    struct Compare2 { // comparator for max_heap
+        bool operator()(const pair<int, string>& a, const pair<int, string>& b)
+        {
+            if (a.first != b.first) {
+                return a.first < b.first;
+            } else {
+                return a.second > b.second;
+            }
+        }
+    };
+    
+    priority_queue<pair<int, string>, vector<pair<int, string>>, Compare1> min_heap; // store number_of_get lowest-ranked locations
+    priority_queue<pair<int, string>, vector<pair<int, string>>, Compare2> max_heap; // store the rest of the locations
+    int number_of_get; // number of get() requests so far
 };
-​
-​
-/**
- * Your SORTracker object will be instantiated and called as such:
- * SORTracker* obj = new SORTracker();
- * obj->add(name,score);
- * string param_2 = obj->get();
- */
