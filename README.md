@@ -68,3 +68,4 @@
 |2102|[ Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)|[C++](./solutions/2102.%20Sequentially%20Ordinal%20Rank%20Tracker.cpp)|336 ms|
 |2103|[ Rings and Rods](https://leetcode.com/problems/rings-and-rods/)|[C++](./solutions/2103.%20Rings%20and%20Rods.cpp)|0 ms|
 |2104|[ Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)|[C++](./solutions/2104.%20Sum%20of%20Subarray%20Ranges.cpp)|12 ms|
+|2105|[ Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)|[C++](./solutions/2105.%20Watering%20Plants%20II.cpp)|152 ms|
