@@ -66,3 +66,4 @@
 |2100|[ Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)|[C++](./solutions/2100.%20Find%20Good%20Days%20to%20Rob%20the%20Bank.cpp)|112 ms|
 |2101|[ Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)|[C++](./solutions/2101.%20Detonate%20the%20Maximum%20Bombs.cpp)|204 ms|
 |2102|[ Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)|[C++](./solutions/2102.%20Sequentially%20Ordinal%20Rank%20Tracker.cpp)|336 ms|
+|2103|[ Rings and Rods](https://leetcode.com/problems/rings-and-rods/)|[C++](./solutions/2103.%20Rings%20and%20Rods.cpp)|0 ms|
