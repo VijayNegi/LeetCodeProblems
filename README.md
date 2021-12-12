@@ -26,7 +26,7 @@
 |337|[ House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./solutions/337.%20House%20Robber%20III.cpp)|21 ms|
 |368|[ Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](./solutions/368.%20Largest%20Divisible%20Subset.cpp)|32 ms|
 |404|[ Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[C++](./solutions/404.%20Sum%20of%20Left%20Leaves.cpp)|8 ms|
-|416|[ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[C++](./solutions/416.%20Partition%20Equal%20Subset%20Sum.cpp)|92 ms|
+|416|[ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[C++](./solutions/416.%20Partition%20Equal%20Subset%20Sum.cpp)|12 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C++](./solutions/441.%20Arranging%20Coins.cpp)|0 ms|
 |448|[ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|40 ms|
 |450|[ Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[C++](./solutions/450.%20Delete%20Node%20in%20a%20BST.cpp)|32 ms|
