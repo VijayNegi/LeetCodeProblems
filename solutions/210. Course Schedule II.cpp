@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> findOrder(int n, vector<vector<int>>& prereq) {
+    vector<int> findOrder1(int n, vector<vector<int>>& prereq) {
         vector<set<int>> pre(n);
         vector<set<int>> dep(n);
         
@@ -42,4 +42,36 @@ public:
         return res;
          
     }
-};
+    // without set
+    vector<int> findOrder(int n, vector<vector<int>>& prereq) {
+       
+        vector<set<int>> adjList(n);
+        vector<int> inDegree(n,0);
+        
+        for(auto vec: prereq)
+        {
+            adjList[vec[1]].insert(vec[0]);
+            ++inDegree[vec[0]];
+        }
+        
+        set<int> cset;
+            
+        for(int i=0;i<n;++i)
+        {
+            if(inDegree[i]==0)
+                cset.insert(i);
+        }
+        
+        vector<int> res;
+        
+        while(!cset.empty())
+        {
+            set<int> next;
+            for(auto c: cset)
+            {
+                res.push_back(c);
+                for(auto d:adjList[c])
+                {
+                    --inDegree[d];
+                    
+                    if(inDegree[d]==0)
