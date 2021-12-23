@@ -75,3 +75,16 @@ public:
                     --inDegree[d];
                     
                     if(inDegree[d]==0)
+                        next.insert(d);
+                }
+                
+            }
+            
+            cset = next;
+        }
+        if(res.size()<n)
+            return {};
+        return res;
+         
+    }
+};
