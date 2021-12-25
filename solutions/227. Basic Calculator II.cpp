@@ -1,3 +1,18 @@
+            int n = s.size();
+            if(idx>= n)
+                return 0;
+            int res=getInt(s,idx);
+            while(idx<n)
+            {
+                char oper = s[idx];
+                if(op[oper]<=opPriority)
+                    break;
+                ++idx;
+                int tempIdx = idx;
+                int b = getInt(s,idx);
+​
+                if(idx>=n || (op[s[idx]] <= op[oper]))
+                {
                     res = doOp(res,b,oper);
                 }
                 else 
