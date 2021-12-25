@@ -71,3 +71,19 @@ public:
                 else 
                 {
                     
+                    int c = solve(s,tempIdx,op[oper]);
+                    res = doOp(res,c,oper);
+                    idx = tempIdx;
+                }
+            }
+            return res;
+           
+        };
+        
+        return solve(s,idx,0);               
+    }
+    // other approach: 8ms
+    int calculate2(string s) {
+        istringstream in('+' + s + '+');
+        long long total = 0, term = 0, n;
+        char op;
