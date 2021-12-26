@@ -86,3 +86,4 @@
 |2105|[ Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)|[C++](./solutions/2105.%20Watering%20Plants%20II.cpp)|152 ms|
 |2114|[ Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[C++](./solutions/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.cpp)|12 ms|
 |2115|[ Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)|[C++](./solutions/2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies.cpp)|284 ms|
+|2116|[ Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)|[C++](./solutions/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.cpp)|100 ms|
