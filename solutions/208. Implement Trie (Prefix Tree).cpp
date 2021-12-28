@@ -1,3 +1,34 @@
+/*
+Solution with recurtion : 112 ms
+#define TRIE_LEN 26
+class Trie {
+    bool end;
+    vector<Trie*> child;
+public:
+    Trie() {
+        end= false;
+        child = vector<Trie*>(TRIE_LEN,nullptr);
+    }
+    
+    void insert(string word) {
+        if(child[word[0]-'a']==nullptr)
+        {
+            child[word[0]-'a'] = new Trie();
+        }
+        child[word[0]-'a']->insert(word,1);
+    }
+    
+    bool search(string word) {
+        if(child[word[0]-'a']==nullptr)
+            return false;
+        return child[word[0]-'a']->search(word,1);
+    }
+    
+    bool startsWith(string prefix) {
+        return startsWith(prefix,0);
+        
+    }
+private:
     void insert(string s,int idx)
     {
         if(idx>= s.size())
@@ -67,15 +98,3 @@ public:
         return true;
     }
 ​
-private:
-    Trie* next[26] = {};
-    bool isword = false;
-};
-​
-/**
- * Your Trie object will be instantiated and called as such:
- * Trie* obj = new Trie();
- * obj->insert(word);
- * bool param_2 = obj->search(word);
- * bool param_3 = obj->startsWith(prefix);
- */
