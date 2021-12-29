@@ -25,7 +25,7 @@ public:
         Node* curr = root;
         Node* child = root->left;
         
-        while(curr)
+        while(child)
         {
             if(curr->left)
             {
@@ -39,8 +39,7 @@ public:
             else
             {
                 curr = child;
-                if(child)
-                    child = child->left;
+                child = child->left;
             }
             
         }
