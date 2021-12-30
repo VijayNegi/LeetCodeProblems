@@ -24,6 +24,7 @@
 |146|[ LRU Cache](https://leetcode.com/problems/lru-cache/)|[C++](./solutions/146.%20LRU%20Cache.cpp)|416 ms|
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](./solutions/147.%20Insertion%20Sort%20List.cpp)|16 ms|
 |152|[ Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./solutions/152.%20Maximum%20Product%20Subarray.cpp)|4 ms|
+|191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|3 ms|
 |198|[ House Robber](https://leetcode.com/problems/house-robber/)|[C++](./solutions/198.%20House%20Robber.cpp)|0 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./solutions/203.%20Remove%20Linked%20List%20Elements.cpp)|24 ms|
 |208|[ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](./solutions/208.%20Implement%20Trie%20(Prefix%20Tree).cpp)|52 ms|
