@@ -35,6 +35,7 @@
 |227|[ Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](./solutions/227.%20Basic%20Calculator%20II.cpp)|8 ms|
 |231|[ Power of Two](https://leetcode.com/problems/power-of-two/)|[C++](./solutions/231.%20Power%20of%20Two.cpp)|0 ms|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./solutions/238.%20Product%20of%20Array%20Except%20Self.cpp)|27 ms|
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./solutions/242.%20Valid%20Anagram.cpp)|4 ms|
 |260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](./solutions/260.%20Single%20Number%20III.cpp)|4 ms|
 |303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[C++](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)|16 ms|
 |310|[ Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](./solutions/310.%20Minimum%20Height%20Trees.cpp)|80 ms|
