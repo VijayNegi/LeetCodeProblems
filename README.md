@@ -55,6 +55,7 @@
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.js)|68 ms|
 |546|[ Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](./solutions/546.%20Remove%20Boxes.cpp)|164 ms|
 |563|[ Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[C++](./solutions/563.%20Binary%20Tree%20Tilt.cpp)|29 ms|
+|572|[ Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[C++](./solutions/572.%20Subtree%20of%20Another%20Tree.cpp)|28 ms|
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|32 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|40 ms|
 |668|[ Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[C++](./solutions/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)|16 ms|
