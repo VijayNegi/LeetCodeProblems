@@ -1,3 +1,23 @@
+#define TRIE_LEN 26
+​
+struct Trie
+{
+    Trie* next[TRIE_LEN];
+    bool end;
+    Trie()
+    {
+        for(int i=0;i<TRIE_LEN;++i)
+            next[i] = nullptr;
+        end = false;
+    }
+    
+    void insert(string& w)
+    {
+        Trie* curr = this;
+        int idx = 0;
+        while(curr!=nullptr)
+        {
+            if(idx == w.size())
             {
                 curr->end = true;
                 break;
