@@ -11,18 +11,17 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode Dummy;
+        ListNode* head;
         int n = lists.size();
         if(n==0)
             return nullptr;
         else if(n==1)
             return lists[0];
-        Dummy.next = lists[0];
+        head = lists[0];
         for(int i=1;i<n;++i)
-        {
-            Dummy.next = merge(Dummy.next,lists[i]);
-        }
-        return Dummy.next;
+            head = merge(head,lists[i]);
+​
+        return head;
     }
     ListNode* merge(ListNode* l1,ListNode* l2)
     {
