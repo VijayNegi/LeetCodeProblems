@@ -89,6 +89,7 @@
 |1015|[ Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[C++](./solutions/1015.%20Smallest%20Integer%20Divisible%20by%20K.cpp)|4 ms|
 |1026|[ Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[C++](./solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)|4 ms|
 |1032|[ Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[C++](./solutions/1032.%20Stream%20of%20Characters.cpp)|264 ms|
+|1094|[ Car Pooling](https://leetcode.com/problems/car-pooling/)|[C++](./solutions/1094.%20Car%20Pooling.cpp)|8 ms|
 |1178|[ Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[C++](./solutions/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle.cpp)|1952 ms|
 |1200|[ Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[C++](./solutions/1200.%20Minimum%20Absolute%20Difference.cpp)|68 ms|
 |1217|[ Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|4 ms|
