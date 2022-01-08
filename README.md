@@ -35,6 +35,7 @@
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|3 ms|
 |198|[ House Robber](https://leetcode.com/problems/house-robber/)|[C++](./solutions/198.%20House%20Robber.cpp)|0 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./solutions/203.%20Remove%20Linked%20List%20Elements.cpp)|24 ms|
+|207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./solutions/207.%20Course%20Schedule.cpp)|30 ms|
 |208|[ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](./solutions/208.%20Implement%20Trie%20(Prefix%20Tree).cpp)|52 ms|
 |210|[ Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[C++](./solutions/210.%20Course%20Schedule%20II.cpp)|24 ms|
 |211|[ Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[C++](./solutions/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp)|84 ms|
