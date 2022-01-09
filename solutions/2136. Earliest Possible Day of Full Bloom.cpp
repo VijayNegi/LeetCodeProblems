@@ -11,12 +11,11 @@ public:
         
         int endTime=0;
         int plantEnd = 0;
-        for(int i=0;i<n;++i)
-        {
-            auto [g,p] = gp[i];
+        for(auto [g,p] : gp)
+        {
             plantEnd += p;
             endTime = max(endTime, plantEnd + g);
-        }
+        }
         return endTime;
     }
 };
