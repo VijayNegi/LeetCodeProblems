@@ -49,7 +49,7 @@ public:
         
         return false;
     }
-    
+    // just cleaner
      bool isRobotBounded(string instructions) {
         int x = 0, y = 0, i = 0;
         vector<vector<int>> d = {{0, 1}, {1, 0}, {0, -1}, { -1, 0}};
