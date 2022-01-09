@@ -127,3 +127,4 @@
 |2115|[ Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)|[C++](./solutions/2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies.cpp)|284 ms|
 |2116|[ Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)|[C++](./solutions/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.cpp)|100 ms|
 |2133|[ Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)|[C++](./solutions/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.cpp)|100 ms|
+|2134|[ Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)|[C++](./solutions/2134.%20Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II.cpp)|80 ms|
