@@ -18,7 +18,7 @@ public:
                 res.push_back('1');
             else
                 res.push_back('0');
-            sum = sum>=2? 1:0;
+            sum = sum/2;
             ++i;
         }
         if(sum)
