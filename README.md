@@ -83,6 +83,7 @@
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|32 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|40 ms|
 |668|[ Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[C++](./solutions/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)|16 ms|
+|701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)|88 ms|
 |721|[ Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[C++](./solutions/721.%20Accounts%20Merge.cpp)|92 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./solutions/739.%20Daily%20Temperatures.cpp)|204 ms|
 |790|[ Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[C++](./solutions/790.%20Domino%20and%20Tromino%20Tiling.cpp)|0 ms|
