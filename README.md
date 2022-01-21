@@ -34,7 +34,7 @@
 |129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[C++](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.cpp)|0 ms|
 |130|[ Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[C++](./solutions/130.%20Surrounded%20Regions.cpp)|16 ms|
 |131|[ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[C++](./solutions/131.%20Palindrome%20Partitioning.cpp)|92 ms|
-|134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[C++](./solutions/134.%20Gas%20Station.cpp)|82 ms|
+|134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[C++](./solutions/134.%20Gas%20Station.cpp)|59 ms|
 |139|[ Word Break](https://leetcode.com/problems/word-break/)|[C++](./solutions/139.%20Word%20Break.cpp)|4 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./solutions/141.%20Linked%20List%20Cycle.cpp)|12 ms|
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./solutions/142.%20Linked%20List%20Cycle%20II.cpp)|15 ms|
