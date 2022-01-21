@@ -9,7 +9,7 @@ public:
         int index = 0;
         int sum = 0;
         int minSum = INT_MAX;
-        for(int i=0;i<n*2;i++)
+        for(int i=0;i<n;i++)
         {
             int mi=i%gas.size();
             int temp = gas[mi]-cost[mi];
