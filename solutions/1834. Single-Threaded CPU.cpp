@@ -13,7 +13,6 @@ public:
         long time = 0;
         while(!enque.empty() || !process.empty())
         {
-            
             // pop all jobs less then or equal then time from enque
             while(!enque.empty() && tasks[enque.top()][0] <= time)
             {
