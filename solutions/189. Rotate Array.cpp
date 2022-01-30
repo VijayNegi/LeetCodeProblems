@@ -15,7 +15,7 @@ public:
         while(k>0)
         {
             int p = k;
-            
+            // check if n and remaining k are coprime
             while(gcd(n,p)!=1)
                 --p;
             k -=p;
