@@ -1,0 +1,83 @@
+class Solution {
+public:
+    string minRemoveToMakeValid1(string s) {
+        string res;
+        int open = 0;
+        for(auto a:s)
+        {
+           
+            if(a==')' && open==0)
+                continue;
+            if(a=='(')
+                ++open;
+            else if(a==')')
+                --open;
+            res.append(1,a);
+        }
+        s = res;
+        res.clear();
+        reverse(s.begin(),s.end());
+        int close=0;
+        for(auto a:s)
+        {
+           
+            if(a=='(' && close==0)
+                continue;
+            if(a==')')
+                ++close;
+            else if(a=='(')
+                --close;
+            res.append(1,a);
+        }
+        reverse(res.begin(),res.end());
+        
+        return res;
+        
+    }
+    // another inplace solution
+    string minRemoveToMakeValid(string s) {
+        int n=s.length();
+        // Step 1 : Iterate from start
+        int count=0; 
+        for(int i=0;i<n;++i){
+            if(s[i]=='('){ // for open bracket
+                ++count;
+            }
+            else if(s[i]==')'){ // for close bracket
+                if(count==0){  // if no. of close brackets > no. of open brackets
+                    s[i]='#';
+                }
+                else{
+                    // if matching parentheses found decrease count
+                    --count;
+                }
+            }
+        }
+        
+        // Step 2 : Iterate from end
+        count=0;
+        for(int i=n-1;i>=0;--i){
+            if(s[i]==')'){ // for close bracket
+                ++count;
+            }
+            else if(s[i]=='('){ // for open bracket
+                if(count==0){ // if no. of open brackets > no. of close brackets
+                    s[i]='#';
+                }
+                else{
+                    // if matching parentheses found decrease count
+                    --count;
+                }
+            }
+        }
+        
+        // Step 3 : Create "ans" by ignoring the special characters '#'
+        string ans="";
+        for(int i=0;i<n;++i){
+            if(s[i]!='#'){ 
+                ans.push_back(s[i]);
+            }
+        }
+        return ans;
+    }
+};
