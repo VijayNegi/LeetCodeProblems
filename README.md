@@ -117,6 +117,7 @@
 |902|[ Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[C++](./solutions/902.%20Numbers%20At%20Most%20N%20Given%20Digit%20Set.cpp)|0 ms|
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[C++](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.cpp)|28 ms|
 |932|[ Beautiful Array](https://leetcode.com/problems/beautiful-array/)|[C++](./solutions/932.%20Beautiful%20Array.cpp)|4 ms|
+|934|[ Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](./solutions/934.%20Shortest%20Bridge.cpp)|82 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./solutions/938.%20Range%20Sum%20of%20BST.cpp)|108 ms|
 |941|[ Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[C++](./solutions/941.%20Valid%20Mountain%20Array.cpp)|31 ms|
 |952|[ Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[C++](./solutions/952.%20Largest%20Component%20Size%20by%20Common%20Factor.cpp)|272 ms|
