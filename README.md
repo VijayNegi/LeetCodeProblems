@@ -157,6 +157,7 @@
 |1463|[ Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)|[C++](./solutions/1463.%20Cherry%20Pickup%20II.cpp)|101 ms|
 |1510|[ Stone Game IV](https://leetcode.com/problems/stone-game-iv/)|[C++](./solutions/1510.%20Stone%20Game%20IV.cpp)|40 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)|4 ms|
+|1673|[ Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[C++](./solutions/1673.%20Find%20the%20Most%20Competitive%20Subsequence.cpp)|263 ms|
 |1834|[ Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|[C++](./solutions/1834.%20Single-Threaded%20CPU.cpp)|656 ms|
 |1900|[ The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/)|[C++](./solutions/1900.%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.cpp)|0 ms|
 |2085|[ Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[C++](./solutions/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.cpp)|36 ms|
