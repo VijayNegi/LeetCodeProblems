@@ -11,55 +11,44 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode* head;
-        int n = lists.size();
-        if(n==0)
+        if(lists.empty())
             return nullptr;
-        else if(n==1)
-            return lists[0];
-        head = lists[0];
-        for(int i=1;i<n;++i)
-            head = merge(head,lists[i]);
-​
-        return head;
-    }
-    ListNode* merge(ListNode* l1,ListNode* l2)
-    {
-        if(l2==nullptr)
-            return l1;
-        else if(l1== nullptr)
-            return l2;
-        
-        ListNode *head,*c1,*c2;
-        if(l1->val <= l2->val)
+        function<ListNode*(ListNode*,ListNode*)> merge = [](ListNode* l1,ListNode* l2)
         {
-            c1 = l1;
-            c2 = l2;
-        }
-        else
-        {
-            c1 = l2;
-            c2 = l1;
-        }
-        head = c1;
-        
-        while(c1->next && c2)
-        {
-            if(c1->next->val <= c2->val)
+            ListNode d;
+            ListNode* curr = &d;
+            
+            while(l1 && l2)
             {
-                c1 = c1->next;
+                if(l1->val <= l2->val)
+                {
+                    curr->next = l1;
+                    l1 = l1->next;
+                }
+                else
+                {
+                    curr->next = l2;
+                    l2 = l2->next;
+                }
+                curr = curr->next;
             }
-            else
-            {
-                ListNode* temp = c1->next;
-                c1->next = c2;
-                c2 = c2->next;
-                c1->next->next = temp;
-            }
-        }
-        if(c2)
-            c1->next = c2;
+            if(l1)
+                curr->next = l1;
+            if(l2)
+                curr->next = l2;
+            return d.next;
+        };
         
-        return head;
-    }
-};
+        vector<ListNode*> res;
+        while(lists.size()>1)
+        {
+            ListNode* l1 = lists.back();
+            lists.pop_back();
+            ListNode* l2 = lists.back();
+            lists.pop_back();
+            res.push_back(merge(l1,l2));
+            if(lists.size()==1)
+            {
+                res.push_back(lists.back());
+                lists.pop_back();
+            }
