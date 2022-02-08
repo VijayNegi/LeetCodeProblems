@@ -68,6 +68,7 @@
 |239|[ Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](./solutions/239.%20Sliding%20Window%20Maximum.cpp)|637 ms|
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./solutions/240.%20Search%20a%202D%20Matrix%20II.cpp)|218 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./solutions/242.%20Valid%20Anagram.cpp)|4 ms|
+|258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./solutions/258.%20Add%20Digits.cpp)|0 ms|
 |260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](./solutions/260.%20Single%20Number%20III.cpp)|4 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|22 ms|
 |290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](./solutions/290.%20Word%20Pattern.cpp)|0 ms|
