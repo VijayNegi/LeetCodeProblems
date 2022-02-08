@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Targens algorithm
+    // Tarjans algorithm
     vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
         // build adjacency list
         vector<vector<int>> adj(n);
