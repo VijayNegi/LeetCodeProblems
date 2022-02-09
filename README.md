@@ -104,6 +104,7 @@
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./solutions/476.%20Number%20Complement.cpp)|0 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](./solutions/520.%20Detect%20Capital.cpp)|0 ms|
 |525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[C++](./solutions/525.%20Contiguous%20Array.cpp)|257 ms|
+|532|[ K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[C++](./solutions/532.%20K-diff%20Pairs%20in%20an%20Array.cpp)|37 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.js)|68 ms|
 |546|[ Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](./solutions/546.%20Remove%20Boxes.cpp)|164 ms|
 |563|[ Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[C++](./solutions/563.%20Binary%20Tree%20Tilt.cpp)|29 ms|
