@@ -1,8 +1,8 @@
 class Solution {
 public:
+    // two pointer : nlogn , 8 ms
     int findPairs1(vector<int>& nums, int k) {
         sort(nums.begin(),nums.end());
-        
         int n = nums.size();
         int l=0,r=1;
         int result = 0;
@@ -27,6 +27,7 @@ public:
         }
         return result;
     }
+    // hashmap : O(n) , 32 ms
     int findPairs(vector<int>& nums, int k) {
         unordered_map<int,int> a;
         for(int i:nums)
