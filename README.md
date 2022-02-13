@@ -21,6 +21,7 @@
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[C++](./solutions/67.%20Add%20Binary.cpp)|4 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20Stairs.cpp)|5 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|8 ms|
+|78|[ Subsets](https://leetcode.com/problems/subsets/)|[C++](./solutions/78.%20Subsets.cpp)|3 ms|
 |79|[ Word Search](https://leetcode.com/problems/word-search/)|[C++](./solutions/79.%20Word%20Search.cpp)|192 ms|
 |80|[ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++](./solutions/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cpp)|11 ms|
 |84|[ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./solutions/84.%20Largest%20Rectangle%20in%20Histogram.cpp)|116 ms|
