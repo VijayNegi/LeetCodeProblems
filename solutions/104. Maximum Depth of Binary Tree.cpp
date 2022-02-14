@@ -11,7 +11,8 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
+    // old
+    int maxDepth0(TreeNode* root) {
         
         int height = 0;
         function<void(TreeNode*,int)> traverse = [&](TreeNode* node,int h){
@@ -24,5 +25,11 @@ public:
         };
         traverse(root,1);
         return height;
+    }
+    //new
+    int maxDepth(TreeNode* root) {    
+        if(!root)
+            return 0;
+        return max(maxDepth(root->left), maxDepth(root->right)) +1;
     }
 };
