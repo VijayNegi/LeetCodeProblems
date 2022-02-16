@@ -82,6 +82,7 @@
 |312|[ Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](./solutions/312.%20Burst%20Balloons.cpp)|504 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./solutions/322.%20Coin%20Change.cpp)|213 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](./solutions/328.%20Odd%20Even%20Linked%20List.cpp)|12 ms|
+|332|[ Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[C++](./solutions/332.%20Reconstruct%20Itinerary.cpp)|35 ms|
 |337|[ House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./solutions/337.%20House%20Robber%20III.cpp)|21 ms|
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./solutions/338.%20Counting%20Bits.cpp)|4 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|12 ms|
