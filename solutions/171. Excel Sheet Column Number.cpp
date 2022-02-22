@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int titleToNumber(string columnTitle) {
+    int titleToNumber1(string columnTitle) {
         int n = columnTitle.size();
         int number = 0;
         long mul = 1;
@@ -11,5 +11,11 @@ public:
             mul *= 26;
         }
         return number;
+    }
+    int titleToNumber(string columnTitle) {
+        int colNum = 0;
+        for(auto &x: columnTitle)
+            colNum = ((26 * colNum) + (x - 'A' + 1));
+        return colNum;
     }
 };
