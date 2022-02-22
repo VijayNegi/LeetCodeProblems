@@ -17,5 +17,5 @@ public:
             res += "/" + s;
         
         return stack.empty() ? "/" : res;
-    }
+    }
 };
