@@ -56,14 +56,3 @@ public:
         {
             auto t = q.front();
             q.pop_front();
-            --level;
-           
-            if(t)
-            {
-                q.push_back(t->left);
-                q.push_back(t->right);
-            }
-            else
-            {
-                q.push_back(nullptr);
-                q.push_back(nullptr);
