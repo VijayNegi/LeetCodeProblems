@@ -1,30 +1,23 @@
 class Solution {
 public:
-    // self : 4ms
     vector<int> countBits1(int n) {
-        vector<int> res(n+1,0);
+        vector<int> result(n+1,0);
         if(n==0)
-            return res;
-        res[1] = 1;
-        
-        int low = 2;
-        int high = 1<<2;
-            
-        int i=0;
-        while(low<=n)
+            return result;
+        result[1]=1;
+        int k=2,i=2,j=0;
+        while(i<=n)
         {
-            res[low] = res[i] +1;
-            ++low;
-            ++i;
-            if(low == high)
+            if(j>=k)
             {
-                high = high << 1;
-                i=0;
+                j=0;
+                k*=2;
             }
+            result[i++] = result[j++]+1;
         }
-        return res;
+        return result;
     }
-    // shifting by one to right(multiply by 2) doesnt increase bit count. shiftring to left(divide by 2) will only decrease bit count by one if no is odd.
+        // shifting by one to right(multiply by 2) doesnt increase bit count. shiftring to left(divide by 2) will only decrease bit count by one if no is odd.
     vector<int> countBits2(int n) {
          
         vector<int> res(n+1,0);
@@ -39,5 +32,5 @@ public:
             ret[i] = ret[i&(i-1)] + 1;
         return ret;
     }
-    
 };
+​
