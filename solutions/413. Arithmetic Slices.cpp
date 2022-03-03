@@ -17,7 +17,7 @@ public:
         }
         return result;
     }
-    // o(n) solution
+    // o(n) solution i.e. add solutions ending at current numbers
     int numberOfArithmeticSlices(vector<int>& nums) {
         int n = nums.size();
         if (n<3){
