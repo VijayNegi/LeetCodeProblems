@@ -235,3 +235,4 @@
 |2134|[ Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)|[C++](./solutions/2134.%20Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II.cpp)|80 ms|
 |2135|[ Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)|[C++](./solutions/2135.%20Count%20Words%20Obtained%20After%20Adding%20a%20Letter.cpp)|268 ms|
 |2136|[ Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)|[C++](./solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom.cpp)|523 ms|
+|2190|[ Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)|[C++](./solutions/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.cpp)|23 ms|
