@@ -1,52 +1,28 @@
+// https://leetcode.com/problems/remove-invalid-parentheses/discuss/75046/C%2B%2B-Depth-limited-DFS-3ms.-Eliminate-duplicates-without-hashmap.
 class Solution {
-    set<string> res;
+private:
+    bool isValid(string s) {
+        int sum = 0;
+        for(char &c : s) {
+            if(c == '(') ++sum;
+            else if(c == ')') --sum;
+            if(sum < 0) return false;
+        }
+        return sum == 0;
+    }
 public:
-    //  (( )( ) 
-    void removeOpen(string s,int i, vector<int> inO,vector<int> inC)
-    {
-        //cout<<"rOpen "<<s<<endl;
-        if(i>= inO.size())
-        {
-            removeClose(s,0,inO,inC);
-        }
-        else
-        {
-            int ii = inO[i];
-            //ii += i;
-            for(int k=s.size()-1;k>=ii;--k)
-            {
-                if(s[k]=='(')
-                {
-                    string p = s;
-                     removeOpen(p.erase(k,1),i+1,inO,inC); 
-                }
-            }
-        }
-    }
-    
-    void removeClose(string s,int i, vector<int> inO,vector<int> inC)
-    {
-        //cout<<"rClose "<<s<<endl;
-        if(i>= inC.size())
-            res.insert(s);
-        else
-        {
-            int ii = inC[i];
-            ii -= i; // indexes are based on original string , so just compensating for it
-            for(int k=0;k<=ii;++k)
-            {
-                if(s[k]==')')
-                {
-                    string p = s;
-                    p.erase(k,1);
-                     removeClose(p,i+1,inO,inC); 
-                }
-            }
-        }
-            
-    }
-    
     vector<string> removeInvalidParentheses(string s) {
-        int n = s.size();
-        vector<int> opn;
-        vector<int> clo;
+        int num1 = 0, num2 = 0;
+        for(char &c : s) {
+            num1 += c == '(';
+            if (num1 == 0) {
+                num2 += c == ')';
+            } else {
+                num1 -= c == ')';
+            }
+        }
+        vector<string> ret;
+        dfs(s, 0, num1, num2, ret);
+        return ret;
+    }
+    void dfs(string s, int beg, int num1, int num2, vector<string> &ret) {
