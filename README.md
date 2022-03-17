@@ -93,6 +93,7 @@
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./solutions/258.%20Add%20Digits.cpp)|5 ms|
 |260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](./solutions/260.%20Single%20Number%20III.cpp)|4 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|22 ms|
+|278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./solutions/278.%20First%20Bad%20Version.cpp)|0 ms|
 |290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](./solutions/290.%20Word%20Pattern.cpp)|0 ms|
 |297|[ Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](./solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.cpp)|102 ms|
 |299|[ Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C++](./solutions/299.%20Bulls%20and%20Cows.cpp)|3 ms|
