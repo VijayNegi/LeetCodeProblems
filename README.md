@@ -256,3 +256,4 @@
 |2190|[ Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)|[C++](./solutions/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.cpp)|23 ms|
 |2191|[ Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)|[C++](./solutions/2191.%20Sort%20the%20Jumbled%20Numbers.cpp)|180 ms|
 |2192|[ All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)|[C++](./solutions/2192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.cpp)|662 ms|
+|2206|[ Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|[C++](./solutions/2206.%20Divide%20Array%20Into%20Equal%20Pairs.cpp)|19 ms|
