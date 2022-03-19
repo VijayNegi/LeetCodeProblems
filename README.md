@@ -259,3 +259,4 @@
 |2206|[ Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|[C++](./solutions/2206.%20Divide%20Array%20Into%20Equal%20Pairs.cpp)|19 ms|
 |2207|[ Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)|[C++](./solutions/2207.%20Maximize%20Number%20of%20Subsequences%20in%20a%20String.cpp)|55 ms|
 |2208|[ Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|[C++](./solutions/2208.%20Minimum%20Operations%20to%20Halve%20Array%20Sum.cpp)|319 ms|
+|2209|[ Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)|[C++](./solutions/2209.%20Minimum%20White%20Tiles%20After%20Covering%20With%20Carpets.cpp)|1654 ms|
