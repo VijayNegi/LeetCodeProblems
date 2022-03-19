@@ -172,6 +172,7 @@
 |875|[ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./solutions/875.%20Koko%20Eating%20Bananas.cpp)|73 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](./solutions/876.%20Middle%20of%20the%20Linked%20List.cpp)|4 ms|
 |878|[ Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[C++](./solutions/878.%20Nth%20Magical%20Number.cpp)|0 ms|
+|895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./solutions/895.%20Maximum%20Frequency%20Stack.cpp)|206 ms|
 |902|[ Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[C++](./solutions/902.%20Numbers%20At%20Most%20N%20Given%20Digit%20Set.cpp)|0 ms|
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[C++](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.cpp)|28 ms|
 |932|[ Beautiful Array](https://leetcode.com/problems/beautiful-array/)|[C++](./solutions/932.%20Beautiful%20Array.cpp)|4 ms|
