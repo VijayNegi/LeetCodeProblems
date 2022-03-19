@@ -258,3 +258,4 @@
 |2192|[ All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)|[C++](./solutions/2192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph.cpp)|662 ms|
 |2206|[ Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|[C++](./solutions/2206.%20Divide%20Array%20Into%20Equal%20Pairs.cpp)|19 ms|
 |2207|[ Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)|[C++](./solutions/2207.%20Maximize%20Number%20of%20Subsequences%20in%20a%20String.cpp)|55 ms|
+|2208|[ Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|[C++](./solutions/2208.%20Minimum%20Operations%20to%20Halve%20Array%20Sum.cpp)|319 ms|
