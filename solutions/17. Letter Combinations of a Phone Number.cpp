@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<string> letterCombinations(string digits) {
+    vector<string> letterCombinations1(string digits) {
         vector<string> m{"", "","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         vector<string> result;
         string s;
@@ -24,4 +24,16 @@ public:
         dfs(0);
         return result;
     }
+    vector<string> letterCombinations(string digits) {
+            if(digits == "") return {};
+            vector<string> mappings{"abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"}, ans{""};
+            for(auto digit : digits){
+                vector<string> extendCombination;
+                for(auto& currentCombination : ans)
+                    for(auto newChar : mappings[digit - '2'])
+                        extendCombination.push_back(currentCombination + newChar);                            
+                ans = move(extendCombination);
+            }
+            return ans;
+        }
 };
