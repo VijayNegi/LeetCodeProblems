@@ -220,7 +220,7 @@
 |1305|[ All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[C++](./solutions/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp)|306 ms|
 |1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[C++](./solutions/1306.%20Jump%20Game%20III.cpp)|40 ms|
 |1334|[ Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)|[C++](./solutions/1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp)|96 ms|
-|1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C++](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|11 ms|
+|1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C++](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|26 ms|
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[C++](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.cpp)|116 ms|
 |1345|[ Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[C++](./solutions/1345.%20Jump%20Game%20IV.cpp)|343 ms|
 |1359|[ Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[C++](./solutions/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)|0 ms|
