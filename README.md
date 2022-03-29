@@ -102,6 +102,7 @@
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|22 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./solutions/278.%20First%20Bad%20Version.cpp)|0 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./solutions/283.%20Move%20Zeroes.cpp)|16 ms|
+|287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|135 ms|
 |290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](./solutions/290.%20Word%20Pattern.cpp)|0 ms|
 |297|[ Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](./solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.cpp)|102 ms|
 |299|[ Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C++](./solutions/299.%20Bulls%20and%20Cows.cpp)|3 ms|
