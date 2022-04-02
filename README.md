@@ -280,3 +280,4 @@
 |2207|[ Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)|[C++](./solutions/2207.%20Maximize%20Number%20of%20Subsequences%20in%20a%20String.cpp)|55 ms|
 |2208|[ Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)|[C++](./solutions/2208.%20Minimum%20Operations%20to%20Halve%20Array%20Sum.cpp)|319 ms|
 |2209|[ Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)|[C++](./solutions/2209.%20Minimum%20White%20Tiles%20After%20Covering%20With%20Carpets.cpp)|1654 ms|
+|2220|[ Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)|[C++](./solutions/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp)|0 ms|
