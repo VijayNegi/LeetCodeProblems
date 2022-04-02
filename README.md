@@ -283,3 +283,4 @@
 |2220|[ Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)|[C++](./solutions/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp)|0 ms|
 |2221|[ Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[C++](./solutions/2221.%20Find%20Triangular%20Sum%20of%20an%20Array.cpp)|297 ms|
 |2222|[ Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/)|[C++](./solutions/2222.%20Number%20of%20Ways%20to%20Select%20Buildings.cpp)|204 ms|
+|2223|[ Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/)|[C++](./solutions/2223.%20Sum%20of%20Scores%20of%20Built%20Strings.cpp)|80 ms|
