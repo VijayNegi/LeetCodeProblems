@@ -87,6 +87,7 @@
 |211|[ Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[C++](./solutions/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp)|72 ms|
 |212|[ Word Search II](https://leetcode.com/problems/word-search-ii/)|[C++](./solutions/212.%20Word%20Search%20II.cpp)|492 ms|
 |214|[ Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[C++](./solutions/214.%20Shortest%20Palindrome.cpp)|12 ms|
+|215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C++](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)|268 ms|
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C++](./solutions/217.%20Contains%20Duplicate.cpp)|109 ms|
 |221|[ Maximal Square](https://leetcode.com/problems/maximal-square/)|[C++](./solutions/221.%20Maximal%20Square.cpp)|20 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./solutions/226.%20Invert%20Binary%20Tree.cpp)|0 ms|
