@@ -218,6 +218,7 @@
 |1029|[ Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[C++](./solutions/1029.%20Two%20City%20Scheduling.cpp)|3 ms|
 |1032|[ Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[C++](./solutions/1032.%20Stream%20of%20Characters.cpp)|264 ms|
 |1041|[ Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](./solutions/1041.%20Robot%20Bounded%20In%20Circle.cpp)|0 ms|
+|1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](./solutions/1046.%20Last%20Stone%20Weight.cpp)|0 ms|
 |1094|[ Car Pooling](https://leetcode.com/problems/car-pooling/)|[C++](./solutions/1094.%20Car%20Pooling.cpp)|8 ms|
 |1178|[ Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[C++](./solutions/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle.cpp)|1952 ms|
 |1192|[ Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)|[C++](./solutions/1192.%20Critical%20Connections%20in%20a%20Network.cpp)|992 ms|
