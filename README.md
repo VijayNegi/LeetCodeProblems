@@ -154,6 +154,7 @@
 |461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[JavaScript](./solutions/461.%20Hamming%20Distance.js)|72 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./solutions/476.%20Number%20Complement.cpp)|0 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](./solutions/520.%20Detect%20Capital.cpp)|0 ms|
+|523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](./solutions/523.%20Continuous%20Subarray%20Sum.cpp)|231 ms|
 |525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[C++](./solutions/525.%20Contiguous%20Array.cpp)|257 ms|
 |532|[ K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[C++](./solutions/532.%20K-diff%20Pairs%20in%20an%20Array.cpp)|31 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.js)|68 ms|
