@@ -1,7 +1,3 @@
-class Solution {
-public:
-    // nlogn
-    vector<int> topKFrequent1(vector<int>& nums, int k) {
         unordered_map<int,int> count;
         
         for(auto& n:nums)
@@ -53,7 +49,7 @@ public:
         return result;
     }
     // O(n) : 12 ms , note : other solution is quickselect which is also O(n) but little complex to impl
-    vector<int> topKFrequent(vector<int>& nums, int k) {
+    vector<int> topKFrequent3(vector<int>& nums, int k) {
         unordered_map<int,int> count;
         for(auto& n:nums)
             count[n]++;
@@ -78,4 +74,16 @@ public:
         return result;
     }
     
-};
+    //quick-select: 20ms
+    vector<int> topKFrequent(vector<int>& nums, int k) {
+        unordered_map<int,int> mp;
+        for(auto n:nums)
+            mp[n]++;
+        vector<int> t;
+        for(auto it:mp)
+            t.push_back(it.first);
+        if(k==t.size())
+            return t;
+        int l=0,r=t.size()-1;
+        while(true)
+        {
