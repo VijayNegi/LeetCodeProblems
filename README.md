@@ -172,6 +172,7 @@
 |664|[ Strange Printer](https://leetcode.com/problems/strange-printer/)|[C++](./solutions/664.%20Strange%20Printer.cpp)|106 ms|
 |668|[ Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[C++](./solutions/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)|16 ms|
 |680|[ Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](./solutions/680.%20Valid%20Palindrome%20II.cpp)|57 ms|
+|682|[ Baseball Game](https://leetcode.com/problems/baseball-game/)|[C++](./solutions/682.%20Baseball%20Game.cpp)|4 ms|
 |686|[ Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[C++](./solutions/686.%20Repeated%20String%20Match.cpp)|1290 ms|
 |687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[C++](./solutions/687.%20Longest%20Univalue%20Path.cpp)|229 ms|
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)|88 ms|
