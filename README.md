@@ -215,6 +215,7 @@
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|24 ms|
 |980|[ Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[C++](./solutions/980.%20Unique%20Paths%20III.cpp)|4 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|32 ms|
+|987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|4 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[C++](./solutions/991.%20Broken%20Calculator.cpp)|0 ms|
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[C++](./solutions/997.%20Find%20the%20Town%20Judge.cpp)|282 ms|
 |1000|[ Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[C++](./solutions/1000.%20Minimum%20Cost%20to%20Merge%20Stones.cpp)|7 ms|
