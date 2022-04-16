@@ -305,3 +305,4 @@
 |2239|[ Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)|[C++](./solutions/2239.%20Find%20Closest%20Number%20to%20Zero.cpp)|28 ms|
 |2240|[ Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)|[C++](./solutions/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.cpp)|12 ms|
 |2241|[ Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/)|[C++](./solutions/2241.%20Design%20an%20ATM%20Machine.cpp)|694 ms|
+|2242|[ Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)|[C++](./solutions/2242.%20Maximum%20Score%20of%20a%20Node%20Sequence.cpp)|502 ms|
