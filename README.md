@@ -201,6 +201,7 @@
 |878|[ Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[C++](./solutions/878.%20Nth%20Magical%20Number.cpp)|0 ms|
 |881|[ Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[C++](./solutions/881.%20Boats%20to%20Save%20People.cpp)|108 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./solutions/895.%20Maximum%20Frequency%20Stack.cpp)|206 ms|
+|897|[ Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[C++](./solutions/897.%20Increasing%20Order%20Search%20Tree.cpp)|0 ms|
 |902|[ Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[C++](./solutions/902.%20Numbers%20At%20Most%20N%20Given%20Digit%20Set.cpp)|0 ms|
 |923|[ 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[C++](./solutions/923.%203Sum%20With%20Multiplicity.cpp)|10 ms|
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[C++](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.cpp)|28 ms|
