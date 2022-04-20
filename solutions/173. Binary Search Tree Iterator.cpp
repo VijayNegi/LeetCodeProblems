@@ -10,34 +10,30 @@
  * };
  */
 class BSTIterator {
-    stack<TreeNode*> stk;
-    //TreeNode* curr;
+    vector<TreeNode*> stk;
 public:
     BSTIterator(TreeNode* root) {
-        TreeNode* curr = root;
-        while(curr)
-        {
-            stk.push(curr);
-            curr = curr->left;
-        }
-        
+        pushLeft(root);
     }
     
     int next() {
-        
-        TreeNode* node = stk.top();
-        stk.pop();
-        TreeNode* curr = node->right;
-        while(curr)
-        {
-            stk.push(curr);
-            curr = curr->left;
-        }
+        TreeNode* node = stk.back();
+        stk.pop_back();
+        pushLeft(node->right);
         return node->val;
     }
     
     bool hasNext() {
         return !stk.empty();
+    }
+private:
+    void pushLeft(TreeNode* node)
+    {
+        while(node)
+        {
+            stk.push_back(node);
+            node = node->left;
+        }
     }
 };
 ​
