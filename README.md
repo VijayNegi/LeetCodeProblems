@@ -187,6 +187,7 @@
 |703|[ Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[C++](./solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp)|79 ms|
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[C++](./solutions/704.%20Binary%20Search.cpp)|46 ms|
 |705|[ Design HashSet](https://leetcode.com/problems/design-hashset/)|[C++](./solutions/705.%20Design%20HashSet.cpp)|70 ms|
+|706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|272 ms|
 |721|[ Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[C++](./solutions/721.%20Accounts%20Merge.cpp)|92 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./solutions/739.%20Daily%20Temperatures.cpp)|204 ms|
 |740|[ Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[C++](./solutions/740.%20Delete%20and%20Earn.cpp)|9 ms|
