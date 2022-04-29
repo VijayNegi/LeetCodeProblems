@@ -196,6 +196,7 @@
 |743|[ Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[C++](./solutions/743.%20Network%20Delay%20Time.cpp)|151 ms|
 |753|[ Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)|[C++](./solutions/753.%20Cracking%20the%20Safe.cpp)|4 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[C++](./solutions/763.%20Partition%20Labels.cpp)|4 ms|
+|785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[C++](./solutions/785.%20Is%20Graph%20Bipartite%3F.cpp)|27 ms|
 |790|[ Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[C++](./solutions/790.%20Domino%20and%20Tromino%20Tiling.cpp)|0 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[C++](./solutions/796.%20Rotate%20String.cpp)|0 ms|
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[C++](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|12 ms|
