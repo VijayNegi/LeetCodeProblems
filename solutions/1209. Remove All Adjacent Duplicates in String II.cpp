@@ -5,7 +5,7 @@ public:
         for(auto c:s)
         {
             if(stk.size() && stk.back().first == c)
-            {
+            {
                 int val = stk.back().second +1 ;
                 if(val>=k)
                     val = val - k;
@@ -13,7 +13,7 @@ public:
                     stk.back().second = val;
                 else
                     stk.pop_back();
-            }
+            }
             else
             {
                 stk.push_back({c,1});
