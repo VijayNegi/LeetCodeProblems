@@ -129,6 +129,7 @@
 |336|[ Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[C++](./solutions/336.%20Palindrome%20Pairs.cpp)|N/A|
 |337|[ House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./solutions/337.%20House%20Robber%20III.cpp)|21 ms|
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./solutions/338.%20Counting%20Bits.cpp)|14 ms|
+|341|[ Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](./solutions/341.%20Flatten%20Nested%20List%20Iterator.cpp)|25 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|31 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|42 ms|
 |368|[ Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](./solutions/368.%20Largest%20Divisible%20Subset.cpp)|32 ms|
