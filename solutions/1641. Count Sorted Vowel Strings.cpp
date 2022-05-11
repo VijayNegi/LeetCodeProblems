@@ -19,7 +19,7 @@ public:
         return result;
     }
     // combination version
-    int countVowelStrings(int n) {
+    int countVowelStrings2(int n) {
 //                a  e  i  o  u
 //     initialy: {1, 1, 1, 1, 1}   
 //      n == 1 : {5, 4, 3, 2, 1}   
@@ -34,5 +34,10 @@ public:
                 permutation[j] += permutation[j+1] ;
            
         return permutation[0];
+    }
+    
+    // math
+    int countVowelStrings(int n) {
+        return (n + 1) * (n + 2) * (n + 3) * (n + 4) / 24;
     }
 };
