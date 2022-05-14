@@ -1,53 +1,31 @@
-using pi = pair<int,int>;
 class Solution {
 public:
-    // 3 algos , djkastra, bellman ford, floyd warshell
-    // 1. djkastra
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        // prepare adjacency list 
-        vector<vector<pi>> adj(n+1);
-        vector<int > dist(n+1,INT_MAX);
-        vector<bool> visited(n+1,false);
-        dist[k] = 0;
-        auto cmp = [](pi left,pi right){return left.second > right.second;};
-        priority_queue<pi,vector<pi>, decltype(cmp)> pq(cmp);
-        
+        vector<vector<pair<int,int>>> adj(n+1);
         for(auto v: times)
-        {
             adj[v[0]].push_back({v[1],v[2]});
-        }
         
-        pq.push({k,0});
-        
-        while(!pq.empty())
-        {
-            pi v = pq.top();
+        vector<bool> visited(n+1,false);
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<> > pq;
+        int maxTime=0;
+        int count=0;
+        pq.push({0,k});
+        while(!pq.empty()){
+            auto p = pq.top();
             pq.pop();
-            if(visited[v.first])
+            int node = p.second;
+            int time = p.first;
+            if(visited[node])
                 continue;
-            visited[v.first] = true;
-            for(auto n: adj[v.first])
-            {
-                if(visited[n.first])
-                    continue;
-                if(dist[n.first] > (dist[v.first]+ n.second))
-                {
-                    dist[n.first] = dist[v.first]+ n.second;
-                    pq.push({n.first,dist[n.first]});
-                }
-                    
-            }
+            visited[node] = true;
+            ++count;
+            maxTime =  max(time,maxTime);
+            for(auto e: adj[node]) 
+                if(!visited[e.first]) 
+                    pq.push({e.second + time,e.first});
         }
-​
-        int res=0;
-        for(int i=1;i<n+1;++i)
-        {
-            res = max(dist[i],res);
-        }
-        
-        if(res==INT_MAX)
-            return -1;
-        return res;
-        
+        if(count==n)
+            return maxTime;
+        return -1;
     }
 };
