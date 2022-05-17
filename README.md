@@ -272,6 +272,7 @@
 |1345|[ Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[C++](./solutions/1345.%20Jump%20Game%20IV.cpp)|343 ms|
 |1359|[ Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[C++](./solutions/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)|0 ms|
 |1376|[ Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[C++](./solutions/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.cpp)|248 ms|
+|1379|[ Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[C++](./solutions/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.cpp)|760 ms|
 |1392|[ Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)|[C++](./solutions/1392.%20Longest%20Happy%20Prefix.cpp)|28 ms|
 |1396|[ Design Underground System](https://leetcode.com/problems/design-underground-system/)|[C++](./solutions/1396.%20Design%20Underground%20System.cpp)|252 ms|
 |1397|[ Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/)|[C++](./solutions/1397.%20Find%20All%20Good%20Strings.cpp)|1244 ms|
