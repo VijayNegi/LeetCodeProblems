@@ -1,3 +1,13 @@
+​
+class Solution {
+public:
+    // self : 4ms
+    int minDeletionSize1(vector<string>& strs) {
+        int n = strs[0].size();
+        int strn = strs.size();
+        vector<int> skip(strn,false); // skip comparison
+        int result=0;
+        for(int i=0;i<n;++i) {
             int j;
             bool next = false;
             vector<int> temp(strn,false); 
