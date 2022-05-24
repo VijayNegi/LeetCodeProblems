@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // self : 12ms
     int longestValidParentheses(string s) {
         int n = s.size();
         vector<int> pos;
@@ -20,7 +21,7 @@ public:
                     pre[i] = len;
                 }
             }
-        }
+        }
         return result;
     }
 };
