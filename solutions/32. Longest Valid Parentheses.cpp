@@ -1,26 +1,3 @@
-class Solution {
-public:
-    // self : 12ms
-    int longestValidParentheses1(string s) {
-        int n = s.size();
-        vector<int> pos;
-        int result = 0;
-        vector<int> pre(n,0);
-        for(int i=0;i<n;++i) {
-            if(s[i]=='(')
-                pos.push_back(i);
-            else {
-                if(!pos.empty()) {
-                    int l = pos.back();
-                    pos.pop_back();
-                    int len = i - l +1;
-                
-                    if(l>0 && pre[l-1]>0)
-                        len += pre[l-1];
-                    result = max(result,len);
-                    pre[i] = len;
-                }
-            }
         }
         return result;
     }
@@ -43,7 +20,7 @@ public:
         return maxL;
     }
     // dp : 3 ms
-    int longestValidParentheses(string s) {
+    int longestValidParentheses3(string s) {
         int maxans = 0;
         int n = s.size();
         vector<int> dp(n,0);
@@ -59,7 +36,34 @@ public:
             }
         }
         return maxans;
-    
+    }
+    // space optimized : 3ms
+    int longestValidParentheses(string s) {
+        int sum = 0, res = 0, len = 0, n = s.size();
+        for (int i = 0; i < n; i++) {
+            if (s[i] == '(') sum++;
+            else sum--;
+            if (sum < 0) {
+                sum = 0;
+                len = 0;
+            } else {
+                len++;
+                if (sum == 0) res = max(res, len);
+            }
+        }
+        sum = 0, len=0;
+        for (int i = n - 1; i >= 0; i--) {
+            if (s[i] == ')') sum++;
+            else sum--;
+            if (sum < 0) {
+                sum = 0;
+                len = 0;
+            } else {
+                len++;
+                if (sum == 0) res = max(res, len);
+            }
+        }
+        return res;
     }
     
 };
