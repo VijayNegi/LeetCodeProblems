@@ -138,6 +138,7 @@
 |341|[ Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](./solutions/341.%20Flatten%20Nested%20List%20Iterator.cpp)|25 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|31 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|42 ms|
+|354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](./solutions/354.%20Russian%20Doll%20Envelopes.cpp)|525 ms|
 |368|[ Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](./solutions/368.%20Largest%20Divisible%20Subset.cpp)|32 ms|
 |371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](./solutions/371.%20Sum%20of%20Two%20Integers.cpp)|0 ms|
 |382|[ Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[C++](./solutions/382.%20Linked%20List%20Random%20Node.cpp)|49 ms|
