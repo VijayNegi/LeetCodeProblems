@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // dfs : 23ms
+    // consider ball as deflected as light not as roll and determine next column and row
     vector<int> findBall(vector<vector<int>>& grid) {
         int rows = grid.size();
         int cols = grid[0].size();
