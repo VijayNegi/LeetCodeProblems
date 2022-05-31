@@ -1,48 +1,7 @@
-class Solution {
-public:
-    int divide1(int dividend, int divisor) {
-        long result=0;
-        bool sign = false;
-        if(dividend<0) sign = !sign;
-        if(divisor<0) sign = !sign;
-        long dvd = abs(dividend*1.0);
-        long dvr = abs(divisor*1.0);
-        long d = dvr;
-        long count=1;
-        while(dvd >= d)
-        {
-            if(dvd >= d)
-            {
-                dvd -=d;
-                result +=count;
-                d <<=1;
-                count<<=1;
-            }
-            if(d>dvd)
-            {
-                 d = dvr;
-                count=1;
-            }
-        }
-        result = sign? -1*result:result;
-        if(result >INT_MAX) return INT_MAX;
-        if(result < INT_MIN) return INT_MIN;
-        return result;
-    }
-    // Not working now
-    // https://leetcode.com/problems/divide-two-integers/discuss/142849/C%2B%2BJavaPython-Should-Not-Use-%22long%22-Int
-    int divide2(int A, int B) {
-        if (A == INT_MIN && B == -1) return INT_MAX;
-        int a = abs(A), b = abs(B), res = 0, x = 0;
-        while (a - b >= 0) {
-            for (x = 0; a - (b << x << 1) >= 0; x++);
-            res += 1 << x;
-            a -= b << x;
-        }
         return (A > 0) == (B > 0) ? res : -res;
     }
 ​
-    int divide(int dividend, int divisor) {
+    int divide3(int dividend, int divisor) {
         if (dividend == INT_MIN && divisor == -1) {
             return INT_MAX;
         }
@@ -58,5 +17,53 @@ public:
             ans += m;
         }
         return sign * ans;
+    }
+    // official solution
+    int divide(int dividend, int divisor) {
+                if (dividend == INT_MIN && divisor == -1) {
+            return INT_MAX;
+        }
+        
+        int negative = 2;
+        if(dividend > 0)
+        {
+            dividend = -dividend;
+            negative--;
+        }
+        
+        if(divisor > 0)
+        {
+            divisor = -divisor;
+            negative--;
+        }
+        
+        int quotient = 0;
+        
+        vector<int> powOfTwos;
+        vector<int> values;
+        
+        int powOfTwo = -1;
+        int value = divisor;
+        while(dividend <= value)
+        {
+            values.push_back(value);
+            powOfTwos.push_back(powOfTwo);
+            if (value < INT_MIN/2) {
+                break;
+            }
+            value *= 2;
+            powOfTwo *= 2;
+        }
+        
+        for(int i=values.size()-1; i>=0;i--)
+        {
+            if(dividend <= values[i])
+            {
+                dividend -= values[i];
+                quotient += powOfTwos[i];
+            }
+        }
+        
+        return (negative!= 1 ? -quotient: quotient);
     }
 };
