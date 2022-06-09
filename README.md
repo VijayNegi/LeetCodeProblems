@@ -81,6 +81,7 @@
 |153|[ Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](./solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|4 ms|
 |160|[ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](./solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.cpp)|57 ms|
 |165|[ Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[C++](./solutions/165.%20Compare%20Version%20Numbers.cpp)|0 ms|
+|167|[ Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](./solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)|27 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./solutions/169.%20Majority%20Element.cpp)|23 ms|
 |171|[ Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](./solutions/171.%20Excel%20Sheet%20Column%20Number.cpp)|4 ms|
 |173|[ Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[C++](./solutions/173.%20Binary%20Search%20Tree%20Iterator.cpp)|24 ms|
