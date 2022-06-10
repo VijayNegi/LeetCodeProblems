@@ -1,28 +1,22 @@
 class Solution {
 public:
-    //sliding window : 12 ms
     int lengthOfLongestSubstring1(string s) {
+        vector<bool> hash(256,false);
+        int result=0;
         int n = s.size();
-        int l=0,r;
-        int u = 0;
-        vector<int> dp(256,0);
-        for(r=0;r<n;++r)
-        {
-            char c = s[r];
-            ++dp[c];
-            if(dp[c]==1)
-                ++u;
-            
-            if(r+1-l > u)
-            {
-                if(--dp[s[l++]] == 0)
-                    --u;
+        int l=0,r=0;
+        while(r<n) {
+            if(!hash[s[r]]) {
+                hash[s[r++]] = true;
+                result = max(result, r-l);
+            }
+            else {
+                hash[s[l++]] = false;
             }
         }
-        
-        return r-l;
+        return result;
     }
-    // keep track of previous occurence. : 8 ms
+    // keep track of previous occurence.
     int lengthOfLongestSubstring(string s) {
         vector<int> dict(256, -1);
         int maxLen = 0, start = -1;
