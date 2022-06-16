@@ -1,55 +1,46 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
+        int len=0;
         int n = s.size();
-        vector<int> d1(n,0);
-        vector<int> d2(n,0);
-        int i,l,r;
-        // for odd centers
-        for(i=0,l=0,r=-1;i<n;++i)
-        {
-            int k = (i>r)? 1: min(d1[l+r-i],r-i+1);
-            while(i-k>=0 && i+k<n && s[i+k]==s[i-k])
-                ++k;
-            
-            d1[i] = k--;
-            
-            if(i+k>r)
-            {
-                r = i+k;
-                l = i-k;
+        string result;
+        for(int i=0;i<n;++i) {
+            int l=i,r=i;
+            while(l>=0 && r<n && s[l]==s[r]) --l,++r;
+            if(r-l-1>len) {
+                len = r-l-1;
+                result = s.substr(l+1,len);
+            }
+            l=i,r=i+1;
+            while(l>=0 && r<n && s[l]==s[r]) --l,++r;
+            if(r-l-1>len) {
+                len = r-l-1;
+                result = s.substr(l+1,len);
             }
         }
-        // for even centers
-        for(i=0,l=0,r=-1;i<n;++i)
-        {
-            int k = (i>r)? 0: min(d2[l+r-i+1],r-i+1);
-            while(i-k-1>=0 && i+k < n && s[i+k]==s[i-k-1])
-                ++k;
-            d2[i] = k--;
-            
-            if(i+k > r)
-            {
-                r = i+k;
-                l = i-k-1;
-            }
-        }
-        int maxLen = 0;
-        string res;
-        for(int i=0;i<n;++i)
-        {
-            if(2*d1[i]-1 > maxLen)
-            {
-                res = s.substr(i-d1[i]+1,2*d1[i]-1);
-                maxLen = 2*d1[i]-1;
-            }
-            if( 2*d2[i] > maxLen)
-            {
-                res = s.substr(i-d2[i],2*d2[i]);
-                maxLen = 2*d2[i];
-            }
-        }
+        return result;
+    }
+    string longestPalindrome(string s) {
+        string temp;
+        for(auto& c:s)
+            temp+= c + '#';
+        temp[temp.size()-1] = '^';
+        temp = "$" + temp;
         
-        return res;
+    }
+    vector<int> manacher_odd(string& s) {
+        int n = s.size();
+        string t = "$"+s+"^";
+        vector<int> p(n+2);
+        int l = 1, r = 1;
+        for(int i=1;i<=n;++i) {
+            p[i] = max(0,min(r-i,p[l+(r-i)]));
+            while(s[i-p[i]] == s[i+p[i]])
+                ++p[i];
+            if(i+p[i]>r) {
+                 l = i - p[i], r = i + p[i];
+            }
+        }
+         return vector<int>(begin(p) + 1, end(p) - 1);
     }
 };
