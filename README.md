@@ -246,6 +246,7 @@
 |952|[ Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[C++](./solutions/952.%20Largest%20Component%20Size%20by%20Common%20Factor.cpp)|272 ms|
 |954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[C++](./solutions/954.%20Array%20of%20Doubled%20Pairs.cpp)|76 ms|
 |955|[ Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)|[C++](./solutions/955.%20Delete%20Columns%20to%20Make%20Sorted%20II.cpp)|6 ms|
+|968|[ Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[C++](./solutions/968.%20Binary%20Tree%20Cameras.cpp)|18 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[C++](./solutions/973.%20K%20Closest%20Points%20to%20Origin.cpp)|228 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|24 ms|
 |980|[ Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[C++](./solutions/980.%20Unique%20Paths%20III.cpp)|4 ms|
