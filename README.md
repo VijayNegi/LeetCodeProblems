@@ -200,6 +200,7 @@
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|40 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|18 ms|
 |664|[ Strange Printer](https://leetcode.com/problems/strange-printer/)|[C++](./solutions/664.%20Strange%20Printer.cpp)|106 ms|
+|665|[ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[C++](./solutions/665.%20Non-decreasing%20Array.cpp)|20 ms|
 |668|[ Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[C++](./solutions/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)|16 ms|
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[C++](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.cpp)|19 ms|
 |680|[ Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](./solutions/680.%20Valid%20Palindrome%20II.cpp)|57 ms|
