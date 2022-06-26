@@ -307,6 +307,7 @@
 |1408|[ String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[C++](./solutions/1408.%20String%20Matching%20in%20an%20Array.cpp)|4 ms|
 |1413|[ Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[C++](./solutions/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)|0 ms|
 |1414|[ Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[C++](./solutions/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K.cpp)|6 ms|
+|1423|[ Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[C++](./solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp)|73 ms|
 |1425|[ Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)|[C++](./solutions/1425.%20Constrained%20Subsequence%20Sum.cpp)|334 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[C++](./solutions/1446.%20Consecutive%20Characters.cpp)|4 ms|
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[C++](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)|120 ms|
