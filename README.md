@@ -333,6 +333,7 @@
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[C++](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)|32 ms|
 |1695|[ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[C++](./solutions/1695.%20Maximum%20Erasure%20Value.cpp)|798 ms|
 |1706|[ Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[C++](./solutions/1706.%20Where%20Will%20the%20Ball%20Fall.cpp)|23 ms|
+|1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[C++](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.cpp)|43 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[C++](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp)|616 ms|
 |1764|[ Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[C++](./solutions/1764.%20Form%20Array%20by%20Concatenating%20Subarrays%20of%20Another%20Array.cpp)|8 ms|
 |1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[C++](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.cpp)|116 ms|
