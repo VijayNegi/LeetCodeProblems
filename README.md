@@ -69,7 +69,7 @@
 |131|[ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[C++](./solutions/131.%20Palindrome%20Partitioning.cpp)|92 ms|
 |133|[ Clone Graph](https://leetcode.com/problems/clone-graph/)|[C++](./solutions/133.%20Clone%20Graph.cpp)|4 ms|
 |134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[C++](./solutions/134.%20Gas%20Station.cpp)|59 ms|
-|135|[ Candy](https://leetcode.com/problems/candy/)|[C++](./solutions/135.%20Candy.cpp)|47 ms|
+|135|[ Candy](https://leetcode.com/problems/candy/)|[C++](./solutions/135.%20Candy.cpp)|32 ms|
 |136|[ Single Number](https://leetcode.com/problems/single-number/)|[C++](./solutions/136.%20Single%20Number.cpp)|22 ms|
 |138|[ Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](./solutions/138.%20Copy%20List%20with%20Random%20Pointer.cpp)|8 ms|
 |139|[ Word Break](https://leetcode.com/problems/word-break/)|[C++](./solutions/139.%20Word%20Break.cpp)|4 ms|
