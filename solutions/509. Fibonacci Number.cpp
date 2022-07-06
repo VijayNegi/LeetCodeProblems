@@ -22,6 +22,20 @@ public:
         }
         return dp[n];
     }
+    // iterative, space optimised 
+    int fib(int N) {
+        if(N < 2) 
+            return N;
+        int a = 0, b = 1, c = 0;
+        for(int i = 1; i < N; i++)
+        {
+            c = a + b;
+            a = b;
+            b = c;
+        }
+        return c;
+    }
+    
     // fast doubling
     pair<int, int> fib_helper (int n) {
         if (n == 0)
@@ -34,7 +48,7 @@ public:
         else
             return {c, d};
     }
-    int fib(int n) {
+    int fib3(int n) {
         auto res = fib_helper(n);
         return res.first;
     }
