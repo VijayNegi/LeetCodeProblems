@@ -339,6 +339,7 @@
 |1679|[ Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[C++](./solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs.cpp)|221 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[C++](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)|32 ms|
 |1695|[ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[C++](./solutions/1695.%20Maximum%20Erasure%20Value.cpp)|798 ms|
+|1696|[ Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|[C++](./solutions/1696.%20Jump%20Game%20VI.cpp)|224 ms|
 |1706|[ Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[C++](./solutions/1706.%20Where%20Will%20the%20Ball%20Fall.cpp)|23 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[C++](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.cpp)|43 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[C++](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp)|616 ms|
