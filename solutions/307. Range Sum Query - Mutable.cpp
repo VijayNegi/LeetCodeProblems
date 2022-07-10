@@ -1,59 +1,61 @@
+*/
+// Iterative implimentation : 753 ms
 class NumArray {
     vector<int> nums;
     int n;
-    vector<int> seg;
+    vector<int> tree;      // tree
     
 public:
-    NumArray(vector<int>& _nums):nums(_nums),n(nums.size()),seg(4*n,0) {
-        build(0,0,n-1);
+    NumArray(vector<int>& _nums):nums(_nums),n(nums.size()),tree(2*n,0) {
+        build();         // Note the root index
     }
     
-    void update(int index, int val) {
-        int diff = val - nums[index];
-        nums[index] = val;
-        update(0,0,n-1,index,diff);
+    void update(int pos, int val) {
+        pos += n;
+        tree[pos] = val;
+        while (pos > 0) {
+            int left = pos;
+            int right = pos;
+            if (pos % 2 == 0) {
+                right = pos + 1;
+            } else {
+                left = pos - 1;
+            }
+            // parent is updated after child is updated
+            tree[pos / 2] = tree[left] + tree[right];
+            pos /= 2;
+        }
     }
     
-    int sumRange(int left, int right) {
-        return sumRange(0,0,n-1,left,right);
+    int sumRange(int l, int r) {
+        // get leaf with value 'l'
+        l += n;
+        // get leaf with value 'r'
+        r += n;
+        int sum = 0;
+        while (l <= r) {
+            if ((l % 2) == 1) {
+               sum += tree[l];
+               l++;
+            }
+            if ((r % 2) == 0) {
+               sum += tree[r];
+               r--;
+            }
+            l /= 2;
+            r /= 2;
+        }
+        return sum;
     }
 private:
-    void build(int idx,int sl,int sr) {
-        if(sl==sr) {
-            seg[idx] = nums[sl];
-            return;
-        }
-        int mid = sl + (sr-sl)/2;
-        build(2*idx+1,sl,mid);
-        build(2*idx+2,mid+1,sr);
-        seg[idx] = seg[2*idx+1]+seg[2*idx+2];
-    }
-    void update(int segIdx, int sl,int sr,int idx,int diff) {
-        if(idx < sl || idx > sr)
-            return;
-        seg[segIdx] += diff;
-        if(sl!=sr) {
-            int mid = sl + (sr-sl)/2;
-            if(idx <= mid)
-                update(2*segIdx+1,sl,mid,idx,diff);
-            else
-                update(2*segIdx+2,mid+1,sr,idx,diff);
-        }
-    }
-    int sumRange(int idx,int sl,int sr,int left, int right) {
-        if(right < sl || left > sr)
-            return 0;
-        if(left <= sl && sr <= right)           // Note the range comparison
-            return seg[idx];
-        if(sl != sr) 
-        {
-            int mid = sl + (sr-sl)/2;
-            return sumRange(2*idx+1,sl,mid,left,right) +
-                    sumRange(2*idx+2,mid+1,sr,left,right);
-        }
-        return 0;
+    void build() {
+        for (int i = n, j = 0;  i < 2 * n; i++,  j++)
+            tree[i] = nums[j];
+        for (int i = n - 1; i > 0; --i)
+            tree[i] = tree[i * 2] + tree[i * 2 + 1];
     }
 };
+​
 ​
 /**
  * Your NumArray object will be instantiated and called as such:
