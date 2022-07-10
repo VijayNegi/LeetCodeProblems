@@ -113,7 +113,7 @@ private:
     }
 };
 */
-// Iterative implimentation : 753 ms
+// Iterative implimentation : 478 ms
 class NumArray {
     vector<int> nums;
     int n;
@@ -128,16 +128,9 @@ public:
         pos += n;
         tree[pos] = val;
         while (pos > 0) {
-            int left = pos;
-            int right = pos;
-            if (pos % 2 == 0) {
-                right = pos + 1;
-            } else {
-                left = pos - 1;
-            }
+            pos >>= 1; // shift right is the same as divide by 2
             // parent is updated after child is updated
-            tree[pos / 2] = tree[left] + tree[right];
-            pos /= 2;
+            tree[pos] = tree[2*pos] + tree[2*pos+1];
         }
     }
     
@@ -148,11 +141,11 @@ public:
         r += n;
         int sum = 0;
         while (l <= r) {
-            if ((l % 2) == 1) {
+            if ((l % 2) == 1) {  // 'l' is odd, so it is the right child of its parent, then interval includes node 'l' but doesn't include its parent
                sum += tree[l];
                l++;
             }
-            if ((r % 2) == 0) {
+            if ((r % 2) == 0) {  // 'r' is even, so it is the left child of its parent, then interval includes node 'l' but doesn't include its sibling
                sum += tree[r];
                r--;
             }
