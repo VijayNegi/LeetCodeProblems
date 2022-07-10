@@ -225,6 +225,7 @@
 |740|[ Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[C++](./solutions/740.%20Delete%20and%20Earn.cpp)|9 ms|
 |743|[ Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[C++](./solutions/743.%20Network%20Delay%20Time.cpp)|136 ms|
 |745|[ Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)|[C++](./solutions/745.%20Prefix%20and%20Suffix%20Search.cpp)|1108 ms|
+|746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|14 ms|
 |753|[ Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)|[C++](./solutions/753.%20Cracking%20the%20Safe.cpp)|4 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[C++](./solutions/763.%20Partition%20Labels.cpp)|4 ms|
 |777|[ Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)|[C++](./solutions/777.%20Swap%20Adjacent%20in%20LR%20String.cpp)|12 ms|
