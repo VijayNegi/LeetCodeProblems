@@ -184,6 +184,7 @@
 |459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[C++](./solutions/459.%20Repeated%20Substring%20Pattern.cpp)|20 ms|
 |461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[JavaScript](./solutions/461.%20Hamming%20Distance.js)|72 ms|
 |462|[ Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[C++](./solutions/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.cpp)|14 ms|
+|473|[ Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[C++](./solutions/473.%20Matchsticks%20to%20Square.cpp)|391 ms|
 |474|[ Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](./solutions/474.%20Ones%20and%20Zeroes.cpp)|263 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./solutions/476.%20Number%20Complement.cpp)|0 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
