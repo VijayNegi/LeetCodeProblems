@@ -1,7 +1,8 @@
 const int mod = 1e9+7;
 class Solution {
 public:
-    int kInversePairs1(int n, int k) {
+    // TLE
+    int kInversePairs(int n, int k) {
         if(n==0)
             return 0;
         if(k==0)
@@ -36,7 +37,7 @@ public:
         return ((dp[k] + mod - (k > 0 ? dp[k - 1] : 0)) % mod);
     }
     // official solution
-    int kInversePairs(int n, int k) {
+    int kInversePairs3(int n, int k) {
         vector<int> dp(k+1,0),temp(k+1,0);
         for (int i = 1; i <= n; i++) {
             for (int j = 0; j <= k && j <= i * (i - 1) / 2; j++) {
