@@ -292,6 +292,7 @@
 |1041|[ Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](./solutions/1041.%20Robot%20Bounded%20In%20Circle.cpp)|0 ms|
 |1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](./solutions/1046.%20Last%20Stone%20Weight.cpp)|0 ms|
 |1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[C++](./solutions/1048.%20Longest%20String%20Chain.cpp)|150 ms|
+|1074|[ Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[C++](./solutions/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.cpp)|1615 ms|
 |1091|[ Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[C++](./solutions/1091.%20Shortest%20Path%20in%20Binary%20Matrix.cpp)|122 ms|
 |1094|[ Car Pooling](https://leetcode.com/problems/car-pooling/)|[C++](./solutions/1094.%20Car%20Pooling.cpp)|8 ms|
 |1178|[ Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[C++](./solutions/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle.cpp)|1952 ms|
