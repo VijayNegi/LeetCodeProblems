@@ -143,6 +143,7 @@
 |307|[ Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[C++](./solutions/307.%20Range%20Sum%20Query%20-%20Mutable.cpp)|753 ms|
 |310|[ Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](./solutions/310.%20Minimum%20Height%20Trees.cpp)|80 ms|
 |312|[ Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](./solutions/312.%20Burst%20Balloons.cpp)|504 ms|
+|315|[ Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[C++](./solutions/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.cpp)|253 ms|
 |316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[C++](./solutions/316.%20Remove%20Duplicate%20Letters.cpp)|4 ms|
 |318|[ Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[C++](./solutions/318.%20Maximum%20Product%20of%20Word%20Lengths.cpp)|63 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./solutions/322.%20Coin%20Change.cpp)|86 ms|
