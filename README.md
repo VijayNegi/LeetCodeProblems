@@ -233,6 +233,7 @@
 |704|[ Binary Search](https://leetcode.com/problems/binary-search/)|[C++](./solutions/704.%20Binary%20Search.cpp)|46 ms|
 |705|[ Design HashSet](https://leetcode.com/problems/design-hashset/)|[C++](./solutions/705.%20Design%20HashSet.cpp)|70 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|272 ms|
+|715|[ Range Module](https://leetcode.com/problems/range-module/)|[C++](./solutions/715.%20Range%20Module.cpp)|533 ms|
 |721|[ Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[C++](./solutions/721.%20Accounts%20Merge.cpp)|92 ms|
 |729|[ My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[C++](./solutions/729.%20My%20Calendar%20I.cpp)|90 ms|
 |731|[ My Calendar II](https://leetcode.com/problems/my-calendar-ii/)|[C++](./solutions/731.%20My%20Calendar%20II.cpp)|386 ms|
