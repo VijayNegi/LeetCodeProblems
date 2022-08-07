@@ -191,6 +191,7 @@
 |452|[ Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[C++](./solutions/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.cpp)|778 ms|
 |454|[ 4Sum II](https://leetcode.com/problems/4sum-ii/)|[C++](./solutions/454.%204Sum%20II.cpp)|383 ms|
 |456|[ 132 Pattern](https://leetcode.com/problems/132-pattern/)|[C++](./solutions/456.%20132%20Pattern.cpp)|120 ms|
+|458|[ Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[C++](./solutions/458.%20Poor%20Pigs.cpp)|0 ms|
 |459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[C++](./solutions/459.%20Repeated%20Substring%20Pattern.cpp)|20 ms|
 |461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[JavaScript](./solutions/461.%20Hamming%20Distance.js)|72 ms|
 |462|[ Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[C++](./solutions/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.cpp)|14 ms|
