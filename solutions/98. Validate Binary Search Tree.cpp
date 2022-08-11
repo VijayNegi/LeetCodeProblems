@@ -43,4 +43,3 @@ public:
        }
        return true;
     }
-};
