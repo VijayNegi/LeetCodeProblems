@@ -170,6 +170,7 @@
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./solutions/377.%20Combination%20Sum%20IV.cpp)|0 ms|
 |378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp)|47 ms|
 |382|[ Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[C++](./solutions/382.%20Linked%20List%20Random%20Node.cpp)|49 ms|
+|387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.cpp)|36 ms|
 |388|[ Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[C++](./solutions/388.%20Longest%20Absolute%20File%20Path.cpp)|0 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](./solutions/389.%20Find%20the%20Difference.cpp)|4 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./solutions/392.%20Is%20Subsequence.cpp)|0 ms|
