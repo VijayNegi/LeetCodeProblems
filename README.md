@@ -161,7 +161,7 @@
 |337|[ House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./solutions/337.%20House%20Robber%20III.cpp)|21 ms|
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./solutions/338.%20Counting%20Bits.cpp)|14 ms|
 |341|[ Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](./solutions/341.%20Flatten%20Nested%20List%20Iterator.cpp)|25 ms|
-|342|[ Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./solutions/342.%20Power%20of%20Four.cpp)|8 ms|
+|342|[ Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./solutions/342.%20Power%20of%20Four.cpp)|4 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|31 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|42 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](./solutions/354.%20Russian%20Doll%20Envelopes.cpp)|525 ms|
