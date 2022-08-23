@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
+    bool isPalindrome1(ListNode* head) {
         int n = 0;
         vector<int> v;
         ListNode* curr = head;
@@ -23,6 +23,20 @@ public:
             if(v[l++]!=v[r--])
                 return false;
         return true;
-        
+    }
+    // O(n) and O(1) space
+    bool isPalindrome(ListNode* head) {
+        ListNode *slow = head, *fast = head, *prev, *temp;
+        while (fast && fast->next)
+            slow = slow->next, fast = fast->next->next;
+        prev = slow, slow = slow->next, prev->next = NULL;
+        while (slow)
+            temp = slow->next, slow->next = prev, prev = slow, slow = temp;
+        fast = head, slow = prev;
+        while (slow) {
+            if (fast->val != slow->val) return false;
+            fast = fast->next, slow = slow->next;
+        }
+        return true;
     }
 };
