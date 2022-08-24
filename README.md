@@ -155,6 +155,7 @@
 |316|[ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[C++](./solutions/316.%20Remove%20Duplicate%20Letters.cpp)|4 ms|
 |318|[ Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[C++](./solutions/318.%20Maximum%20Product%20of%20Word%20Lengths.cpp)|63 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./solutions/322.%20Coin%20Change.cpp)|86 ms|
+|326|[ Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](./solutions/326.%20Power%20of%20Three.cpp)|31 ms|
 |328|[ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](./solutions/328.%20Odd%20Even%20Linked%20List.cpp)|12 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)|112 ms|
 |332|[ Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[C++](./solutions/332.%20Reconstruct%20Itinerary.cpp)|35 ms|
