@@ -231,6 +231,7 @@
 |621|[ Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](./solutions/621.%20Task%20Scheduler.cpp)|152 ms|
 |629|[ K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|[C++](./solutions/629.%20K%20Inverse%20Pairs%20Array.cpp)|N/A|
 |630|[ Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|[C++](./solutions/630.%20Course%20Schedule%20III.cpp)|375 ms|
+|637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[C++](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp)|16 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|7 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|40 ms|
 |659|[ Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[C++](./solutions/659.%20Split%20Array%20into%20Consecutive%20Subsequences.cpp)|105 ms|
