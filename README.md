@@ -228,6 +228,7 @@
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|36 ms|
 |583|[ Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[C++](./solutions/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)|44 ms|
 |605|[ Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[C++](./solutions/605.%20Can%20Place%20Flowers.cpp)|37 ms|
+|606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[C++](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.cpp)|20 ms|
 |621|[ Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](./solutions/621.%20Task%20Scheduler.cpp)|152 ms|
 |629|[ K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|[C++](./solutions/629.%20K%20Inverse%20Pairs%20Array.cpp)|N/A|
 |630|[ Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|[C++](./solutions/630.%20Course%20Schedule%20III.cpp)|375 ms|
