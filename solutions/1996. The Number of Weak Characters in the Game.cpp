@@ -30,7 +30,7 @@ public:
         }
         return result;
     }
-    
+    // 700 ms
      int numberOfWeakCharacters(vector<vector<int>> &properties)
      {
           auto comp = [](vector<int> &a, vector<int> &b){
