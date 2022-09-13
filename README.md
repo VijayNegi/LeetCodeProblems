@@ -182,7 +182,7 @@
 |388|[ Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)|[C++](./solutions/388.%20Longest%20Absolute%20File%20Path.cpp)|0 ms|
 |389|[ Find the Difference](https://leetcode.com/problems/find-the-difference/)|[C++](./solutions/389.%20Find%20the%20Difference.cpp)|4 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[C++](./solutions/392.%20Is%20Subsequence.cpp)|0 ms|
-|393|[ UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|[C++](./solutions/393.%20UTF-8%20Validation.cpp)|19 ms|
+|393|[ UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)|[C++](./solutions/393.%20UTF-8%20Validation.cpp)|27 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[C++](./solutions/394.%20Decode%20String.cpp)|0 ms|
 |399|[ Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C++](./solutions/399.%20Evaluate%20Division.cpp)|0 ms|
 |402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[C++](./solutions/402.%20Remove%20K%20Digits.cpp)|0 ms|
