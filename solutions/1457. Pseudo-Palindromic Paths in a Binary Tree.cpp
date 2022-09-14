@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int pseudoPalindromicPaths (TreeNode* root) {
+    int pseudoPalindromicPaths1 (TreeNode* root) {
         vector<int> count(10,0);
         int result=0;
         function<void(TreeNode*)> dfs = [&](TreeNode* node) {
@@ -33,5 +33,13 @@ public:
         };
         dfs(root);
         return result;
+    }
+    int pseudoPalindromicPaths(TreeNode* root, int count = 0) {
+        if (!root) return 0;
+        count ^= 1 << (root->val - 1);
+        int res = pseudoPalindromicPaths(root->left, count) + pseudoPalindromicPaths(root->right, count);
+        // if both are null check if there is only one bit set
+        if (root->left == root->right && (count & (count - 1)) == 0) res++;
+        return res;
     }
 };
