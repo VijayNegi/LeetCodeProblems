@@ -378,6 +378,7 @@
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[C++](./solutions/1446.%20Consecutive%20Characters.cpp)|4 ms|
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[C++](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)|208 ms|
 |1455|[ Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[C++](./solutions/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.cpp)|2 ms|
+|1457|[ Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[C++](./solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.cpp)|747 ms|
 |1461|[ Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[C++](./solutions/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.cpp)|259 ms|
 |1463|[ Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)|[C++](./solutions/1463.%20Cherry%20Pickup%20II.cpp)|101 ms|
 |1465|[ Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[C++](./solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.cpp)|126 ms|
