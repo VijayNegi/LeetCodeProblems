@@ -25,6 +25,7 @@
 |35|[ Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./solutions/35.%20Search%20Insert%20Position.cpp)|13 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./solutions/36.%20Valid%20Sudoku.cpp)|20 ms|
 |39|[ Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./solutions/39.%20Combination%20Sum.cpp)|14 ms|
+|42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./solutions/42.%20Trapping%20Rain%20Water.cpp)|39 ms|
 |43|[ Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](./solutions/43.%20Multiply%20Strings.cpp)|8 ms|
 |47|[ Permutations II](https://leetcode.com/problems/permutations-ii/)|[C++](./solutions/47.%20Permutations%20II.cpp)|3 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./solutions/48.%20Rotate%20Image.cpp)|6 ms|
