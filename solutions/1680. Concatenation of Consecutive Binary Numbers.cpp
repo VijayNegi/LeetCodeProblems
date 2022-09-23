@@ -15,12 +15,12 @@ public:
         }
         return sum;
     }
-    // 50 ms
+    // 41 ms
     int concatenatedBinary(int n) {
         long ans = 0, len = 0;
         for (int i = 1; i <= n; ++i) {
             if ((i & (i - 1)) == 0) ++len; // increase length if power of two
-            ans = ((ans << len) % mod + i) % mod;
+            ans = ((ans << len) + i) % mod;
         }
         return ans;
     }
