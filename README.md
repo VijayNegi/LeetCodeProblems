@@ -237,6 +237,7 @@
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[C++](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.cpp)|20 ms|
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[C++](./solutions/609.%20Find%20Duplicate%20File%20in%20System.cpp)|202 ms|
 |621|[ Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[C++](./solutions/621.%20Task%20Scheduler.cpp)|152 ms|
+|622|[ Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[C++](./solutions/622.%20Design%20Circular%20Queue.cpp)|66 ms|
 |629|[ K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|[C++](./solutions/629.%20K%20Inverse%20Pairs%20Array.cpp)|N/A|
 |630|[ Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|[C++](./solutions/630.%20Course%20Schedule%20III.cpp)|375 ms|
 |637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[C++](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp)|16 ms|
