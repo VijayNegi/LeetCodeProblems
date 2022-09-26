@@ -1,9 +1,3 @@
-struct DSU
-{
-    vector<int> parent;
-    DSU(int n):parent(n)
-    {
-        iota(begin(parent), end(parent), 0);  // initializes each node's parent to be itself - fills as [0,1,2,3,...,n]
     }
     int find(int x)
     {
@@ -13,18 +7,18 @@ struct DSU
 ​
     } 
     void unionsets(int x, int y)
-    {
+    {
         int xx = find(x);
         int yy = find(y);
         if(xx == yy)
             return;     // both belong to same component
         parent[yy] = xx;
-    }
+    }
 };
 class Solution {
 public:
     // DSU
-    bool equationsPossible(vector<string>& equations) {
+    bool equationsPossible1(vector<string>& equations) {
         DSU ds(26);
         for(auto e:equations) {
             if(e[1] == '=') 
@@ -36,5 +30,22 @@ public:
                     return false;
         }
         return true;
+    }
+    // other simple impl
+    int uf[26];
+    bool equationsPossible(vector<string>& equations) {
+        for (int i = 0; i < 26; ++i) uf[i] = i;
+        for (string e : equations)
+            if (e[1] == '=')
+                uf[find(e[0] - 'a')] = find(e[3] - 'a');
+        for (string e : equations)
+            if (e[1] == '!' && find(e[0] - 'a') == find(e[3] - 'a'))
+                return false;
+        return true;
+    }
+​
+    int find(int x) {
+        if (x != uf[x]) uf[x] = find(uf[x]);
+        return uf[x];
     }
 };
