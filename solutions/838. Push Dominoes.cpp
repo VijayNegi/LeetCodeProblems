@@ -1,8 +1,3 @@
-// Also impliment below solution
-//https://leetcode.com/problems/push-dominoes/discuss/132482/Java-one-pass-in-place-13ms
-class Solution {
-public:
-    // old solution
     string pushDominoes1(string dominoes) {↔}
     // new 
     string pushDominoes2(string D) {
