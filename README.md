@@ -285,7 +285,7 @@
 |814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./solutions/814.%20Binary%20Tree%20Pruning.cpp)|0 ms|
 |820|[ Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[C++](./solutions/820.%20Short%20Encoding%20of%20Words.cpp)|56 ms|
 |823|[ Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[C++](./solutions/823.%20Binary%20Trees%20With%20Factors.cpp)|137 ms|
-|838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[C++](./solutions/838.%20Push%20Dominoes.cpp)|68 ms|
+|838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[C++](./solutions/838.%20Push%20Dominoes.cpp)|87 ms|
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./solutions/844.%20Backspace%20String%20Compare.cpp)|0 ms|
 |847|[ Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[C++](./solutions/847.%20Shortest%20Path%20Visiting%20All%20Nodes.cpp)|55 ms|
 |849|[ Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[C++](./solutions/849.%20Maximize%20Distance%20to%20Closest%20Person.cpp)|12 ms|
