@@ -1,24 +1,21 @@
 class Solution {
 public:
     int numDecodings1(string s) {
-        vector<int> dp(s.size()+1,-1);
-        return numdp(s,0,dp);
-    }
-    int numdp(string& s,int i,vector<int>& dp)
-    {
+        int result=0;
         int n = s.size();
-        if(i==n) return 1;
-        if(s[i]=='0') return 0; // no number can start from 0
-        if(i== n-1) return 1;
-        if(dp[i]!=-1) return dp[i];
-        
-        int res = numdp(s,i+1,dp);
-        if( i < n-1 && ( s[i] =='1' || (s[i]=='2' && s[i+1]<'7')))
-           res += numdp(s,i+2,dp);
-        
-        return dp[i] = res;
+        vector<int> memo(n,-1);
+        function<int(string&,int)> dfs = [&](string& str,int pos) {
+            if(pos>=n)          return 1;
+            if(memo[pos] != -1) return memo[pos];
+            if(str[pos] == '0') return 0;
+            memo[pos] = dfs(str,pos+1);
+            if( pos < n-1 && ( str[pos] =='1' || (str[pos]=='2' && str[pos+1]<'7')))
+                memo[pos] += dfs(str,pos+2);
+            return memo[pos];
+        };
+        return dfs(s,0);
     }
-    //https://leetcode.com/problems/decode-ways/discuss/30451/Evolve-from-recursion-to-dp
+       //https://leetcode.com/problems/decode-ways/discuss/30451/Evolve-from-recursion-to-dp
     // dp with constant memory
     int numDecodings(string s) {
         int p = 1, pp, n = s.size();
@@ -30,6 +27,4 @@ public:
         }
         return s.empty()? 0 : p;   
     }
-    
-    
 };
