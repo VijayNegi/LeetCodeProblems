@@ -365,6 +365,7 @@
 |1288|[ Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[C++](./solutions/1288.%20Remove%20Covered%20Intervals.cpp)|22 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)|3 ms|
 |1291|[ Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[C++](./solutions/1291.%20Sequential%20Digits.cpp)|0 ms|
+|1293|[ Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[C++](./solutions/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.cpp)|373 ms|
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[C++](./solutions/1302.%20Deepest%20Leaves%20Sum.cpp)|234 ms|
 |1305|[ All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[C++](./solutions/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp)|306 ms|
 |1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[C++](./solutions/1306.%20Jump%20Game%20III.cpp)|40 ms|
