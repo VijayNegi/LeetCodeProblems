@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // self
     string breakPalindrome1(string p) {
         int n = p.size();
         if(n<=1)
@@ -18,6 +19,7 @@ public:
             p.back()++;
         return p;
     }
+    // optimized
     string breakPalindrome(string S) {
         int n = S.size();
         for (int i = 0; i < n / 2; ++i) {
