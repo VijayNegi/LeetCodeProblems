@@ -8,8 +8,11 @@
  */
 class Solution {
 public:
-    void deleteNode(ListNode* node) {
+    void deleteNode1(ListNode* node) {
         node->val = node->next->val;
         node->next = node->next->next;
+    }
+    void deleteNode(ListNode* node) {
+        *node = *node->next;
     }
 };
