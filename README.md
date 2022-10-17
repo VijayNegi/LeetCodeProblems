@@ -435,6 +435,7 @@
 |1770|[ Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)|[C++](./solutions/1770.%20Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)|433 ms|
 |1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[C++](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.cpp)|116 ms|
 |1780|[ Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)|[C++](./solutions/1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.cpp)|0 ms|
+|1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[C++](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.cpp)|7 ms|
 |1834|[ Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|[C++](./solutions/1834.%20Single-Threaded%20CPU.cpp)|656 ms|
 |1900|[ The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/)|[C++](./solutions/1900.%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.cpp)|0 ms|
 |1996|[ The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|[C++](./solutions/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp)|700 ms|
