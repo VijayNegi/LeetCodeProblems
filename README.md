@@ -370,6 +370,7 @@
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[C++](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)|21 ms|
 |1217|[ Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|4 ms|
 |1220|[ Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[C++](./solutions/1220.%20Count%20Vowels%20Permutation.cpp)|111 ms|
+|1239|[ Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[C++](./solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.cpp)|3 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[C++](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)|45 ms|
 |1260|[ Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[C++](./solutions/1260.%20Shift%202D%20Grid.cpp)|37 ms|
 |1268|[ Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[C++](./solutions/1268.%20Search%20Suggestions%20System.cpp)|148 ms|
