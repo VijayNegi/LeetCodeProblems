@@ -1,7 +1,21 @@
 class Solution {
 public:
-    // use hasmap of previous mod : 231 ms
+    // self
     bool checkSubarraySum(vector<int>& nums, int k) {
+        unordered_set<int> seen;
+        long sum=0;
+        long pre=0;
+        for(auto& n:nums){
+            sum += n;
+            sum %= k;
+            if(seen.count(sum))
+                return true;
+            seen.insert(pre);
+            pre = sum;
+        }
+        return false;
+    }
+    bool checkSubarraySum1(vector<int>& nums, int k) {
         int n= nums.size();
         unordered_map<int,int> mp;
         mp[0]=1;
@@ -16,9 +30,8 @@ public:
         }
         return false;
     }
-    
     // bruteforce : TLE
-    bool checkSubarraySum1(vector<int>& nums, int k) {
+    bool checkSubarraySum2(vector<int>& nums, int k) {
         vector<int> sums = nums;
         int n= nums.size();
         int m=1;
