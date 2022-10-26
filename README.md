@@ -226,7 +226,7 @@
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./solutions/476.%20Number%20Complement.cpp)|0 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](./solutions/520.%20Detect%20Capital.cpp)|0 ms|
-|523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](./solutions/523.%20Continuous%20Subarray%20Sum.cpp)|231 ms|
+|523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](./solutions/523.%20Continuous%20Subarray%20Sum.cpp)|494 ms|
 |525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[C++](./solutions/525.%20Contiguous%20Array.cpp)|257 ms|
 |532|[ K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[C++](./solutions/532.%20K-diff%20Pairs%20in%20an%20Array.cpp)|31 ms|
 |535|[ Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[C++](./solutions/535.%20Encode%20and%20Decode%20TinyURL.cpp)|12 ms|
