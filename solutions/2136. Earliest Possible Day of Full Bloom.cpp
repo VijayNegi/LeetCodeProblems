@@ -1,21 +1,18 @@
 class Solution {
 public:
-    // greedy : 557 ms
     int earliestFullBloom(vector<int>& plantTime, vector<int>& growTime) {
-        
+        vector<vector<int>> flowers;
         int n = plantTime.size();
-        vector<pair<int,int>> gp(n);
-        for(int i=0;i<n;++i)
-            gp.push_back({growTime[i],plantTime[i]});
-        sort(begin(gp),end(gp),[](pair<int,int> a,pair<int,int> b){ return (a.first > b.first);  });
-        
-        int endTime=0;
-        int plantEnd = 0;
-        for(auto [g,p] : gp)
-        {
-            plantEnd += p;
-            endTime = max(endTime, plantEnd + g);
-        }
-        return endTime;
+        for(int i=0;i<n;++i){
+            flowers.push_back({growTime[i],plantTime[i]});
+        }
+        sort(flowers.begin(),flowers.end(), greater<>());
+        int result=0;
+        int plantEnd=0;
+        for(auto& f:flowers){
+            plantEnd += f[1];
+            result = max(result, plantEnd+ f[0]);
+        }
+        return result;
     }
 };
