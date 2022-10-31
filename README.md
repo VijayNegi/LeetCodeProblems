@@ -287,6 +287,7 @@
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|14 ms|
 |753|[ Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)|[C++](./solutions/753.%20Cracking%20the%20Safe.cpp)|4 ms|
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[C++](./solutions/763.%20Partition%20Labels.cpp)|4 ms|
+|766|[ Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[C++](./solutions/766.%20Toeplitz%20Matrix.cpp)|31 ms|
 |777|[ Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)|[C++](./solutions/777.%20Swap%20Adjacent%20in%20LR%20String.cpp)|12 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[C++](./solutions/785.%20Is%20Graph%20Bipartite.cpp)|27 ms|
 |790|[ Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[C++](./solutions/790.%20Domino%20and%20Tromino%20Tiling.cpp)|0 ms|
