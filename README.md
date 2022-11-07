@@ -387,6 +387,7 @@
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[C++](./solutions/1302.%20Deepest%20Leaves%20Sum.cpp)|234 ms|
 |1305|[ All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[C++](./solutions/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp)|306 ms|
 |1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[C++](./solutions/1306.%20Jump%20Game%20III.cpp)|40 ms|
+|1323|[ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[C++](./solutions/1323.%20Maximum%2069%20Number.cpp)|0 ms|
 |1328|[ Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[C++](./solutions/1328.%20Break%20a%20Palindrome.cpp)|8 ms|
 |1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)|13 ms|
 |1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[C++](./solutions/1332.%20Remove%20Palindromic%20Subsequences.cpp)|0 ms|
