@@ -156,6 +156,7 @@
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|135 ms|
 |289|[ Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](./solutions/289.%20Game%20of%20Life.cpp)|0 ms|
 |290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|[C++](./solutions/290.%20Word%20Pattern.cpp)|0 ms|
+|295|[ Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C++](./solutions/295.%20Find%20Median%20from%20Data%20Stream.cpp)|360 ms|
 |297|[ Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C++](./solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.cpp)|102 ms|
 |299|[ Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[C++](./solutions/299.%20Bulls%20and%20Cows.cpp)|3 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[C++](./solutions/300.%20Longest%20Increasing%20Subsequence.cpp)|11 ms|
