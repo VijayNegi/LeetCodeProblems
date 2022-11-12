@@ -498,3 +498,4 @@
 |2452|[ Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[C++](./solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.cpp)|18 ms|
 |2453|[ Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/)|[C++](./solutions/2453.%20Destroy%20Sequential%20Targets.cpp)|163 ms|
 |2454|[ Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/)|[C++](./solutions/2454.%20Next%20Greater%20Element%20IV.cpp)|265 ms|
+|2465|[ Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)|[C++](./solutions/2465.%20Number%20of%20Distinct%20Averages.cpp)|5 ms|
