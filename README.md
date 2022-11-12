@@ -501,3 +501,4 @@
 |2465|[ Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)|[C++](./solutions/2465.%20Number%20of%20Distinct%20Averages.cpp)|5 ms|
 |2466|[ Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)|[C++](./solutions/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.cpp)|34 ms|
 |2467|[ Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)|[C++](./solutions/2467.%20Most%20Profitable%20Path%20in%20a%20Tree.cpp)|1360 ms|
+|2468|[ Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)|[C++](./solutions/2468.%20Split%20Message%20Based%20on%20Limit.cpp)|231 ms|
