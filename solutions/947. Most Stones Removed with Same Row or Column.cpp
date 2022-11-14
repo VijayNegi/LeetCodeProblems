@@ -18,9 +18,12 @@ struct DSU{
         --count;
     }
 };
+// Why topological sort wont work for this
+// https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/discuss/197668/Count-the-Number-of-Islands-O(N)
 class Solution {
 public:
-    int removeStones(vector<vector<int>>& stones) {
+    // disjoint set solution - 104 ms
+    int removeStones1(vector<vector<int>>& stones) {
         int n = stones.size();
         unordered_map<int, unordered_set<int>> xSet, ySet;
         for(int i=0;i<n;++i){
@@ -37,5 +40,24 @@ public:
         }
         
         return n- dsu.count;
+    }
+    // DFS solution  551 ms
+    int dfs(vector<vector<int>>&stones,int index,vector<bool>&visited,int&n){
+        visited[index]=true;
+        int result=0;
+        for(int i=0;i<n;i++)
+            if(!visited[i]&&(stones[i][0]==stones[index][0]||stones[i][1]==stones[index][1]))
+                result +=(dfs(stones,i,visited,n) + 1);
+        return result;
+    }
+    int removeStones(vector<vector<int>>&stones) {
+        int n = stones.size();
+        vector<bool>visited(n,0);
+        int result=0;
+        for(int i=0;i<n;i++){
+            if(visited[i]){continue;}
+            result+=dfs(stones,i,visited,n);
+        }
+        return result;
     }
 };
