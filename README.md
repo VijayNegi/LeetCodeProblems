@@ -152,6 +152,7 @@
 |257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[C++](./solutions/257.%20Binary%20Tree%20Paths.cpp)|4 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./solutions/258.%20Add%20Digits.cpp)|5 ms|
 |260|[ Single Number III](https://leetcode.com/problems/single-number-iii/)|[C++](./solutions/260.%20Single%20Number%20III.cpp)|4 ms|
+|263|[ Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](./solutions/263.%20Ugly%20Number.cpp)|6 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|22 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./solutions/278.%20First%20Bad%20Version.cpp)|0 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./solutions/283.%20Move%20Zeroes.cpp)|16 ms|
