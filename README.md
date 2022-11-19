@@ -251,7 +251,7 @@
 |576|[ Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[C++](./solutions/576.%20Out%20of%20Boundary%20Paths.cpp)|13 ms|
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|36 ms|
 |583|[ Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)|[C++](./solutions/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)|44 ms|
-|587|[ Erect the Fence](https://leetcode.com/problems/erect-the-fence/)|[C++](./solutions/587.%20Erect%20the%20Fence.cpp)|210 ms|
+|587|[ Erect the Fence](https://leetcode.com/problems/erect-the-fence/)|[C++](./solutions/587.%20Erect%20the%20Fence.cpp)|83 ms|
 |605|[ Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[C++](./solutions/605.%20Can%20Place%20Flowers.cpp)|37 ms|
 |606|[ Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[C++](./solutions/606.%20Construct%20String%20from%20Binary%20Tree.cpp)|20 ms|
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[C++](./solutions/609.%20Find%20Duplicate%20File%20in%20System.cpp)|202 ms|
