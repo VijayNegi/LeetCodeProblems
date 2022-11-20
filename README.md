@@ -134,7 +134,7 @@
 |221|[ Maximal Square](https://leetcode.com/problems/maximal-square/)|[C++](./solutions/221.%20Maximal%20Square.cpp)|20 ms|
 |222|[ Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[C++](./solutions/222.%20Count%20Complete%20Tree%20Nodes.cpp)|46 ms|
 |223|[ Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[C++](./solutions/223.%20Rectangle%20Area.cpp)|3 ms|
-|224|[ Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[C++](./solutions/224.%20Basic%20Calculator.cpp)|4 ms|
+|224|[ Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[C++](./solutions/224.%20Basic%20Calculator.cpp)|21 ms|
 |225|[ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./solutions/225.%20Implement%20Stack%20using%20Queues.cpp)|4 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./solutions/226.%20Invert%20Binary%20Tree.cpp)|0 ms|
 |227|[ Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](./solutions/227.%20Basic%20Calculator%20II.cpp)|8 ms|
