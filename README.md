@@ -156,6 +156,7 @@
 |263|[ Ugly Number](https://leetcode.com/problems/ugly-number/)|[C++](./solutions/263.%20Ugly%20Number.cpp)|6 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|22 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./solutions/278.%20First%20Bad%20Version.cpp)|0 ms|
+|279|[ Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C++](./solutions/279.%20Perfect%20Squares.cpp)|361 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./solutions/283.%20Move%20Zeroes.cpp)|16 ms|
 |284|[ Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[C++](./solutions/284.%20Peeking%20Iterator.cpp)|3 ms|
 |287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C++](./solutions/287.%20Find%20the%20Duplicate%20Number.cpp)|135 ms|
