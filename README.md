@@ -514,3 +514,4 @@
 |2466|[ Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)|[C++](./solutions/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.cpp)|34 ms|
 |2467|[ Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)|[C++](./solutions/2467.%20Most%20Profitable%20Path%20in%20a%20Tree.cpp)|1360 ms|
 |2468|[ Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)|[C++](./solutions/2468.%20Split%20Message%20Based%20on%20Limit.cpp)|231 ms|
+|2481|[ Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)|[C++](./solutions/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle.cpp)|3 ms|
