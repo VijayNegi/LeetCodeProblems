@@ -517,3 +517,4 @@
 |2481|[ Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)|[C++](./solutions/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle.cpp)|3 ms|
 |2482|[ Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|[C++](./solutions/2482.%20Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.cpp)|574 ms|
 |2483|[ Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)|[C++](./solutions/2483.%20Minimum%20Penalty%20for%20a%20Shop.cpp)|24 ms|
+|2484|[ Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/)|[C++](./solutions/2484.%20Count%20Palindromic%20Subsequences.cpp)|1270 ms|
