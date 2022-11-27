@@ -1,4 +1,5 @@
-// My "rule of thumb" is that we should search for O(n) solution if we are dealing with consecutive sequences, and O(n ^ 2) if we are dealing with subsequences. Think about LCS algorithm as an example.
+// My "rule of thumb" is that we should search for O(n) solution if we are dealing with consecutive sequences, 
+// and O(n ^ 2) if we are dealing with subsequences. Think about LCS algorithm as an example.
 #define LL long long
 class Solution {
 public:
