@@ -503,6 +503,7 @@
 |2221|[ Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)|[C++](./solutions/2221.%20Find%20Triangular%20Sum%20of%20an%20Array.cpp)|297 ms|
 |2222|[ Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/)|[C++](./solutions/2222.%20Number%20of%20Ways%20to%20Select%20Buildings.cpp)|204 ms|
 |2223|[ Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/)|[C++](./solutions/2223.%20Sum%20of%20Scores%20of%20Built%20Strings.cpp)|80 ms|
+|2225|[ Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)|[C++](./solutions/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.cpp)|1381 ms|
 |2239|[ Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)|[C++](./solutions/2239.%20Find%20Closest%20Number%20to%20Zero.cpp)|28 ms|
 |2240|[ Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)|[C++](./solutions/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.cpp)|12 ms|
 |2241|[ Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/)|[C++](./solutions/2241.%20Design%20an%20ATM%20Machine.cpp)|694 ms|
