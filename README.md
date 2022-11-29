@@ -197,6 +197,7 @@
 |376|[ Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[C++](./solutions/376.%20Wiggle%20Subsequence.cpp)|12 ms|
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./solutions/377.%20Combination%20Sum%20IV.cpp)|0 ms|
 |378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C++](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp)|47 ms|
+|380|[ Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./solutions/380.%20Insert%20Delete%20GetRandom%20O(1).cpp)|255 ms|
 |382|[ Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[C++](./solutions/382.%20Linked%20List%20Random%20Node.cpp)|49 ms|
 |383|[ Ransom Note](https://leetcode.com/problems/ransom-note/)|[C++](./solutions/383.%20Ransom%20Note.cpp)|11 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[C++](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.cpp)|36 ms|
