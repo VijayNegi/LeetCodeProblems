@@ -3,7 +3,7 @@ public:
     bool closeStrings(string word1, string word2) {
         if(word1.size() != word2.size())
             return false;
-        int hist1[26]= {0},hist2[26]={0};
+        vector<int> hist1(26,0),hist2(26,0);
         for(auto& c:word1)
             hist1[c-'a']++;
         for(auto& c:word2)
@@ -17,15 +17,10 @@ public:
         }
         if(flg)
             return true;
-        vector<int> v1,v2;
-        for(auto& h:hist1)
-            if(h) v1.push_back(h);
-        for(auto& h:hist2)
-            if(h) v2.push_back(h);
         
-        sort(v1.begin(),v1.end());
-        sort(v2.begin(),v2.end());
-        if(v1 == v2)
+        sort(hist1.begin(),hist1.end());
+        sort(hist2.begin(),hist2.end());
+        if(hist1 == hist2)
             return true;
         return false;
         
