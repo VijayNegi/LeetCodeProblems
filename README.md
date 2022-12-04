@@ -512,6 +512,7 @@
 |2240|[ Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)|[C++](./solutions/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils.cpp)|12 ms|
 |2241|[ Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/)|[C++](./solutions/2241.%20Design%20an%20ATM%20Machine.cpp)|694 ms|
 |2242|[ Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)|[C++](./solutions/2242.%20Maximum%20Score%20of%20a%20Node%20Sequence.cpp)|502 ms|
+|2256|[ Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|[C++](./solutions/2256.%20Minimum%20Average%20Difference.cpp)|142 ms|
 |2451|[ Odd String Difference](https://leetcode.com/problems/odd-string-difference/)|[C++](./solutions/2451.%20Odd%20String%20Difference.cpp)|10 ms|
 |2452|[ Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[C++](./solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.cpp)|18 ms|
 |2453|[ Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/)|[C++](./solutions/2453.%20Destroy%20Sequential%20Targets.cpp)|163 ms|
