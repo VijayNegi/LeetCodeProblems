@@ -12,23 +12,15 @@
 class Solution {
 public:
     int maxAncestorDiff(TreeNode* root) {
-        
-        int maxDiff = 0;
-        function<void(TreeNode*,int,int)> findAbsDiff = [&](TreeNode* node,int low,int high)
-        {
-            if(!node)
-                return;
-            low = min(node->val,low);
-            high = max(node->val,high);
-            
-            maxDiff = max(high - low,maxDiff);
-            
-            findAbsDiff(node->left,low,high);
-            findAbsDiff(node->right,low,high);
-        };
-        
-        findAbsDiff(root,root->val,root->val);
-        return maxDiff;
-        
+        return dfs(root,root->val,root->val);
+    }
+    int dfs(TreeNode* node,int minAns,int maxAns){
+        if(!node) return 0;
+        int low = min(minAns,node->val);
+        int high = max(maxAns,node->val);
+        int ans = abs(high-low);
+        ans = max(ans,dfs(node->left, low,high));
+        ans = max(ans,dfs(node->right,low,high));
+        return ans;
     }
 };
