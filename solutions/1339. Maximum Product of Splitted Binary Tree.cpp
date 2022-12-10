@@ -9,32 +9,34 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+const int mod = 1e9+7;
 class Solution {
 public:
     int maxProduct(TreeNode* root) {
-        long long product=0;
-        int  e = 10e8 + 7;
-        long long tsum = getSum(root);
-        getProduct(root,product,tsum);
-     
-        return product%e;
-    }
-    long long getSum(TreeNode* root)
-    {
-        if(!root)
-            return 0;
+        queue<TreeNode*> q;
+        q.push(root);
+        int total = 0;
+        while(q.size()){
+            TreeNode* node = q.front();
+            total += node->val;
+            q.pop();
+            if(node->left)
+                q.push(node->left);
+            if(node->right)
+                q.push(node->right);
+        }
+        long product = 0;
+        dfs(root,product,total);
+        return product%mod;
         
-        return root->val + getSum(root->left) + getSum(root->right);
     }
-    long long getProduct(TreeNode* root,long long& product,long long& tsum)
-    {
-        if(!root)
-            return 0;
-        // long long sLeft = getProduct(root->left, product, tsum);
-        // long long sRight = getProduct(root->right,product, tsum);
-        long long sum = root->val+  getProduct(root->left, product, tsum)+  getProduct(root->right,product, tsum);
-        product  = max((tsum - sum) * sum, product );
+    int dfs(TreeNode* node, long& product, int total){
+        if(!node) return 0;
         
-        return sum;
+        long left = dfs(node->left,product,total);
+        long right = dfs(node->right,product,total);
+        product = max(product,(left*(total-left)));
+        product = max(product,(right*(total-right)));
+        return left+right+ node->val;
     }
 };
