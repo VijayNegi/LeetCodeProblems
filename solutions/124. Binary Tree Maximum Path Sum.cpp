@@ -12,32 +12,18 @@
 class Solution {
 public:
     int maxPathSum(TreeNode* root) {
-        int interPathSum,Solution;
-        if(!root)
-            return 0;
-        helperFunc(root,interPathSum,Solution);
-        return Solution ;
+        int maxPath=INT_MIN;
+        dfs(root,maxPath);
+        return maxPath;
     }
-    
-    void helperFunc(TreeNode* root,int &interPathSum, int &currentSol)
-    {
-        int rSum=0,lSum=0,rSol=INT_MIN,lSol=INT_MIN;
-        currentSol=0;
-        if(root->left){
-            helperFunc(root->left,lSum,lSol);
-            currentSol+=lSum;
-        }
-        if(root->right){
-            helperFunc(root->right,rSum,rSol);
-            currentSol+=rSum;
-        }
-        
-        interPathSum = max(max(lSum,rSum) + root->val,root->val);
-        
-        currentSol += root->val;
-        currentSol = max(max(max(lSol,rSol),currentSol ),interPathSum);
-        return;
-        
+    int dfs(TreeNode* node, int& maxPath){
+        if(!node) return 0;
+        int path= node->val;
+        int left = max(0,dfs(node->left,maxPath));
+        int right = max(0,dfs(node->right,maxPath));
+        path += left+right;
+        if(maxPath < path)
+            maxPath = path;
+        return node->val + max(left,right);
     }
-    
 };
