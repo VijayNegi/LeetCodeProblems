@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int totalFruit(vector<int>& fruits) {
+    // self
+    int totalFruit1(vector<int>& fruits) {
         unordered_map<int,int> pick;
         int count = 0;
         int l=0,r=0,n=fruits.size();
@@ -19,5 +20,17 @@ public:
             }
         }
         return result;
+    }
+    int totalFruit(vector<int> &tree) {
+        unordered_map<int, int> count;
+        int i, j;
+        for (i = 0, j = 0; j < tree.size(); ++j) {
+            count[tree[j]]++;
+            if (count.size() > 2) {
+                if (--count[tree[i]] == 0)count.erase(tree[i]);
+                i++;
+            }
+        }
+        return j - i;
     }
 };
