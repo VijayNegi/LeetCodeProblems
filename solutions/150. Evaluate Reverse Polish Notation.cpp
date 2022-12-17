@@ -14,7 +14,20 @@ public:
         }
         return stk.back();
     }
-    long operate(char op,long a,long b){↔}
+    long operate(char op,long a,long b){
+        switch(op)
+        {
+            case '+':
+                return a+b;
+            case '-':
+                return a-b;
+            case '/':
+                return a/b;
+            case '*':
+                return a*b;
+        }
+        return 0;
+    }
     int evalRPN(vector<string>& tokens) {
         stack<long> stk;
         
@@ -30,15 +43,3 @@ public:
                 {
                     case '+': stk.push(a+b);
                         break;
-                    case '-': stk.push(b-a);
-                        break;
-                    case '*': stk.push(a*b);
-                        break;
-                    case '/':stk.push(b/a);
-                        break;
-                }
-            }
-        }
-        return stk.top();
-    }
-};
