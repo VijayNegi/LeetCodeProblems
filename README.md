@@ -40,6 +40,7 @@
 |52|[ N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C++](./solutions/52.%20N-Queens%20II.cpp)|3 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./solutions/53.%20Maximum%20Subarray.cpp)|84 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./solutions/54.%20Spiral%20Matrix.cpp)|0 ms|
+|55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[C++](./solutions/55.%20Jump%20Game.cpp)|85 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./solutions/56.%20Merge%20Intervals.cpp)|12 ms|
 |57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](./solutions/57.%20Insert%20Interval.cpp)|22 ms|
 |59|[ Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](./solutions/59.%20Spiral%20Matrix%20II.cpp)|0 ms|
