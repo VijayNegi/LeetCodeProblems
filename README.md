@@ -482,7 +482,7 @@
 |1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[C++](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.cpp)|116 ms|
 |1780|[ Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)|[C++](./solutions/1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.cpp)|0 ms|
 |1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[C++](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.cpp)|7 ms|
-|1834|[ Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|[C++](./solutions/1834.%20Single-Threaded%20CPU.cpp)|656 ms|
+|1834|[ Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|[C++](./solutions/1834.%20Single-Threaded%20CPU.cpp)|841 ms|
 |1900|[ The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/)|[C++](./solutions/1900.%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.cpp)|0 ms|
 |1926|[ Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|[C++](./solutions/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.cpp)|472 ms|
 |1962|[ Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[C++](./solutions/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.cpp)|580 ms|
