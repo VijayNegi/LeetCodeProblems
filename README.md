@@ -313,7 +313,7 @@
 |790|[ Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[C++](./solutions/790.%20Domino%20and%20Tromino%20Tiling.cpp)|0 ms|
 |792|[ Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[C++](./solutions/792.%20Number%20of%20Matching%20Subsequences.cpp)|231 ms|
 |796|[ Rotate String](https://leetcode.com/problems/rotate-string/)|[C++](./solutions/796.%20Rotate%20String.cpp)|0 ms|
-|797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[C++](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|12 ms|
+|797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[C++](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.cpp)|14 ms|
 |799|[ Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[C++](./solutions/799.%20Champagne%20Tower.cpp)|19 ms|
 |804|[ Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[C++](./solutions/804.%20Unique%20Morse%20Code%20Words.cpp)|4 ms|
 |814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./solutions/814.%20Binary%20Tree%20Pruning.cpp)|0 ms|
