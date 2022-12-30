@@ -1,30 +1,21 @@
 class Solution {
 public:
     vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& graph) {
-        int dst = graph.size() -1;
-        vector<vector<int>> res;
-        vector<int> path = {0};
-        function<void(void)> dfs = [&]()
-        {
-            int s = path.size();
-            int o = path[s-1];
-            
-            if(o==dst)
-            {
-                res.push_back(path);
+        vector<vector<int>> result;
+        int n = graph.size();
+        vector<int> path;
+        function<void(int)> dfs = [&](int node){
+            path.push_back(node);
+            if(node == n-1){
+                result.push_back(path);
+                path.pop_back();
                 return;
             }
-            for(auto& n:graph[o])
-            {
-                path.push_back(n);
-                dfs();
-                path.pop_back();
-            }
+            for(auto k:graph[node])
+                dfs(k);
+            path.pop_back();
         };
-        
-        
-        dfs();
-        
-        return res;
+        dfs(0);
+        return result;
     }
 };
