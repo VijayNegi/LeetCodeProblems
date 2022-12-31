@@ -1,51 +1,37 @@
 class Solution {
 public:
     int uniquePathsIII(vector<vector<int>>& grid) {
+        int sr,sc;
         int rows = grid.size();
         int cols = grid[0].size();
-        int obstacles = 0;
-        for(int r=0;r<rows;++r)
-        {
-            obstacles += std::count(grid[r].cbegin(), grid[r].cend(), -1);
-        }
-        int walks = rows * cols - obstacles -2;
-        int currwalks = 0;
-        int paths = 0;
-        //cout<<"obs="<<obstacles<<endl;
-        
-        const function<void(int,int)> dfs = [&](int r,int c)
-        {
-            if(r<0 || c<0 || r==rows || c==cols || grid[r][c]==-1 )
-                return;
-            
-            if(grid[r][c]==2)
-            {
-                if(currwalks == walks+1)
-                    ++paths;
-                return;
-            }
-            grid[r][c] = -1;
-            ++currwalks;
-            dfs(r+1,c);
-            dfs(r,c+1);
-            dfs(r-1,c);
-            dfs(r,c-1);
-            --currwalks;
-            grid[r][c] = 0;
-                
-        };
-        
-        for(int r=0;r<rows;r++)
-        {
-            for(int c=0;c<cols;c++)
-            {
-                if(grid[r][c]==1)
-                {
-                    dfs(r,c);
-                    return paths;
+        int visited=0;;
+        for(int i=0;i<rows;++i)
+            for(int j=0;j<cols;++j){
+                if(grid[i][j]==1){
+                    sr=i;sc=j;
                 }
+                else if(grid[i][j]==0)
+                    ++visited;
             }
-        }
-        return paths;
+        int result = 0;
+        ++visited;
+        function<void(int,int)> dfs = [&](int r,int c){
+            if(r<0 || r>=rows || c<0 || c>=cols || grid[r][c]>2 || grid[r][c]==-1)
+                return;
+            if(grid[r][c]==2){
+                if(visited == 0)
+                    ++result;
+                return;
+            }
+            --visited;
+            grid[r][c] = -1;
+            vector<int> dir = {1,0,-1,0,1};
+            for(int i=0;i<4;++i)
+                dfs(r+dir[i],c+dir[i+1]);
+            grid[r][c]=0;
+            ++visited;
+        };
+        dfs(sr,sc);
+        return result;
     }
 };
