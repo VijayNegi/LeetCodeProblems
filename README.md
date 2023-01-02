@@ -243,6 +243,7 @@
 |473|[ Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[C++](./solutions/473.%20Matchsticks%20to%20Square.cpp)|391 ms|
 |474|[ Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](./solutions/474.%20Ones%20and%20Zeroes.cpp)|263 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./solutions/476.%20Number%20Complement.cpp)|0 ms|
+|482|[ License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[C++](./solutions/482.%20License%20Key%20Formatting.cpp)|4 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](./solutions/520.%20Detect%20Capital.cpp)|5 ms|
 |523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](./solutions/523.%20Continuous%20Subarray%20Sum.cpp)|494 ms|
