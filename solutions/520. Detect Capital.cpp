@@ -1,5 +1,16 @@
 class Solution {
 public:
+    
+    bool detectCapitalUse(string word) {
+        int n = word.size();
+        int count=0;
+        for(auto& c:word)
+            if(toupper(c)==c)
+                ++count;
+        if(count==0 || count==n || (count==1 && toupper(word[0]) == word[0]))
+            return true;
+        return false;
+    }
     bool detectCapitalUse1(string word) {
         int n = word.size();
         int caps = 0;
@@ -31,11 +42,11 @@ public:
         return false;
     }
     //another
-    bool detectCapitalUse(string word) {
-    for(int i = 1; i < word.size(); i++){
-        if(isupper(word[1]) != isupper(word[i]) || islower(word[0]) && isupper(word[i])) 
-            return false;
-    }        
-    return true;
-}
+    bool detectCapitalUse3(string word) {
+        for(int i = 1; i < word.size(); i++){
+            if(isupper(word[1]) != isupper(word[i]) || islower(word[0]) && isupper(word[i])) 
+                return false;
+        }        
+        return true;
+    }
 };
