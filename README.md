@@ -357,6 +357,7 @@
 |936|[ Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)|[C++](./solutions/936.%20Stamping%20The%20Sequence.cpp)|17 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./solutions/938.%20Range%20Sum%20of%20BST.cpp)|326 ms|
 |941|[ Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[C++](./solutions/941.%20Valid%20Mountain%20Array.cpp)|31 ms|
+|944|[ Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[C++](./solutions/944.%20Delete%20Columns%20to%20Make%20Sorted.cpp)|73 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./solutions/946.%20Validate%20Stack%20Sequences.cpp)|4 ms|
 |947|[ Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[C++](./solutions/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp)|551 ms|
 |948|[ Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[C++](./solutions/948.%20Bag%20of%20Tokens.cpp)|20 ms|
