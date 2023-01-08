@@ -29,3 +29,16 @@ public:
                 // it also means it's the power of city `ith`
                 windowPower += stations[i + r] + additions[i + r];
             }
+            if (windowPower < minPowerRequired) {
+                long long needed = minPowerRequired - windowPower;
+                if (needed > additionalStations) {
+                    // Not enough additional stations to plant
+                    return false;
+                }
+                // Plant the additional stations on the farthest city in the range
+                // to cover as many cities as possible
+                additions[min(n - 1, i + r)] += needed;
+                windowPower = minPowerRequired;
+                additionalStations -= needed;
+            }
+            if (i - r >= 0) {
