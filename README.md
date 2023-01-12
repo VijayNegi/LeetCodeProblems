@@ -456,6 +456,7 @@
 |1473|[ Paint House III](https://leetcode.com/problems/paint-house-iii/)|[C++](./solutions/1473.%20Paint%20House%20III.cpp)|120 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](./solutions/1480.%20Running%20Sum%20of%201d%20Array.cpp)|0 ms|
 |1510|[ Stone Game IV](https://leetcode.com/problems/stone-game-iv/)|[C++](./solutions/1510.%20Stone%20Game%20IV.cpp)|40 ms|
+|1519|[ Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[C++](./solutions/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.cpp)|662 ms|
 |1521|[ Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)|[C++](./solutions/1521.%20Find%20a%20Value%20of%20a%20Mysterious%20Function%20Closest%20to%20Target.cpp)|162 ms|
 |1531|[ String Compression II](https://leetcode.com/problems/string-compression-ii/)|[C++](./solutions/1531.%20String%20Compression%20II.cpp)|49 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./solutions/1544.%20Make%20The%20String%20Great.cpp)|5 ms|
