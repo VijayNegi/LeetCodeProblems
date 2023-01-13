@@ -307,6 +307,7 @@
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./solutions/739.%20Daily%20Temperatures.cpp)|204 ms|
 |740|[ Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[C++](./solutions/740.%20Delete%20and%20Earn.cpp)|9 ms|
 |743|[ Network Delay Time](https://leetcode.com/problems/network-delay-time/)|[C++](./solutions/743.%20Network%20Delay%20Time.cpp)|136 ms|
+|744|[ Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[C++](./solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)|21 ms|
 |745|[ Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)|[C++](./solutions/745.%20Prefix%20and%20Suffix%20Search.cpp)|1108 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|14 ms|
 |753|[ Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)|[C++](./solutions/753.%20Cracking%20the%20Safe.cpp)|4 ms|
