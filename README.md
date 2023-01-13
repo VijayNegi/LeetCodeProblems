@@ -534,7 +534,7 @@
 |2241|[ Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/)|[C++](./solutions/2241.%20Design%20an%20ATM%20Machine.cpp)|694 ms|
 |2242|[ Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)|[C++](./solutions/2242.%20Maximum%20Score%20of%20a%20Node%20Sequence.cpp)|502 ms|
 |2244|[ Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)|[C++](./solutions/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks.cpp)|558 ms|
-|2246|[ Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)|[C++](./solutions/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters.cpp)|635 ms|
+|2246|[ Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)|[C++](./solutions/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters.cpp)|385 ms|
 |2256|[ Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|[C++](./solutions/2256.%20Minimum%20Average%20Difference.cpp)|142 ms|
 |2279|[ Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|[C++](./solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.cpp)|195 ms|
 |2389|[ Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[C++](./solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.cpp)|23 ms|
