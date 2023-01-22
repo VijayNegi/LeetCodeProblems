@@ -1,42 +1,31 @@
 class Solution {
 public:
-    //bruteforce : 225ms
+    // 161
     vector<vector<string>> partition1(string s) {
-        
         vector<vector<string>> result;
-        function<bool(string&,int,int)> isPalindrome = [](string& s, int l,int h)
-        {
-            if(l>h)
-                return false;
-            while(l<=h && s[l]==s[h]) ++l,--h;
-            return l>h;
-        };
-        
         vector<string> curr;
-        function<void(int,int)> part = [&](int l,int h)
-        {
-           if(isPalindrome(s,l,h))
-           {
-               curr.push_back(s.substr(l,h-l+1));
-               result.push_back(curr);
-               curr.pop_back();
-           }
-            for(int i=l+1;i<=h;++i)
-            {
-                if(isPalindrome(s,l,i-1))
-                {
-                    curr.push_back(s.substr(l,i-l));
-                    part(i,h);
+        int n = s.size();
+        function<void(int)> dfs = [&](int l){
+            if(l==n ){
+                result.push_back(curr);
+            }
+            for(int i=l;i<n;++i){
+                if(palindrome(s,l,i)){
+                    curr.push_back(s.substr(l,i-l+1));
+                    dfs(i+1);
                     curr.pop_back();
                 }
-         
             }
         };
-        
-        part(0,s.size()-1);
+        dfs(0);
         return result;
     }
-    // dp : 92 ms
+    bool palindrome(string str, int s,int e){
+        while(s<=e)
+            if(str[s++]!=str[e--]) return false;
+        return true;
+    }
+        // dp
     vector<vector<string>> partition(string s) {
         int n = s.size();
         vector<vector<bool>> isPalindrome(n+1,vector<bool>(n+1,false));
