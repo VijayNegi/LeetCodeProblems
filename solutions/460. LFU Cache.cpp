@@ -2,47 +2,110 @@
 // self : WA, not sure what is the issue , probabely with stable priority queue.
 using pii = pair<int,int>;
 class LFUCache {
-    int s;
-    int counter=0;
-    unordered_map<int,pair<int,int>> dict;
-    priority_queue<pii,vector<pii>,greater<>> q;
-    void makeSpace(){
-        while(q.size()){
-            auto [freq, key] = q.top();q.pop();
-            if(!dict.count(key) || dict[key].second != freq)
-                continue;
-            dict.erase(key);
-            break;
-        }
-    }
-    int getPriority(int p){ // for stable priority queue
-        ++counter;
-        return ((p<<10) + counter);
-    }
+    int s;
+    int counter=0;
+    unordered_map<int,pair<int,int>> dict;
+    priority_queue<pii,vector<pii>,greater<>> q;
+    void makeSpace(){
+        while(q.size()){
+            auto [freq, key] = q.top();q.pop();
+            if(!dict.count(key) || dict[key].second != freq)
+                continue;
+            dict.erase(key);
+            break;
+        }
+    }
+    int getPriority(int p){ // for stable priority queue
+        ++counter;
+        return ((p<<10) + counter);
+    }
 public:
-    LFUCache(int capacity) {
-        s= capacity;
-        //counter = 1<<9;
-    }
-    
-    int get(int key) {
-        
-        if(!dict.count(key))
-            return -1;
-        dict[key].second = getPriority((dict[key].second >>10) +1);;
-        q.push({dict[key].second, key});
-        return dict[key].first;
-    }
-    
-    void put(int key, int value) {
-        if(dict.count(key)){
-            dict[key].second = getPriority((dict[key].second >>10) +1);
-            dict[key].first = value;
-            q.push({dict[key].second, key});
-            return;
-        }
-        if(dict.size() == s)
-            makeSpace();
-        //if(dict.size() == s)
-        //    return;
-        dict[key] = {value,getPriority(1)};
+    LFUCache(int capacity) {
+        s= capacity;
+        //counter = 1<<9;
+    }
+    
+    int get(int key) {
+        
+        if(!dict.count(key))
+            return -1;
+        dict[key].second = getPriority((dict[key].second >>10) +1);;
+        q.push({dict[key].second, key});
+        return dict[key].first;
+    }
+    
+    void put(int key, int value) {
+        if(dict.count(key)){
+            dict[key].second = getPriority((dict[key].second >>10) +1);
+            dict[key].first = value;
+            q.push({dict[key].second, key});
+            return;
+        }
+        if(dict.size() == s)
+            makeSpace();
+        //if(dict.size() == s)
+        //    return;
+        dict[key] = {value,getPriority(1)};
+        q.push({dict[key].second, key});
+    }
+};
+*/
+
+class LFUCache {
+    // key: frequency, value: list of original key-value pairs that have the same frequency.
+    unordered_map<int, list<pair<int, int>>> frequencies;
+    // key: original key, value: pair of frequency and the iterator corresponding key int the
+    // frequencies map's list.
+    unordered_map<int, pair<int, list<pair<int, int>>::iterator>> cache;
+    int capacity;
+    int minf;
+
+    void insert(int key, int frequency, int value) {
+        frequencies[frequency].push_back({key, value});
+        cache[key] = {frequency, --frequencies[frequency].end()};
+    }
+
+public:
+    LFUCache(int capacity) : capacity(capacity), minf(0) {}
+
+    int get(int key) {
+        const auto it = cache.find(key);
+        if (it == cache.end()) {
+            return -1;
+        }
+        const int f = it->second.first;
+        const auto iter = it->second.second;
+        const pair<int, int> kv = *iter;
+        frequencies[f].erase(iter);
+        if (frequencies[f].empty() && minf == f) {
+            ++minf;
+        }
+        insert(key, f + 1, kv.second);
+        return kv.second;
+    }
+
+    void put(int key, int value) {
+        if (capacity <= 0) {
+            return;
+        }
+        const auto it = cache.find(key);
+        if (it != cache.end()) {
+            it->second.second->second = value;
+            get(key);
+            return;
+        }
+        if (capacity == cache.size()) {
+            cache.erase(frequencies[minf].front().first);
+            frequencies[minf].pop_front();
+        }
+        minf = 1;
+        insert(key, 1, value);
+    }
+};
+
+/**
+ * Your LFUCache object will be instantiated and called as such:
+ * LFUCache* obj = new LFUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
