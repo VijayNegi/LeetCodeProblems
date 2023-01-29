@@ -246,6 +246,7 @@
 |456|[ 132 Pattern](https://leetcode.com/problems/132-pattern/)|[C++](./solutions/456.%20132%20Pattern.cpp)|120 ms|
 |458|[ Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[C++](./solutions/458.%20Poor%20Pigs.cpp)|0 ms|
 |459|[ Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[C++](./solutions/459.%20Repeated%20Substring%20Pattern.cpp)|20 ms|
+|460|[ LFU Cache](https://leetcode.com/problems/lfu-cache/)|[C++](./solutions/460.%20LFU%20Cache.cpp)|483 ms|
 |461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[JavaScript](./solutions/461.%20Hamming%20Distance.js)|72 ms|
 |462|[ Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[C++](./solutions/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.cpp)|14 ms|
 |472|[ Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[C++](./solutions/472.%20Concatenated%20Words.cpp)|281 ms|
