@@ -378,6 +378,7 @@
 |947|[ Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|[C++](./solutions/947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp)|551 ms|
 |948|[ Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[C++](./solutions/948.%20Bag%20of%20Tokens.cpp)|20 ms|
 |952|[ Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[C++](./solutions/952.%20Largest%20Component%20Size%20by%20Common%20Factor.cpp)|272 ms|
+|953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[C++](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.cpp)|5 ms|
 |954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[C++](./solutions/954.%20Array%20of%20Doubled%20Pairs.cpp)|76 ms|
 |955|[ Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)|[C++](./solutions/955.%20Delete%20Columns%20to%20Make%20Sorted%20II.cpp)|6 ms|
 |967|[ Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[C++](./solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences.cpp)|3 ms|
