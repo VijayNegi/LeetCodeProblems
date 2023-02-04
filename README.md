@@ -269,7 +269,7 @@
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C++](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.cpp)|45 ms|
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./solutions/560.%20Subarray%20Sum%20Equals%20K.cpp)|100 ms|
 |563|[ Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[C++](./solutions/563.%20Binary%20Tree%20Tilt.cpp)|29 ms|
-|567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](./solutions/567.%20Permutation%20in%20String.cpp)|7 ms|
+|567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[C++](./solutions/567.%20Permutation%20in%20String.cpp)|8 ms|
 |572|[ Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[C++](./solutions/572.%20Subtree%20of%20Another%20Tree.cpp)|28 ms|
 |576|[ Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[C++](./solutions/576.%20Out%20of%20Boundary%20Paths.cpp)|13 ms|
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.cpp)|36 ms|
