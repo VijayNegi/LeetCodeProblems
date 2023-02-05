@@ -234,7 +234,7 @@
 |429|[ N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[C++](./solutions/429.%20N-ary%20Tree%20Level%20Order%20Traversal.cpp)|29 ms|
 |433|[ Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[C++](./solutions/433.%20Minimum%20Genetic%20Mutation.cpp)|4 ms|
 |435|[ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[C++](./solutions/435.%20Non-overlapping%20Intervals.cpp)|384 ms|
-|438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|20 ms|
+|438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|16 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C++](./solutions/441.%20Arranging%20Coins.cpp)|0 ms|
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[C++](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.cpp)|55 ms|
 |446|[ Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[C++](./solutions/446.%20Arithmetic%20Slices%20II%20-%20Subsequence.cpp)|747 ms|
