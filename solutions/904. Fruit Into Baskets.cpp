@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //self
     int totalFruit1(vector<int>& fruits) {
         int result=0;
         unordered_map<int,int> basket;
@@ -16,6 +17,7 @@ public:
         }
         return result;
     }
+    // others
     int totalFruit(vector<int> &tree) {
         unordered_map<int, int> count;
         int i, j;
