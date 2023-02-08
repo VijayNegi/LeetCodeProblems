@@ -35,6 +35,7 @@
 |41|[ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./solutions/41.%20First%20Missing%20Positive.cpp)|62 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./solutions/42.%20Trapping%20Rain%20Water.cpp)|39 ms|
 |43|[ Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[C++](./solutions/43.%20Multiply%20Strings.cpp)|8 ms|
+|45|[ Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./solutions/45.%20Jump%20Game%20II.cpp)|537 ms|
 |47|[ Permutations II](https://leetcode.com/problems/permutations-ii/)|[C++](./solutions/47.%20Permutations%20II.cpp)|3 ms|
 |48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./solutions/48.%20Rotate%20Image.cpp)|6 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|89 ms|
