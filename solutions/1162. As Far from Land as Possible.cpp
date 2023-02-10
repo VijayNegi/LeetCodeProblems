@@ -1,5 +1,4 @@
-class Solution {
-public:
+    // self
     int maxDistance(vector<vector<int>>& grid) {
         int result=0;
         int n = grid.size();
@@ -28,5 +27,5 @@ public:
             ++result;
         }
         return result-1;
-    }
+    }
 };
