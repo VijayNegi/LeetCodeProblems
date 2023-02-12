@@ -575,6 +575,7 @@
 |2466|[ Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)|[C++](./solutions/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.cpp)|34 ms|
 |2467|[ Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)|[C++](./solutions/2467.%20Most%20Profitable%20Path%20in%20a%20Tree.cpp)|1360 ms|
 |2468|[ Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)|[C++](./solutions/2468.%20Split%20Message%20Based%20on%20Limit.cpp)|231 ms|
+|2477|[ Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)|[C++](./solutions/2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital.cpp)|551 ms|
 |2481|[ Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)|[C++](./solutions/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle.cpp)|3 ms|
 |2482|[ Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|[C++](./solutions/2482.%20Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.cpp)|574 ms|
 |2483|[ Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)|[C++](./solutions/2483.%20Minimum%20Penalty%20for%20a%20Shop.cpp)|24 ms|
