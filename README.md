@@ -258,6 +258,7 @@
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./solutions/476.%20Number%20Complement.cpp)|0 ms|
 |482|[ License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[C++](./solutions/482.%20License%20Key%20Formatting.cpp)|4 ms|
 |491|[ Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)|[C++](./solutions/491.%20Non-decreasing%20Subsequences.cpp)|503 ms|
+|502|[ IPO](https://leetcode.com/problems/ipo/)|[C++](./solutions/502.%20IPO.cpp)|244 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
 |520|[ Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](./solutions/520.%20Detect%20Capital.cpp)|5 ms|
 |523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[C++](./solutions/523.%20Continuous%20Subarray%20Sum.cpp)|494 ms|
