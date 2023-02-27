@@ -234,6 +234,7 @@
 |417|[ Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[C++](./solutions/417.%20Pacific%20Atlantic%20Water%20Flow.cpp)|292 ms|
 |421|[ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[C++](./solutions/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp)|461 ms|
 |424|[ Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[C++](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.cpp)|8 ms|
+|427|[ Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)|[C++](./solutions/427.%20Construct%20Quad%20Tree.cpp)|12 ms|
 |429|[ N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[C++](./solutions/429.%20N-ary%20Tree%20Level%20Order%20Traversal.cpp)|29 ms|
 |433|[ Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|[C++](./solutions/433.%20Minimum%20Genetic%20Mutation.cpp)|4 ms|
 |435|[ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[C++](./solutions/435.%20Non-overlapping%20Intervals.cpp)|384 ms|
