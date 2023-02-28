@@ -292,6 +292,7 @@
 |637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[C++](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp)|16 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[C++](./solutions/645.%20Set%20Mismatch.cpp)|93 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|7 ms|
+|652|[ Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[C++](./solutions/652.%20Find%20Duplicate%20Subtrees.cpp)|43 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|114 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[C++](./solutions/658.%20Find%20K%20Closest%20Elements.cpp)|82 ms|
 |659|[ Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[C++](./solutions/659.%20Split%20Array%20into%20Consecutive%20Subsequences.cpp)|105 ms|
