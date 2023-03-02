@@ -241,6 +241,7 @@
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|16 ms|
 |441|[ Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[C++](./solutions/441.%20Arranging%20Coins.cpp)|0 ms|
 |442|[ Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[C++](./solutions/442.%20Find%20All%20Duplicates%20in%20an%20Array.cpp)|55 ms|
+|443|[ String Compression](https://leetcode.com/problems/string-compression/)|[C++](./solutions/443.%20String%20Compression.cpp)|3 ms|
 |446|[ Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)|[C++](./solutions/446.%20Arithmetic%20Slices%20II%20-%20Subsequence.cpp)|747 ms|
 |447|[ Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[C++](./solutions/447.%20Number%20of%20Boomerangs.cpp)|896 ms|
 |448|[ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|40 ms|
