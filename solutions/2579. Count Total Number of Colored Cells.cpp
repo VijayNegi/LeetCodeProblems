@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // self, contest
+    // self, contest, sum of sides at each level
     long long coloredCells1(int n) {
         long long result=1;
         for(int i=2;i<=n;++i)
