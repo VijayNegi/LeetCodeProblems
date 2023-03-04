@@ -596,3 +596,4 @@
 |2526|[ Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/)|[C++](./solutions/2526.%20Find%20Consecutive%20Integers%20from%20a%20Data%20Stream.cpp)|307 ms|
 |2527|[ Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/)|[C++](./solutions/2527.%20Find%20Xor-Beauty%20of%20Array.cpp)|81 ms|
 |2528|[ Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/)|[C++](./solutions/2528.%20Maximize%20the%20Minimum%20Powered%20City.cpp)|292 ms|
+|2578|[ Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)|[C++](./solutions/2578.%20Split%20With%20Minimum%20Sum.cpp)|0 ms|
