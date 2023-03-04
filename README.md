@@ -578,6 +578,7 @@
 |2359|[ Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)|[C++](./solutions/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp)|191 ms|
 |2389|[ Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[C++](./solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.cpp)|23 ms|
 |2421|[ Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)|[C++](./solutions/2421.%20Number%20of%20Good%20Paths.cpp)|789 ms|
+|2444|[ Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)|[C++](./solutions/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.cpp)|126 ms|
 |2451|[ Odd String Difference](https://leetcode.com/problems/odd-string-difference/)|[C++](./solutions/2451.%20Odd%20String%20Difference.cpp)|10 ms|
 |2452|[ Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[C++](./solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.cpp)|18 ms|
 |2453|[ Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/)|[C++](./solutions/2453.%20Destroy%20Sequential%20Targets.cpp)|163 ms|
