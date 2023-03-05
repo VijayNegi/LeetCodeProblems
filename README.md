@@ -599,3 +599,4 @@
 |2578|[ Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)|[C++](./solutions/2578.%20Split%20With%20Minimum%20Sum.cpp)|0 ms|
 |2579|[ Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)|[C++](./solutions/2579.%20Count%20Total%20Number%20of%20Colored%20Cells.cpp)|0 ms|
 |2580|[ Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/)|[C++](./solutions/2580.%20Count%20Ways%20to%20Group%20Overlapping%20Ranges.cpp)|378 ms|
+|2581|[ Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/)|[C++](./solutions/2581.%20Count%20Number%20of%20Possible%20Root%20Nodes.cpp)|778 ms|
