@@ -494,6 +494,7 @@
 |1521|[ Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)|[C++](./solutions/1521.%20Find%20a%20Value%20of%20a%20Mysterious%20Function%20Closest%20to%20Target.cpp)|162 ms|
 |1523|[ Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[C++](./solutions/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)|3 ms|
 |1531|[ String Compression II](https://leetcode.com/problems/string-compression-ii/)|[C++](./solutions/1531.%20String%20Compression%20II.cpp)|49 ms|
+|1539|[ Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[C++](./solutions/1539.%20Kth%20Missing%20Positive%20Number.cpp)|6 ms|
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./solutions/1544.%20Make%20The%20String%20Great.cpp)|5 ms|
 |1578|[ Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)|[C++](./solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful.cpp)|360 ms|
 |1584|[ Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[C++](./solutions/1584.%20Min%20Cost%20to%20Connect%20All%20Points.cpp)|100 ms|
