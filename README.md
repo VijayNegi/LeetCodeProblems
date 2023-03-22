@@ -600,6 +600,7 @@
 |2482|[ Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|[C++](./solutions/2482.%20Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column.cpp)|574 ms|
 |2483|[ Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)|[C++](./solutions/2483.%20Minimum%20Penalty%20for%20a%20Shop.cpp)|24 ms|
 |2484|[ Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/)|[C++](./solutions/2484.%20Count%20Palindromic%20Subsequences.cpp)|1270 ms|
+|2492|[ Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)|[C++](./solutions/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.cpp)|388 ms|
 |2525|[ Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)|[C++](./solutions/2525.%20Categorize%20Box%20According%20to%20Criteria.cpp)|3 ms|
 |2526|[ Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/)|[C++](./solutions/2526.%20Find%20Consecutive%20Integers%20from%20a%20Data%20Stream.cpp)|307 ms|
 |2527|[ Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/)|[C++](./solutions/2527.%20Find%20Xor-Beauty%20of%20Array.cpp)|81 ms|
