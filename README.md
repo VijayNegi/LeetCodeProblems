@@ -491,6 +491,7 @@
 |1461|[ Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[C++](./solutions/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.cpp)|259 ms|
 |1463|[ Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)|[C++](./solutions/1463.%20Cherry%20Pickup%20II.cpp)|101 ms|
 |1465|[ Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[C++](./solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.cpp)|126 ms|
+|1466|[ Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[C++](./solutions/1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.cpp)|338 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](./solutions/1470.%20Shuffle%20the%20Array.cpp)|3 ms|
 |1472|[ Design Browser History](https://leetcode.com/problems/design-browser-history/)|[C++](./solutions/1472.%20Design%20Browser%20History.cpp)|271 ms|
 |1473|[ Paint House III](https://leetcode.com/problems/paint-house-iii/)|[C++](./solutions/1473.%20Paint%20House%20III.cpp)|120 ms|
