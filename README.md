@@ -584,6 +584,7 @@
 |2256|[ Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|[C++](./solutions/2256.%20Minimum%20Average%20Difference.cpp)|142 ms|
 |2279|[ Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|[C++](./solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.cpp)|195 ms|
 |2306|[ Naming a Company](https://leetcode.com/problems/naming-a-company/)|[C++](./solutions/2306.%20Naming%20a%20Company.cpp)|444 ms|
+|2316|[ Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|[C++](./solutions/2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp)|430 ms|
 |2348|[ Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|[C++](./solutions/2348.%20Number%20of%20Zero-Filled%20Subarrays.cpp)|170 ms|
 |2359|[ Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)|[C++](./solutions/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp)|191 ms|
 |2389|[ Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[C++](./solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.cpp)|23 ms|
