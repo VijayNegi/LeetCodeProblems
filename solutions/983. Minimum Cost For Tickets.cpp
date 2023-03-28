@@ -21,7 +21,7 @@ public:
         };
         return dfs(0);
     }
-    / bottom up 
+    // bottom up 
     int mincostTickets(vector<int>& DAYS, vector<int>& cost) {
         
         unordered_set<int> days(DAYS.begin(),DAYS.end());
