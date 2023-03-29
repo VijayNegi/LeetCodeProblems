@@ -479,6 +479,7 @@
 |1392|[ Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)|[C++](./solutions/1392.%20Longest%20Happy%20Prefix.cpp)|28 ms|
 |1396|[ Design Underground System](https://leetcode.com/problems/design-underground-system/)|[C++](./solutions/1396.%20Design%20Underground%20System.cpp)|252 ms|
 |1397|[ Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/)|[C++](./solutions/1397.%20Find%20All%20Good%20Strings.cpp)|1244 ms|
+|1402|[ Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)|[C++](./solutions/1402.%20Reducing%20Dishes.cpp)|4 ms|
 |1408|[ String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[C++](./solutions/1408.%20String%20Matching%20in%20an%20Array.cpp)|4 ms|
 |1413|[ Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[C++](./solutions/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.cpp)|0 ms|
 |1414|[ Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[C++](./solutions/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K.cpp)|6 ms|
