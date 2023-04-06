@@ -450,6 +450,7 @@
 |1235|[ Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[C++](./solutions/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.cpp)|589 ms|
 |1239|[ Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[C++](./solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.cpp)|3 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[C++](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)|45 ms|
+|1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[C++](./solutions/1254.%20Number%20of%20Closed%20Islands.cpp)|15 ms|
 |1260|[ Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[C++](./solutions/1260.%20Shift%202D%20Grid.cpp)|37 ms|
 |1268|[ Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[C++](./solutions/1268.%20Search%20Suggestions%20System.cpp)|148 ms|
 |1286|[ Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[C++](./solutions/1286.%20Iterator%20for%20Combination.cpp)|8 ms|
