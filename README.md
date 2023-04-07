@@ -420,6 +420,7 @@
 |1011|[ Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[C++](./solutions/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp)|54 ms|
 |1012|[ Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/)|[C++](./solutions/1012.%20Numbers%20With%20Repeated%20Digits.cpp)|45 ms|
 |1015|[ Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[C++](./solutions/1015.%20Smallest%20Integer%20Divisible%20by%20K.cpp)|4 ms|
+|1020|[ Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[C++](./solutions/1020.%20Number%20of%20Enclaves.cpp)|115 ms|
 |1022|[ Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|[C++](./solutions/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.cpp)|13 ms|
 |1023|[ Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)|[C++](./solutions/1023.%20Camelcase%20Matching.cpp)|0 ms|
 |1026|[ Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[C++](./solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)|10 ms|
