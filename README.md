@@ -597,6 +597,7 @@
 |2359|[ Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)|[C++](./solutions/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp)|191 ms|
 |2360|[ Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)|[C++](./solutions/2360.%20Longest%20Cycle%20in%20a%20Graph.cpp)|453 ms|
 |2389|[ Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[C++](./solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.cpp)|23 ms|
+|2390|[ Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[C++](./solutions/2390.%20Removing%20Stars%20From%20a%20String.cpp)|81 ms|
 |2405|[ Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)|[C++](./solutions/2405.%20Optimal%20Partition%20of%20String.cpp)|25 ms|
 |2421|[ Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)|[C++](./solutions/2421.%20Number%20of%20Good%20Paths.cpp)|789 ms|
 |2439|[ Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)|[C++](./solutions/2439.%20Minimize%20Maximum%20of%20Array.cpp)|126 ms|
