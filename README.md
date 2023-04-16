@@ -514,6 +514,7 @@
 |1584|[ Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[C++](./solutions/1584.%20Min%20Cost%20to%20Connect%20All%20Points.cpp)|100 ms|
 |1626|[ Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[C++](./solutions/1626.%20Best%20Team%20With%20No%20Conflicts.cpp)|461 ms|
 |1631|[ Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[C++](./solutions/1631.%20Path%20With%20Minimum%20Effort.cpp)|274 ms|
+|1639|[ Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)|[C++](./solutions/1639.%20Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary.cpp)|591 ms|
 |1641|[ Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[C++](./solutions/1641.%20Count%20Sorted%20Vowel%20Strings.cpp)|0 ms|
 |1642|[ Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[C++](./solutions/1642.%20Furthest%20Building%20You%20Can%20Reach.cpp)|229 ms|
 |1647|[ Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|[C++](./solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.cpp)|69 ms|
