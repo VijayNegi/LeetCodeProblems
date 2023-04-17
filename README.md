@@ -489,6 +489,7 @@
 |1414|[ Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)|[C++](./solutions/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K.cpp)|6 ms|
 |1423|[ Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[C++](./solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp)|73 ms|
 |1425|[ Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)|[C++](./solutions/1425.%20Constrained%20Subsequence%20Sum.cpp)|334 ms|
+|1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|3 ms|
 |1443|[ Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[C++](./solutions/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.cpp)|189 ms|
 |1444|[ Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)|[C++](./solutions/1444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza.cpp)|41 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[C++](./solutions/1446.%20Consecutive%20Characters.cpp)|4 ms|
