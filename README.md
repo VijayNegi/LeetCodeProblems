@@ -602,6 +602,7 @@
 |2300|[ Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[C++](./solutions/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cpp)|273 ms|
 |2306|[ Naming a Company](https://leetcode.com/problems/naming-a-company/)|[C++](./solutions/2306.%20Naming%20a%20Company.cpp)|444 ms|
 |2316|[ Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|[C++](./solutions/2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp)|430 ms|
+|2336|[ Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)|[C++](./solutions/2336.%20Smallest%20Number%20in%20Infinite%20Set.cpp)|67 ms|
 |2348|[ Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|[C++](./solutions/2348.%20Number%20of%20Zero-Filled%20Subarrays.cpp)|170 ms|
 |2359|[ Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)|[C++](./solutions/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp)|191 ms|
 |2360|[ Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)|[C++](./solutions/2360.%20Longest%20Cycle%20in%20a%20Graph.cpp)|453 ms|
