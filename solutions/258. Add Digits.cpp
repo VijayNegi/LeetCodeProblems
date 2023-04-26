@@ -1,6 +1,17 @@
 class Solution {
 public:
     int addDigits1(int num) {
+        string s = to_string(num);
+        while(s.size()!=1){
+            int n=0;
+            for(auto& k:s){
+                n += k-'0';
+            }
+            s = to_string(n);
+        }
+        return s[0]-'0';
+    }
+    int addDigits2(int num) {
         
         int res=0;
         while(num)
