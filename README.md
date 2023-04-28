@@ -351,6 +351,7 @@
 |834|[ Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[C++](./solutions/834.%20Sum%20of%20Distances%20in%20Tree.cpp)|457 ms|
 |835|[ Image Overlap](https://leetcode.com/problems/image-overlap/)|[C++](./solutions/835.%20Image%20Overlap.cpp)|24 ms|
 |838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[C++](./solutions/838.%20Push%20Dominoes.cpp)|87 ms|
+|839|[ Similar String Groups](https://leetcode.com/problems/similar-string-groups/)|[C++](./solutions/839.%20Similar%20String%20Groups.cpp)|194 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[C++](./solutions/841.%20Keys%20and%20Rooms.cpp)|17 ms|
 |843|[ Guess the Word](https://leetcode.com/problems/guess-the-word/)|[C++](./solutions/843.%20Guess%20the%20Word.cpp)|2 ms|
 |844|[ Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./solutions/844.%20Backspace%20String%20Compare.cpp)|0 ms|
