@@ -510,6 +510,7 @@
 |1472|[ Design Browser History](https://leetcode.com/problems/design-browser-history/)|[C++](./solutions/1472.%20Design%20Browser%20History.cpp)|271 ms|
 |1473|[ Paint House III](https://leetcode.com/problems/paint-house-iii/)|[C++](./solutions/1473.%20Paint%20House%20III.cpp)|120 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](./solutions/1480.%20Running%20Sum%20of%201d%20Array.cpp)|0 ms|
+|1491|[ Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[C++](./solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.cpp)|0 ms|
 |1510|[ Stone Game IV](https://leetcode.com/problems/stone-game-iv/)|[C++](./solutions/1510.%20Stone%20Game%20IV.cpp)|40 ms|
 |1519|[ Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[C++](./solutions/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.cpp)|662 ms|
 |1521|[ Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)|[C++](./solutions/1521.%20Find%20a%20Value%20of%20a%20Mysterious%20Function%20Closest%20to%20Target.cpp)|162 ms|
