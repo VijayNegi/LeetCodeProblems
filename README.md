@@ -646,4 +646,5 @@
 |2580|[ Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/)|[C++](./solutions/2580.%20Count%20Ways%20to%20Group%20Overlapping%20Ranges.cpp)|378 ms|
 |2581|[ Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/)|[C++](./solutions/2581.%20Count%20Number%20of%20Possible%20Root%20Nodes.cpp)|778 ms|
 |2620|[ Counter](https://leetcode.com/problems/counter/)|[JavaScript](./solutions/2620.%20Counter.js)|62 ms|
+|2665|[ Counter II](https://leetcode.com/problems/counter-ii/)|[JavaScript](./solutions/2665.%20Counter%20II.js)|73 ms|
 |2667|[ Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)|[JavaScript](./solutions/2667.%20Create%20Hello%20World%20Function.js)|58 ms|
