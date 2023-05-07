@@ -561,6 +561,7 @@
 |1900|[ The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/)|[C++](./solutions/1900.%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.cpp)|0 ms|
 |1926|[ Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|[C++](./solutions/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.cpp)|472 ms|
 |1962|[ Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[C++](./solutions/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.cpp)|580 ms|
+|1964|[ Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)|[C++](./solutions/1964.%20Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.cpp)|366 ms|
 |1971|[ Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|[C++](./solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph.cpp)|872 ms|
 |1996|[ The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|[C++](./solutions/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp)|700 ms|
 |2007|[ Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)|[C++](./solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array.cpp)|623 ms|
