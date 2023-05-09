@@ -1,5 +1,34 @@
 class Solution {
 public:
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        int m = matrix.size();
+        int n = matrix[0].size();
+        int top = 0, left = 0;
+        int bottom = m-1, right = n-1;
+        vector<int> result; 
+        while (top<=bottom && left<=right) {
+            for (int i=left; i<=right && top<=bottom; i++) {
+                result.push_back(matrix[top][i]);
+            }
+            top++;
+            
+            for (int i=top; i<=bottom && left<=right; i++) {
+                result.push_back(matrix[i][right]);
+            }
+            right--;
+            
+            for (int i=right; i>=left && top<=bottom; i--) {
+                result.push_back(matrix[bottom][i]);
+            }
+            bottom--;
+            
+            for (int i=bottom; i>=top && left<=right; i--) {
+                result.push_back(matrix[i][left]);
+            }
+            left++;
+        }
+        return result;
+    }
     vector<int> spiralOrder1(vector<vector<int>>& matrix) {
         
         int rows = matrix.size();
@@ -26,45 +55,5 @@ public:
             c += dir[cdir][1];
         }
         return result;
-    }
-    // https://leetcode.com/problems/spiral-matrix/discuss/978853/C%2B%2B-or-0ms-faster-than-100-or-Easy-solution-with-proper-explanation
-    vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int n=matrix.size();
-        int m=matrix[0].size();
-        int left=0,right=m-1,bottom=n-1,top=0;
-        int direction=1;
-        vector<int> v;
-        while(left<=right && top<=bottom)
-        {
-            if(direction==1)
-            {
-                for(int i=left;i<=right;i++) v.push_back(matrix[top][i]);
-                direction=2;
-                top++;
-            }
-            
-            else if(direction==2)
-            {
-                for(int i=top;i<=bottom;i++) v.push_back(matrix[i][right]);
-                direction=3;
-                right--;
-            }
-            
-            else if(direction==3)
-            {
-                for(int i=right;i>=left;i--) v.push_back(matrix[bottom][i]);
-                direction=4;
-                bottom--;
-            }
-            
-            else if(direction==4)
-            {
-                for(int i=bottom;i>=top;i--) v.push_back(matrix[i][left]);
-                direction=1;
-                left++;
-            }
-        }
-        return v;
-        
     }
 };
