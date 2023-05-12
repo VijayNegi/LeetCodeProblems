@@ -654,4 +654,5 @@
 |2634|[ Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[JavaScript](./solutions/2634.%20Filter%20Elements%20from%20Array.js)|61 ms|
 |2635|[ Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)|[JavaScript](./solutions/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js)|57 ms|
 |2665|[ Counter II](https://leetcode.com/problems/counter-ii/)|[JavaScript](./solutions/2665.%20Counter%20II.js)|73 ms|
+|2666|[ Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)|[JavaScript](./solutions/2666.%20Allow%20One%20Function%20Call.js)|71 ms|
 |2667|[ Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)|[JavaScript](./solutions/2667.%20Create%20Hello%20World%20Function.js)|58 ms|
