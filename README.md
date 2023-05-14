@@ -653,6 +653,7 @@
 |2623|[ Memoize](https://leetcode.com/problems/memoize/)|[JavaScript](./solutions/2623.%20Memoize.js)|379 ms|
 |2626|[ Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[JavaScript](./solutions/2626.%20Array%20Reduce%20Transformation.js)|67 ms|
 |2629|[ Function Composition](https://leetcode.com/problems/function-composition/)|[JavaScript](./solutions/2629.%20Function%20Composition.js)|70 ms|
+|2632|[ Curry](https://leetcode.com/problems/curry/)|[JavaScript](./solutions/2632.%20Curry.js)|74 ms|
 |2634|[ Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[JavaScript](./solutions/2634.%20Filter%20Elements%20from%20Array.js)|61 ms|
 |2635|[ Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)|[JavaScript](./solutions/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js)|57 ms|
 |2665|[ Counter II](https://leetcode.com/problems/counter-ii/)|[JavaScript](./solutions/2665.%20Counter%20II.js)|73 ms|
