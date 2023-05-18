@@ -653,6 +653,7 @@
 |2581|[ Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/)|[C++](./solutions/2581.%20Count%20Number%20of%20Possible%20Root%20Nodes.cpp)|778 ms|
 |2620|[ Counter](https://leetcode.com/problems/counter/)|[JavaScript](./solutions/2620.%20Counter.js)|62 ms|
 |2621|[ Sleep](https://leetcode.com/problems/sleep/)|[JavaScript](./solutions/2621.%20Sleep.js)|55 ms|
+|2622|[ Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/)|[JavaScript](./solutions/2622.%20Cache%20With%20Time%20Limit.js)|60 ms|
 |2623|[ Memoize](https://leetcode.com/problems/memoize/)|[JavaScript](./solutions/2623.%20Memoize.js)|379 ms|
 |2626|[ Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[JavaScript](./solutions/2626.%20Array%20Reduce%20Transformation.js)|67 ms|
 |2629|[ Function Composition](https://leetcode.com/problems/function-composition/)|[JavaScript](./solutions/2629.%20Function%20Composition.js)|70 ms|
