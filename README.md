@@ -656,6 +656,7 @@
 |2622|[ Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/)|[JavaScript](./solutions/2622.%20Cache%20With%20Time%20Limit.js)|60 ms|
 |2623|[ Memoize](https://leetcode.com/problems/memoize/)|[JavaScript](./solutions/2623.%20Memoize.js)|379 ms|
 |2626|[ Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[JavaScript](./solutions/2626.%20Array%20Reduce%20Transformation.js)|67 ms|
+|2627|[ Debounce](https://leetcode.com/problems/debounce/)|[JavaScript](./solutions/2627.%20Debounce.js)|97 ms|
 |2629|[ Function Composition](https://leetcode.com/problems/function-composition/)|[JavaScript](./solutions/2629.%20Function%20Composition.js)|70 ms|
 |2632|[ Curry](https://leetcode.com/problems/curry/)|[JavaScript](./solutions/2632.%20Curry.js)|74 ms|
 |2634|[ Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[JavaScript](./solutions/2634.%20Filter%20Elements%20from%20Array.js)|61 ms|
