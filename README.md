@@ -667,4 +667,5 @@
 |2665|[ Counter II](https://leetcode.com/problems/counter-ii/)|[JavaScript](./solutions/2665.%20Counter%20II.js)|73 ms|
 |2666|[ Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)|[JavaScript](./solutions/2666.%20Allow%20One%20Function%20Call.js)|71 ms|
 |2667|[ Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)|[JavaScript](./solutions/2667.%20Create%20Hello%20World%20Function.js)|58 ms|
+|2675|[ Array of Objects to Matrix](https://leetcode.com/problems/array-of-objects-to-matrix/)|[JavaScript](./solutions/2675.%20Array%20of%20Objects%20to%20Matrix.js)|432 ms|
 |2676|[ Throttle](https://leetcode.com/problems/throttle/)|[JavaScript](./solutions/2676.%20Throttle.js)|54 ms|
