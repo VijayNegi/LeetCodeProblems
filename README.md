@@ -670,4 +670,5 @@
 |2667|[ Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)|[JavaScript](./solutions/2667.%20Create%20Hello%20World%20Function.js)|58 ms|
 |2675|[ Array of Objects to Matrix](https://leetcode.com/problems/array-of-objects-to-matrix/)|[JavaScript](./solutions/2675.%20Array%20of%20Objects%20to%20Matrix.js)|432 ms|
 |2676|[ Throttle](https://leetcode.com/problems/throttle/)|[JavaScript](./solutions/2676.%20Throttle.js)|54 ms|
+|2677|[ Chunk Array](https://leetcode.com/problems/chunk-array/)|[JavaScript](./solutions/2677.%20Chunk%20Array.js)|65 ms|
 |2700|[ Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/)|[JavaScript](./solutions/2700.%20Differences%20Between%20Two%20Objects.js)|69 ms|
