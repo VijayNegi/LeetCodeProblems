@@ -351,6 +351,7 @@
 |823|[ Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[C++](./solutions/823.%20Binary%20Trees%20With%20Factors.cpp)|137 ms|
 |834|[ Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[C++](./solutions/834.%20Sum%20of%20Distances%20in%20Tree.cpp)|457 ms|
 |835|[ Image Overlap](https://leetcode.com/problems/image-overlap/)|[C++](./solutions/835.%20Image%20Overlap.cpp)|24 ms|
+|837|[ New 21 Game](https://leetcode.com/problems/new-21-game/)|[C++](./solutions/837.%20New%2021%20Game.cpp)|5 ms|
 |838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[C++](./solutions/838.%20Push%20Dominoes.cpp)|87 ms|
 |839|[ Similar String Groups](https://leetcode.com/problems/similar-string-groups/)|[C++](./solutions/839.%20Similar%20String%20Groups.cpp)|194 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[C++](./solutions/841.%20Keys%20and%20Rooms.cpp)|17 ms|
