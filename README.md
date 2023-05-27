@@ -657,6 +657,7 @@
 |2621|[ Sleep](https://leetcode.com/problems/sleep/)|[JavaScript](./solutions/2621.%20Sleep.js)|55 ms|
 |2622|[ Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/)|[JavaScript](./solutions/2622.%20Cache%20With%20Time%20Limit.js)|60 ms|
 |2623|[ Memoize](https://leetcode.com/problems/memoize/)|[JavaScript](./solutions/2623.%20Memoize.js)|379 ms|
+|2625|[ Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/)|[JavaScript](./solutions/2625.%20Flatten%20Deeply%20Nested%20Array.js)|106 ms|
 |2626|[ Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)|[JavaScript](./solutions/2626.%20Array%20Reduce%20Transformation.js)|67 ms|
 |2627|[ Debounce](https://leetcode.com/problems/debounce/)|[JavaScript](./solutions/2627.%20Debounce.js)|97 ms|
 |2628|[ JSON Deep Equal](https://leetcode.com/problems/json-deep-equal/)|[JavaScript](./solutions/2628.%20JSON%20Deep%20Equal.js)|69 ms|
