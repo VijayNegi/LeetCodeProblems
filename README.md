@@ -665,6 +665,7 @@
 |2627|[ Debounce](https://leetcode.com/problems/debounce/)|[JavaScript](./solutions/2627.%20Debounce.js)|97 ms|
 |2628|[ JSON Deep Equal](https://leetcode.com/problems/json-deep-equal/)|[JavaScript](./solutions/2628.%20JSON%20Deep%20Equal.js)|69 ms|
 |2629|[ Function Composition](https://leetcode.com/problems/function-composition/)|[JavaScript](./solutions/2629.%20Function%20Composition.js)|70 ms|
+|2631|[ Group By](https://leetcode.com/problems/group-by/)|[JavaScript](./solutions/2631.%20Group%20By.js)|168 ms|
 |2632|[ Curry](https://leetcode.com/problems/curry/)|[JavaScript](./solutions/2632.%20Curry.js)|74 ms|
 |2633|[ Convert Object to JSON String](https://leetcode.com/problems/convert-object-to-json-string/)|[JavaScript](./solutions/2633.%20Convert%20Object%20to%20JSON%20String.js)|85 ms|
 |2634|[ Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[JavaScript](./solutions/2634.%20Filter%20Elements%20from%20Array.js)|61 ms|
