@@ -1,19 +1,21 @@
 class MyHashSet {
-    bitset<1000001> bt;
+    vector<bool> set;
+    // bitset<1000001> bt;
 public:
-    MyHashSet() {
-    }
+    MyHashSet() :set(1000001,false){
+        
+    }
     
     void add(int key) {
-        bt[key] = 1;
+        set[key] = true;
     }
     
     void remove(int key) {
-        bt[key] = 0;
+        set[key] = false;
     }
     
     bool contains(int key) {
-        return bt[key];
+        return set[key];
     }
 };
 ​
