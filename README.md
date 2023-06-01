@@ -681,4 +681,5 @@
 |2677|[ Chunk Array](https://leetcode.com/problems/chunk-array/)|[JavaScript](./solutions/2677.%20Chunk%20Array.js)|65 ms|
 |2693|[ Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/)|[JavaScript](./solutions/2693.%20Call%20Function%20with%20Custom%20Context.js)|66 ms|
 |2694|[ Event Emitter](https://leetcode.com/problems/event-emitter/)|[JavaScript](./solutions/2694.%20Event%20Emitter.js)|66 ms|
+|2695|[ Array Wrapper](https://leetcode.com/problems/array-wrapper/)|[JavaScript](./solutions/2695.%20Array%20Wrapper.js)|55 ms|
 |2700|[ Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/)|[JavaScript](./solutions/2700.%20Differences%20Between%20Two%20Objects.js)|69 ms|
