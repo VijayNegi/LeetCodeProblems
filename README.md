@@ -277,6 +277,7 @@
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.js)|68 ms|
 |543|[ Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./solutions/543.%20Diameter%20of%20Binary%20Tree.cpp)|7 ms|
 |546|[ Remove Boxes](https://leetcode.com/problems/remove-boxes/)|[C++](./solutions/546.%20Remove%20Boxes.cpp)|164 ms|
+|547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[C++](./solutions/547.%20Number%20of%20Provinces.cpp)|30 ms|
 |557|[ Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C++](./solutions/557.%20Reverse%20Words%20in%20a%20String%20III.cpp)|45 ms|
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./solutions/560.%20Subarray%20Sum%20Equals%20K.cpp)|100 ms|
 |563|[ Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)|[C++](./solutions/563.%20Binary%20Tree%20Tilt.cpp)|29 ms|
