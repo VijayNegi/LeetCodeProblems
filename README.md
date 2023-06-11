@@ -447,6 +447,7 @@
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[C++](./solutions/1137.%20N-th%20Tribonacci%20Number.cpp)|3 ms|
 |1140|[ Stone Game II](https://leetcode.com/problems/stone-game-ii/)|[C++](./solutions/1140.%20Stone%20Game%20II.cpp)|94 ms|
 |1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[C++](./solutions/1143.%20Longest%20Common%20Subsequence.cpp)|33 ms|
+|1146|[ Snapshot Array](https://leetcode.com/problems/snapshot-array/)|[C++](./solutions/1146.%20Snapshot%20Array.cpp)|455 ms|
 |1155|[ Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[C++](./solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.cpp)|141 ms|
 |1162|[ As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[C++](./solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.cpp)|87 ms|
 |1178|[ Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)|[C++](./solutions/1178.%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle.cpp)|1952 ms|
