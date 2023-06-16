@@ -535,6 +535,7 @@
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./solutions/1544.%20Make%20The%20String%20Great.cpp)|5 ms|
 |1547|[ Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)|[C++](./solutions/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.cpp)|213 ms|
 |1557|[ Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[C++](./solutions/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)|322 ms|
+|1569|[ Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)|[C++](./solutions/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.cpp)|504 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[C++](./solutions/1572.%20Matrix%20Diagonal%20Sum.cpp)|13 ms|
 |1578|[ Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)|[C++](./solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful.cpp)|360 ms|
 |1579|[ Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)|[C++](./solutions/1579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.cpp)|675 ms|
