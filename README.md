@@ -652,6 +652,7 @@
 |2452|[ Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[C++](./solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.cpp)|18 ms|
 |2453|[ Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/)|[C++](./solutions/2453.%20Destroy%20Sequential%20Targets.cpp)|163 ms|
 |2454|[ Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/)|[C++](./solutions/2454.%20Next%20Greater%20Element%20IV.cpp)|265 ms|
+|2458|[ Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)|[C++](./solutions/2458.%20Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries.cpp)|264 ms|
 |2465|[ Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/)|[C++](./solutions/2465.%20Number%20of%20Distinct%20Averages.cpp)|5 ms|
 |2466|[ Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/)|[C++](./solutions/2466.%20Count%20Ways%20To%20Build%20Good%20Strings.cpp)|34 ms|
 |2467|[ Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)|[C++](./solutions/2467.%20Most%20Profitable%20Path%20in%20a%20Tree.cpp)|1360 ms|
