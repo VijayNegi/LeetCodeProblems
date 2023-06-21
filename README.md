@@ -650,6 +650,7 @@
 |2421|[ Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)|[C++](./solutions/2421.%20Number%20of%20Good%20Paths.cpp)|789 ms|
 |2439|[ Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)|[C++](./solutions/2439.%20Minimize%20Maximum%20of%20Array.cpp)|126 ms|
 |2444|[ Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)|[C++](./solutions/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.cpp)|126 ms|
+|2448|[ Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)|[C++](./solutions/2448.%20Minimum%20Cost%20to%20Make%20Array%20Equal.cpp)|133 ms|
 |2451|[ Odd String Difference](https://leetcode.com/problems/odd-string-difference/)|[C++](./solutions/2451.%20Odd%20String%20Difference.cpp)|10 ms|
 |2452|[ Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/)|[C++](./solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary.cpp)|18 ms|
 |2453|[ Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/)|[C++](./solutions/2453.%20Destroy%20Sequential%20Targets.cpp)|163 ms|
