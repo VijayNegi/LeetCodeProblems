@@ -534,6 +534,7 @@
 |1498|[ Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)|[C++](./solutions/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.cpp)|138 ms|
 |1502|[ Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|[C++](./solutions/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)|4 ms|
 |1510|[ Stone Game IV](https://leetcode.com/problems/stone-game-iv/)|[C++](./solutions/1510.%20Stone%20Game%20IV.cpp)|40 ms|
+|1514|[ Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)|[C++](./solutions/1514.%20Path%20with%20Maximum%20Probability.cpp)|212 ms|
 |1519|[ Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[C++](./solutions/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.cpp)|662 ms|
 |1521|[ Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)|[C++](./solutions/1521.%20Find%20a%20Value%20of%20a%20Mysterious%20Function%20Closest%20to%20Target.cpp)|162 ms|
 |1523|[ Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[C++](./solutions/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)|3 ms|
