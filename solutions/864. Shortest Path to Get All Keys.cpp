@@ -19,7 +19,7 @@
         if(result == numeric_limits<int>::max()) return -1;
         return result;                                   
     }
-​
+    // https://leetcode.com/problems/shortest-path-to-get-all-keys/discuss/146941/C%2B%2B-BFS-with-current-key-recorded-visited-map-(12ms)
     int shortestPathAllKeys(vector<string>& grid) {
     int m=grid.size(), n=m?grid[0].size():0;
     if(!m || !n) return 0;
