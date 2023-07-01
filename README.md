@@ -645,6 +645,7 @@
 |2256|[ Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|[C++](./solutions/2256.%20Minimum%20Average%20Difference.cpp)|142 ms|
 |2279|[ Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|[C++](./solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.cpp)|195 ms|
 |2300|[ Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[C++](./solutions/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cpp)|273 ms|
+|2305|[ Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)|[C++](./solutions/2305.%20Fair%20Distribution%20of%20Cookies.cpp)|4 ms|
 |2306|[ Naming a Company](https://leetcode.com/problems/naming-a-company/)|[C++](./solutions/2306.%20Naming%20a%20Company.cpp)|444 ms|
 |2316|[ Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|[C++](./solutions/2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp)|430 ms|
 |2328|[ Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)|[C++](./solutions/2328.%20Number%20of%20Increasing%20Paths%20in%20a%20Grid.cpp)|397 ms|
