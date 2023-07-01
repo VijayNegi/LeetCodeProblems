@@ -210,6 +210,7 @@
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C++](./solutions/347.%20Top%20K%20Frequent%20Elements.cpp)|42 ms|
 |352|[ Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|[C++](./solutions/352.%20Data%20Stream%20as%20Disjoint%20Intervals.cpp)|66 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](./solutions/354.%20Russian%20Doll%20Envelopes.cpp)|525 ms|
+|359|[ Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[C++](./solutions/359.%20Logger%20Rate%20Limiter.cpp)|85 ms|
 |363|[ Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[C++](./solutions/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.cpp)|1313 ms|
 |368|[ Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)|[C++](./solutions/368.%20Largest%20Divisible%20Subset.cpp)|32 ms|
 |371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[C++](./solutions/371.%20Sum%20of%20Two%20Integers.cpp)|0 ms|
