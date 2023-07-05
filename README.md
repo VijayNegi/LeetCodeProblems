@@ -537,6 +537,7 @@
 |1473|[ Paint House III](https://leetcode.com/problems/paint-house-iii/)|[C++](./solutions/1473.%20Paint%20House%20III.cpp)|120 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](./solutions/1480.%20Running%20Sum%20of%201d%20Array.cpp)|0 ms|
 |1491|[ Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[C++](./solutions/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.cpp)|0 ms|
+|1493|[ Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[C++](./solutions/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.cpp)|43 ms|
 |1498|[ Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)|[C++](./solutions/1498.%20Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition.cpp)|138 ms|
 |1502|[ Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)|[C++](./solutions/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)|4 ms|
 |1510|[ Stone Game IV](https://leetcode.com/problems/stone-game-iv/)|[C++](./solutions/1510.%20Stone%20Game%20IV.cpp)|40 ms|
