@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxConsecutiveAnswers(string answerKey, int k) {
+    int maxConsecutiveAnswers1(string answerKey, int k) {
         int start=0;
         int n = answerKey.size();
         int fill=0;
@@ -27,5 +27,23 @@ public:
             result = max(result,i-start+1);
         }
         return result;
+    }
+    // single loop
+    int maxConsecutiveAnswers(string answerKey, int k) {
+        int maxSize = 0;
+        unordered_map<char, int> count;
+        
+        for (int right = 0; right < answerKey.length(); right++) {
+            count[answerKey[right]]++;
+            int minor = min(count['T'], count['F']);
+            
+            if (minor <= k) {
+                maxSize++;
+            } else {
+                count[answerKey[right - maxSize]]--;
+            }
+        }
+​
+        return maxSize;
     }
 };
