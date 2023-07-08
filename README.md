@@ -205,6 +205,7 @@
 |336|[ Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[C++](./solutions/336.%20Palindrome%20Pairs.cpp)|N/A|
 |337|[ House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./solutions/337.%20House%20Robber%20III.cpp)|21 ms|
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[C++](./solutions/338.%20Counting%20Bits.cpp)|14 ms|
+|340|[ Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[C++](./solutions/340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.cpp)|5 ms|
 |341|[ Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](./solutions/341.%20Flatten%20Nested%20List%20Iterator.cpp)|25 ms|
 |342|[ Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./solutions/342.%20Power%20of%20Four.cpp)|4 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./solutions/344.%20Reverse%20String.cpp)|31 ms|
