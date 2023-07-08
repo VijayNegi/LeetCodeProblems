@@ -693,6 +693,7 @@
 |2526|[ Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/)|[C++](./solutions/2526.%20Find%20Consecutive%20Integers%20from%20a%20Data%20Stream.cpp)|307 ms|
 |2527|[ Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/)|[C++](./solutions/2527.%20Find%20Xor-Beauty%20of%20Array.cpp)|81 ms|
 |2528|[ Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/)|[C++](./solutions/2528.%20Maximize%20the%20Minimum%20Powered%20City.cpp)|292 ms|
+|2551|[ Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)|[C++](./solutions/2551.%20Put%20Marbles%20in%20Bags.cpp)|198 ms|
 |2578|[ Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)|[C++](./solutions/2578.%20Split%20With%20Minimum%20Sum.cpp)|0 ms|
 |2579|[ Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)|[C++](./solutions/2579.%20Count%20Total%20Number%20of%20Colored%20Cells.cpp)|0 ms|
 |2580|[ Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/)|[C++](./solutions/2580.%20Count%20Ways%20to%20Group%20Overlapping%20Ranges.cpp)|378 ms|
