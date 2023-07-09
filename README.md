@@ -654,6 +654,7 @@
 |2244|[ Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)|[C++](./solutions/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks.cpp)|558 ms|
 |2246|[ Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)|[C++](./solutions/2246.%20Longest%20Path%20With%20Different%20Adjacent%20Characters.cpp)|385 ms|
 |2256|[ Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|[C++](./solutions/2256.%20Minimum%20Average%20Difference.cpp)|142 ms|
+|2272|[ Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)|[C++](./solutions/2272.%20Substring%20With%20Largest%20Variance.cpp)|261 ms|
 |2279|[ Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|[C++](./solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.cpp)|195 ms|
 |2300|[ Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[C++](./solutions/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cpp)|273 ms|
 |2305|[ Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)|[C++](./solutions/2305.%20Fair%20Distribution%20of%20Cookies.cpp)|4 ms|
