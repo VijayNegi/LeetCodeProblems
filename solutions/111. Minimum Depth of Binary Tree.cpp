@@ -10,7 +10,16 @@
  * };
  */
 class Solution {
+    int min_depth{INT_MAX};
 public:
+    int minDepth1(TreeNode* root,int depth = 1) {
+        if(!root) return 0;
+        if(!root->left && !root->right)
+            min_depth = min(min_depth, depth);
+        minDepth1(root->left,depth+1);
+        minDepth1(root->right, depth+1);
+        return min_depth;
+    }
     int minDepth(TreeNode* root) {
         if(!root) return 0;
         vector<TreeNode*> queue;
