@@ -476,6 +476,7 @@
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[C++](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)|21 ms|
 |1214|[ Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/)|[C++](./solutions/1214.%20Two%20Sum%20BSTs.cpp)|40 ms|
 |1217|[ Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|4 ms|
+|1218|[ Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[C++](./solutions/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.cpp)|150 ms|
 |1220|[ Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[C++](./solutions/1220.%20Count%20Vowels%20Permutation.cpp)|111 ms|
 |1230|[ Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/)|[C++](./solutions/1230.%20Toss%20Strange%20Coins.cpp)|81 ms|
 |1232|[ Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[C++](./solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.cpp)|7 ms|
