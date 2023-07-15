@@ -589,6 +589,7 @@
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[C++](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.cpp)|43 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[C++](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp)|616 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|0 ms|
+|1751|[ Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)|[C++](./solutions/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.cpp)|338 ms|
 |1764|[ Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[C++](./solutions/1764.%20Form%20Array%20by%20Concatenating%20Subarrays%20of%20Another%20Array.cpp)|8 ms|
 |1768|[ Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[C++](./solutions/1768.%20Merge%20Strings%20Alternately.cpp)|4 ms|
 |1770|[ Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)|[C++](./solutions/1770.%20Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)|433 ms|
