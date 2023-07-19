@@ -1,22 +1,35 @@
 class Solution {
 public:
-    int eraseOverlapIntervals(vector<vector<int>>& intervals) {
-        int n = intervals.size();
-        
-        sort(begin(intervals),end(intervals));
-        int res=0;
-        int last = intervals[0][1];
-        for(int i=1;i<n;++i)
-        {
-            if(last <= intervals[i][0])
-                last = intervals[i][1];
-            else
-            {
-                last = min(last,intervals[i][1]);
-                ++res; // remove the current or previous
+    // self 505ms
+    int eraseOverlapIntervals1(vector<vector<int>>& intervals) {
+        sort(intervals.begin(),intervals.end(),[](vector<int>& l,vector<int>& r){if(l[0]==r[0]) return l[1]>r[1];
+                                                                                return l[0]<r[0];});
+        int result = 0;
+        int lastEnd = std::numeric_limits<int>::min()+1;
+        for(auto& interval:intervals){
+            if(interval[0]>=lastEnd){
+                lastEnd = interval[1];
             }
-                
+            else{
+                lastEnd = min(lastEnd,interval[1]);
+                ++result;
+            }
         }
-        return res;
+        return result;
+    }
+    int eraseOverlapIntervals(vector<vector<int>>& intervals) {
+        sort(intervals.begin(),intervals.end());
+        int result = 0;
+        int lastEnd = std::numeric_limits<int>::min();
+        for(auto& interval:intervals){
+            if(interval[0]>=lastEnd){
+                lastEnd = interval[1];
+            }
+            else{
+                lastEnd = min(lastEnd,interval[1]);
+                ++result;
+            }
+        }
+        return result;
     }
 };
