@@ -317,6 +317,7 @@
 |665|[ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[C++](./solutions/665.%20Non-decreasing%20Array.cpp)|20 ms|
 |668|[ Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[C++](./solutions/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)|16 ms|
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[C++](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.cpp)|19 ms|
+|673|[ Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[C++](./solutions/673.%20Number%20of%20Longest%20Increasing%20Subsequence.cpp)|156 ms|
 |680|[ Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](./solutions/680.%20Valid%20Palindrome%20II.cpp)|57 ms|
 |682|[ Baseball Game](https://leetcode.com/problems/baseball-game/)|[C++](./solutions/682.%20Baseball%20Game.cpp)|4 ms|
 |686|[ Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[C++](./solutions/686.%20Repeated%20String%20Match.cpp)|1290 ms|
