@@ -376,6 +376,7 @@
 |847|[ Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|[C++](./solutions/847.%20Shortest%20Path%20Visiting%20All%20Nodes.cpp)|55 ms|
 |849|[ Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[C++](./solutions/849.%20Maximize%20Distance%20to%20Closest%20Person.cpp)|12 ms|
 |850|[ Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)|[C++](./solutions/850.%20Rectangle%20Area%20II.cpp)|33 ms|
+|852|[ Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[C++](./solutions/852.%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)|137 ms|
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[C++](./solutions/856.%20Score%20of%20Parentheses.cpp)|0 ms|
 |858|[ Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)|[C++](./solutions/858.%20Mirror%20Reflection.cpp)|6 ms|
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[C++](./solutions/859.%20Buddy%20Strings.cpp)|3 ms|
