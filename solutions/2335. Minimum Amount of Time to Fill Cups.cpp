@@ -10,12 +10,13 @@ public:
         return max(mx, (sum + 1) / 2);
     }
     //https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/discuss/2265309/Simulation-and-Formula
-14
-15
-16
-17
-18
-19
-20
-21
-22
+    int fillCups(vector<int>& a) {
+        int res = 0;
+        for (; max({a[0], a[1], a[2]}) > 0; ++res) {
+            sort(begin(a), end(a));
+            --a[2];
+            --a[1];
+        }
+        return res;
+    }
+};
