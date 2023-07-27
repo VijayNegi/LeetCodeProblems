@@ -645,6 +645,7 @@
 |2135|[ Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)|[C++](./solutions/2135.%20Count%20Words%20Obtained%20After%20Adding%20a%20Letter.cpp)|268 ms|
 |2136|[ Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)|[C++](./solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom.cpp)|720 ms|
 |2140|[ Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)|[C++](./solutions/2140.%20Solving%20Questions%20With%20Brainpower.cpp)|391 ms|
+|2141|[ Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)|[C++](./solutions/2141.%20Maximum%20Running%20Time%20of%20N%20Computers.cpp)|106 ms|
 |2187|[ Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/)|[C++](./solutions/2187.%20Minimum%20Time%20to%20Complete%20Trips.cpp)|272 ms|
 |2190|[ Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)|[C++](./solutions/2190.%20Most%20Frequent%20Number%20Following%20Key%20In%20an%20Array.cpp)|23 ms|
 |2191|[ Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)|[C++](./solutions/2191.%20Sort%20the%20Jumbled%20Numbers.cpp)|180 ms|
