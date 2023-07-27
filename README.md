@@ -674,6 +674,7 @@
 |2306|[ Naming a Company](https://leetcode.com/problems/naming-a-company/)|[C++](./solutions/2306.%20Naming%20a%20Company.cpp)|444 ms|
 |2316|[ Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|[C++](./solutions/2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.cpp)|430 ms|
 |2328|[ Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)|[C++](./solutions/2328.%20Number%20of%20Increasing%20Paths%20in%20a%20Grid.cpp)|397 ms|
+|2335|[ Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)|[C++](./solutions/2335.%20Minimum%20Amount%20of%20Time%20to%20Fill%20Cups.cpp)|0 ms|
 |2336|[ Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)|[C++](./solutions/2336.%20Smallest%20Number%20in%20Infinite%20Set.cpp)|67 ms|
 |2348|[ Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|[C++](./solutions/2348.%20Number%20of%20Zero-Filled%20Subarrays.cpp)|170 ms|
 |2352|[ Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)|[C++](./solutions/2352.%20Equal%20Row%20and%20Column%20Pairs.cpp)|303 ms|
