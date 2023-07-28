@@ -272,6 +272,7 @@
 |474|[ Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](./solutions/474.%20Ones%20and%20Zeroes.cpp)|263 ms|
 |476|[ Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./solutions/476.%20Number%20Complement.cpp)|0 ms|
 |482|[ License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[C++](./solutions/482.%20License%20Key%20Formatting.cpp)|4 ms|
+|486|[ Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[C++](./solutions/486.%20Predict%20the%20Winner.cpp)|0 ms|
 |491|[ Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)|[C++](./solutions/491.%20Non-decreasing%20Subsequences.cpp)|503 ms|
 |502|[ IPO](https://leetcode.com/problems/ipo/)|[C++](./solutions/502.%20IPO.cpp)|244 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
