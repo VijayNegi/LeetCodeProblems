@@ -315,7 +315,7 @@
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[C++](./solutions/658.%20Find%20K%20Closest%20Elements.cpp)|82 ms|
 |659|[ Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[C++](./solutions/659.%20Split%20Array%20into%20Consecutive%20Subsequences.cpp)|105 ms|
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[C++](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.cpp)|11 ms|
-|664|[ Strange Printer](https://leetcode.com/problems/strange-printer/)|[C++](./solutions/664.%20Strange%20Printer.cpp)|106 ms|
+|664|[ Strange Printer](https://leetcode.com/problems/strange-printer/)|[C++](./solutions/664.%20Strange%20Printer.cpp)|95 ms|
 |665|[ Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[C++](./solutions/665.%20Non-decreasing%20Array.cpp)|20 ms|
 |668|[ Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[C++](./solutions/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)|16 ms|
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[C++](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.cpp)|19 ms|
