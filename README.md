@@ -720,6 +720,7 @@
 |2579|[ Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)|[C++](./solutions/2579.%20Count%20Total%20Number%20of%20Colored%20Cells.cpp)|0 ms|
 |2580|[ Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/)|[C++](./solutions/2580.%20Count%20Ways%20to%20Group%20Overlapping%20Ranges.cpp)|378 ms|
 |2581|[ Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/)|[C++](./solutions/2581.%20Count%20Number%20of%20Possible%20Root%20Nodes.cpp)|778 ms|
+|2593|[ Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)|[C++](./solutions/2593.%20Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements.cpp)|322 ms|
 |2618|[ Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/)|[JavaScript](./solutions/2618.%20Check%20if%20Object%20Instance%20of%20Class.js)|120 ms|
 |2619|[ Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[JavaScript](./solutions/2619.%20Array%20Prototype%20Last.js)|56 ms|
 |2620|[ Counter](https://leetcode.com/problems/counter/)|[JavaScript](./solutions/2620.%20Counter.js)|62 ms|
