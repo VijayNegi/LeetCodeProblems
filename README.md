@@ -76,6 +76,7 @@
 |92|[ Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[C++](./solutions/92.%20Reverse%20Linked%20List%20II.cpp)|4 ms|
 |93|[ Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[C++](./solutions/93.%20Restore%20IP%20Addresses.cpp)|0 ms|
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|0 ms|
+|95|[ Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C++](./solutions/95.%20Unique%20Binary%20Search%20Trees%20II.cpp)|15 ms|
 |96|[ Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](./solutions/96.%20Unique%20Binary%20Search%20Trees.cpp)|0 ms|
 |97|[ Interleaving String](https://leetcode.com/problems/interleaving-string/)|[C++](./solutions/97.%20Interleaving%20String.cpp)|0 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|8 ms|
