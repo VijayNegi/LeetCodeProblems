@@ -412,6 +412,7 @@
 |912|[ Sort an Array](https://leetcode.com/problems/sort-an-array/)|[C++](./solutions/912.%20Sort%20an%20Array.cpp)|N/A|
 |916|[ Word Subsets](https://leetcode.com/problems/word-subsets/)|[C++](./solutions/916.%20Word%20Subsets.cpp)|242 ms|
 |918|[ Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[C++](./solutions/918.%20Maximum%20Sum%20Circular%20Subarray.cpp)|71 ms|
+|920|[ Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)|[C++](./solutions/920.%20Number%20of%20Music%20Playlists.cpp)|12 ms|
 |923|[ 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[C++](./solutions/923.%203Sum%20With%20Multiplicity.cpp)|10 ms|
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[C++](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.cpp)|25 ms|
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|40 ms|
