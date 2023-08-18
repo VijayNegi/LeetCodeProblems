@@ -582,6 +582,7 @@
 |1584|[ Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|[C++](./solutions/1584.%20Min%20Cost%20to%20Connect%20All%20Points.cpp)|100 ms|
 |1601|[ Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)|[C++](./solutions/1601.%20Maximum%20Number%20of%20Achievable%20Transfer%20Requests.cpp)|144 ms|
 |1603|[ Design Parking System](https://leetcode.com/problems/design-parking-system/)|[C++](./solutions/1603.%20Design%20Parking%20System.cpp)|61 ms|
+|1615|[ Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)|[C++](./solutions/1615.%20Maximal%20Network%20Rank.cpp)|95 ms|
 |1626|[ Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[C++](./solutions/1626.%20Best%20Team%20With%20No%20Conflicts.cpp)|461 ms|
 |1631|[ Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[C++](./solutions/1631.%20Path%20With%20Minimum%20Effort.cpp)|274 ms|
 |1639|[ Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)|[C++](./solutions/1639.%20Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary.cpp)|591 ms|
