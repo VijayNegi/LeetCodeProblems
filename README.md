@@ -315,6 +315,7 @@
 |630|[ Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)|[C++](./solutions/630.%20Course%20Schedule%20III.cpp)|375 ms|
 |637|[ Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[C++](./solutions/637.%20Average%20of%20Levels%20in%20Binary%20Tree.cpp)|16 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[C++](./solutions/645.%20Set%20Mismatch.cpp)|93 ms|
+|646|[ Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[C++](./solutions/646.%20Maximum%20Length%20of%20Pair%20Chain.cpp)|51 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|7 ms|
 |649|[ Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[C++](./solutions/649.%20Dota2%20Senate.cpp)|8 ms|
 |652|[ Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[C++](./solutions/652.%20Find%20Duplicate%20Subtrees.cpp)|30 ms|
