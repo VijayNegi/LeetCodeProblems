@@ -520,6 +520,7 @@
 |1318|[ Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|[C++](./solutions/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.cpp)|3 ms|
 |1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp)|165 ms|
 |1323|[ Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[C++](./solutions/1323.%20Maximum%2069%20Number.cpp)|0 ms|
+|1326|[ Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)|[C++](./solutions/1326.%20Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden.cpp)|9 ms|
 |1328|[ Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[C++](./solutions/1328.%20Break%20a%20Palindrome.cpp)|8 ms|
 |1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)|13 ms|
 |1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[C++](./solutions/1332.%20Remove%20Palindromic%20Subsequences.cpp)|0 ms|
