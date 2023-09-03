@@ -1,19 +1,3 @@
-const int LEN = 26;
-struct TRIE{
-    
-    TRIE():next(LEN,nullptr),end{false}{
-    }
-    
-    void search(string& s,int start,vector<int>& pos){
-        if(end) pos.push_back(start);
-        if(start >= s.size()) return;
-        int idx = s[start]-'a';
-        if(next[idx]){
-            next[idx]->search(s,start+1,pos);
-        }
-    }
-    void insert(string &s){
-        TRIE* curr = this;
         for(auto& c: s){
             if(!curr->next[c-'a'])
                 curr->next[c-'a'] = new TRIE();
@@ -42,13 +26,14 @@ public:
             
             vector<int> pos;
             dict.search(s,idx,pos);
-            dp[idx] = numeric_limits<int>::max();
+            //dp[idx] = numeric_limits<int>::max();
+            dp[idx] = extras(idx+1) +1;
             for(auto& p:pos){
                 dp[idx] = min(dp[idx],extras(p));
             }
-            for(int p = idx+1;p<n;p++){
-                dp[idx] = min(dp[idx],extras(p) + p-idx);
-            }
+            // for(int p = idx+1;p<n;p++){
+            //     dp[idx] = min(dp[idx],extras(p) + p-idx);
+            // }
             
             if(dp[idx] > n)
                 dp[idx] = n-idx;
