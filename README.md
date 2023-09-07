@@ -347,7 +347,7 @@
 |715|[ Range Module](https://leetcode.com/problems/range-module/)|[C++](./solutions/715.%20Range%20Module.cpp)|533 ms|
 |718|[ Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[C++](./solutions/718.%20Maximum%20Length%20of%20Repeated%20Subarray.cpp)|290 ms|
 |721|[ Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[C++](./solutions/721.%20Accounts%20Merge.cpp)|92 ms|
-|725|[ Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[C++](./solutions/725.%20Split%20Linked%20List%20in%20Parts.cpp)|8 ms|
+|725|[ Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|[C++](./solutions/725.%20Split%20Linked%20List%20in%20Parts.cpp)|6 ms|
 |729|[ My Calendar I](https://leetcode.com/problems/my-calendar-i/)|[C++](./solutions/729.%20My%20Calendar%20I.cpp)|90 ms|
 |731|[ My Calendar II](https://leetcode.com/problems/my-calendar-ii/)|[C++](./solutions/731.%20My%20Calendar%20II.cpp)|386 ms|
 |732|[ My Calendar III](https://leetcode.com/problems/my-calendar-iii/)|[C++](./solutions/732.%20My%20Calendar%20III.cpp)|476 ms|
