@@ -534,7 +534,7 @@
 |1345|[ Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[C++](./solutions/1345.%20Jump%20Game%20IV.cpp)|227 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[C++](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)|19 ms|
 |1354|[ Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|[C++](./solutions/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.cpp)|90 ms|
-|1359|[ Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[C++](./solutions/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)|0 ms|
+|1359|[ Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[C++](./solutions/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)|2 ms|
 |1372|[ Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)|[C++](./solutions/1372.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.cpp)|182 ms|
 |1376|[ Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[C++](./solutions/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.cpp)|248 ms|
 |1379|[ Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[C++](./solutions/1379.%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.cpp)|760 ms|
