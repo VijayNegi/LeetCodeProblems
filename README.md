@@ -410,6 +410,7 @@
 |890|[ Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[C++](./solutions/890.%20Find%20and%20Replace%20Pattern.cpp)|0 ms|
 |894|[ All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[C++](./solutions/894.%20All%20Possible%20Full%20Binary%20Trees.cpp)|96 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./solutions/895.%20Maximum%20Frequency%20Stack.cpp)|206 ms|
+|896|[ Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[C++](./solutions/896.%20Monotonic%20Array.cpp)|135 ms|
 |897|[ Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[C++](./solutions/897.%20Increasing%20Order%20Search%20Tree.cpp)|0 ms|
 |899|[ Orderly Queue](https://leetcode.com/problems/orderly-queue/)|[C++](./solutions/899.%20Orderly%20Queue.cpp)|14 ms|
 |901|[ Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[C++](./solutions/901.%20Online%20Stock%20Span.cpp)|227 ms|
