@@ -36,7 +36,7 @@ public:
             }
         }
         
-        return alice - bob >= 1;
+        return alice > bob;
     }
 ​
 };
