@@ -637,6 +637,7 @@
 |1870|[ Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)|[C++](./solutions/1870.%20Minimum%20Speed%20to%20Arrive%20on%20Time.cpp)|263 ms|
 |1900|[ The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/)|[C++](./solutions/1900.%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.cpp)|0 ms|
 |1926|[ Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|[C++](./solutions/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.cpp)|472 ms|
+|1960|[ Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/)|[C++](./solutions/1960.%20Maximum%20Product%20of%20the%20Length%20of%20Two%20Palindromic%20Substrings.cpp)|52 ms|
 |1962|[ Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[C++](./solutions/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.cpp)|580 ms|
 |1964|[ Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)|[C++](./solutions/1964.%20Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position.cpp)|366 ms|
 |1970|[ Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)|[C++](./solutions/1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross.cpp)|418 ms|
