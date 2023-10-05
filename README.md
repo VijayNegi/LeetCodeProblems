@@ -164,6 +164,7 @@
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./solutions/226.%20Invert%20Binary%20Tree.cpp)|0 ms|
 |227|[ Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](./solutions/227.%20Basic%20Calculator%20II.cpp)|8 ms|
 |228|[ Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[C++](./solutions/228.%20Summary%20Ranges.cpp)|0 ms|
+|229|[ Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[C++](./solutions/229.%20Majority%20Element%20II.cpp)|3 ms|
 |230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[C++](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.cpp)|23 ms|
 |231|[ Power of Two](https://leetcode.com/problems/power-of-two/)|[C++](./solutions/231.%20Power%20of%20Two.cpp)|0 ms|
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C++](./solutions/232.%20Implement%20Queue%20using%20Stacks.cpp)|0 ms|
