@@ -7,14 +7,13 @@ public:
             if(remainingk<0) return 0;
             if(i==n) return remainingk==0;
             if(dp[i][mmax][remainingk] != -1) return dp[i][mmax][remainingk];
-            long result=0;
-            for(int j=1;j<=m;++j){
-                if(j<=mmax)
-                    result += dfs(i+1,mmax,remainingk);
-                else
-                    result += dfs(i+1,j,remainingk-1);
+            long result = dfs(i+1,mmax,remainingk);
+            result *=mmax;
+            result %=mod;
+            for(int j=mmax+1;j<=m;++j){
+                result += dfs(i+1,j,remainingk-1);
                 result %=mod;
-            }
+            }
             return dp[i][mmax][remainingk] = result;
         };
         return dfs(0,0,k);
