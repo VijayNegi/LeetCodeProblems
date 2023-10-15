@@ -515,6 +515,7 @@
 |1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[C++](./solutions/1254.%20Number%20of%20Closed%20Islands.cpp)|15 ms|
 |1260|[ Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[C++](./solutions/1260.%20Shift%202D%20Grid.cpp)|37 ms|
 |1268|[ Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[C++](./solutions/1268.%20Search%20Suggestions%20System.cpp)|148 ms|
+|1269|[ Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)|[C++](./solutions/1269.%20Number%20of%20Ways%20to%20Stay%20in%20the%20Same%20Place%20After%20Some%20Steps.cpp)|12 ms|
 |1282|[ Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[C++](./solutions/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp)|15 ms|
 |1286|[ Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[C++](./solutions/1286.%20Iterator%20for%20Combination.cpp)|8 ms|
 |1288|[ Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[C++](./solutions/1288.%20Remove%20Covered%20Intervals.cpp)|22 ms|
