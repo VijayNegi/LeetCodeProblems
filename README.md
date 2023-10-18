@@ -656,6 +656,7 @@
 |2022|[ Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)|[C++](./solutions/2022.%20Convert%201D%20Array%20Into%202D%20Array.cpp)|144 ms|
 |2024|[ Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/)|[C++](./solutions/2024.%20Maximize%20the%20Confusion%20of%20an%20Exam.cpp)|76 ms|
 |2038|[ Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)|[C++](./solutions/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.cpp)|34 ms|
+|2050|[ Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)|[C++](./solutions/2050.%20Parallel%20Courses%20III.cpp)|350 ms|
 |2085|[ Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)|[C++](./solutions/2085.%20Count%20Common%20Words%20With%20One%20Occurrence.cpp)|36 ms|
 |2086|[ Minimum Number of Buckets Required to Collect Rainwater from Houses](https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/)|[C++](./solutions/2086.%20Minimum%20Number%20of%20Buckets%20Required%20to%20Collect%20Rainwater%20from%20Houses.cpp)|20 ms|
 |2087|[ Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)|[C++](./solutions/2087.%20Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid.cpp)|164 ms|
