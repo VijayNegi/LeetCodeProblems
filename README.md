@@ -635,6 +635,7 @@
 |1770|[ Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)|[C++](./solutions/1770.%20Maximum%20Score%20from%20Performing%20Multiplication%20Operations.cpp)|433 ms|
 |1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[C++](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.cpp)|116 ms|
 |1780|[ Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)|[C++](./solutions/1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.cpp)|0 ms|
+|1793|[ Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)|[C++](./solutions/1793.%20Maximum%20Score%20of%20a%20Good%20Subarray.cpp)|115 ms|
 |1799|[ Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)|[C++](./solutions/1799.%20Maximize%20Score%20After%20N%20Operations.cpp)|62 ms|
 |1802|[ Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)|[C++](./solutions/1802.%20Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array.cpp)|4 ms|
 |1822|[ Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[C++](./solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.cpp)|6 ms|
