@@ -379,6 +379,7 @@
 |802|[ Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[C++](./solutions/802.%20Find%20Eventual%20Safe%20States.cpp)|223 ms|
 |804|[ Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[C++](./solutions/804.%20Unique%20Morse%20Code%20Words.cpp)|4 ms|
 |808|[ Soup Servings](https://leetcode.com/problems/soup-servings/)|[C++](./solutions/808.%20Soup%20Servings.cpp)|0 ms|
+|809|[ Expressive Words](https://leetcode.com/problems/expressive-words/)|[C++](./solutions/809.%20Expressive%20Words.cpp)|6 ms|
 |814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./solutions/814.%20Binary%20Tree%20Pruning.cpp)|0 ms|
 |815|[ Bus Routes](https://leetcode.com/problems/bus-routes/)|[C++](./solutions/815.%20Bus%20Routes.cpp)|393 ms|
 |820|[ Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[C++](./solutions/820.%20Short%20Encoding%20of%20Words.cpp)|56 ms|
