@@ -434,6 +434,7 @@
 |934|[ Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](./solutions/934.%20Shortest%20Bridge.cpp)|82 ms|
 |936|[ Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)|[C++](./solutions/936.%20Stamping%20The%20Sequence.cpp)|17 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./solutions/938.%20Range%20Sum%20of%20BST.cpp)|326 ms|
+|939|[ Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|[C++](./solutions/939.%20Minimum%20Area%20Rectangle.cpp)|144 ms|
 |941|[ Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[C++](./solutions/941.%20Valid%20Mountain%20Array.cpp)|31 ms|
 |944|[ Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[C++](./solutions/944.%20Delete%20Columns%20to%20Make%20Sorted.cpp)|73 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./solutions/946.%20Validate%20Stack%20Sequences.cpp)|19 ms|
