@@ -547,6 +547,7 @@
 |1345|[ Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[C++](./solutions/1345.%20Jump%20Game%20IV.cpp)|227 ms|
 |1351|[ Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[C++](./solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)|19 ms|
 |1354|[ Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|[C++](./solutions/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.cpp)|90 ms|
+|1356|[ Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[C++](./solutions/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.cpp)|15 ms|
 |1359|[ Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[C++](./solutions/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp)|2 ms|
 |1361|[ Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)|[C++](./solutions/1361.%20Validate%20Binary%20Tree%20Nodes.cpp)|99 ms|
 |1372|[ Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)|[C++](./solutions/1372.%20Longest%20ZigZag%20Path%20in%20a%20Binary%20Tree.cpp)|182 ms|
