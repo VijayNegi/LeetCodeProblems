@@ -731,6 +731,7 @@
 |2402|[ Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)|[C++](./solutions/2402.%20Meeting%20Rooms%20III.cpp)|951 ms|
 |2405|[ Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)|[C++](./solutions/2405.%20Optimal%20Partition%20of%20String.cpp)|25 ms|
 |2421|[ Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)|[C++](./solutions/2421.%20Number%20of%20Good%20Paths.cpp)|789 ms|
+|2433|[ Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)|[C++](./solutions/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor.cpp)|86 ms|
 |2439|[ Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)|[C++](./solutions/2439.%20Minimize%20Maximum%20of%20Array.cpp)|126 ms|
 |2444|[ Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)|[C++](./solutions/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.cpp)|126 ms|
 |2448|[ Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)|[C++](./solutions/2448.%20Minimum%20Cost%20to%20Make%20Array%20Equal.cpp)|133 ms|
