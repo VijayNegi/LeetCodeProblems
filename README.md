@@ -569,6 +569,7 @@
 |1423|[ Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[C++](./solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp)|73 ms|
 |1425|[ Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)|[C++](./solutions/1425.%20Constrained%20Subsequence%20Sum.cpp)|334 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|3 ms|
+|1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[C++](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.cpp)|2 ms|
 |1443|[ Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[C++](./solutions/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.cpp)|189 ms|
 |1444|[ Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)|[C++](./solutions/1444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza.cpp)|41 ms|
 |1446|[ Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[C++](./solutions/1446.%20Consecutive%20Characters.cpp)|4 ms|
