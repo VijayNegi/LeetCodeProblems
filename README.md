@@ -787,6 +787,7 @@
 |2634|[ Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)|[JavaScript](./solutions/2634.%20Filter%20Elements%20from%20Array.js)|61 ms|
 |2635|[ Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)|[JavaScript](./solutions/2635.%20Apply%20Transform%20Over%20Each%20Element%20in%20Array.js)|57 ms|
 |2636|[ Promise Pool](https://leetcode.com/problems/promise-pool/)|[JavaScript](./solutions/2636.%20Promise%20Pool.js)|75 ms|
+|2642|[ Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)|[C++](./solutions/2642.%20Design%20Graph%20With%20Shortest%20Path%20Calculator.cpp)|500 ms|
 |2648|[ Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/)|[JavaScript](./solutions/2648.%20Generate%20Fibonacci%20Sequence.js)|62 ms|
 |2649|[ Nested Array Generator](https://leetcode.com/problems/nested-array-generator/)|[JavaScript](./solutions/2649.%20Nested%20Array%20Generator.js)|173 ms|
 |2665|[ Counter II](https://leetcode.com/problems/counter-ii/)|[JavaScript](./solutions/2665.%20Counter%20II.js)|73 ms|
