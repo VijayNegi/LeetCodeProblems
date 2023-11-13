@@ -802,4 +802,5 @@
 |2700|[ Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/)|[JavaScript](./solutions/2700.%20Differences%20Between%20Two%20Objects.js)|69 ms|
 |2707|[ Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)|[C++](./solutions/2707.%20Extra%20Characters%20in%20a%20String.cpp)|84 ms|
 |2742|[ Painting the Walls](https://leetcode.com/problems/painting-the-walls/)|[C++](./solutions/2742.%20Painting%20the%20Walls.cpp)|267 ms|
+|2785|[ Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[C++](./solutions/2785.%20Sort%20Vowels%20in%20a%20String.cpp)|54 ms|
 |2849|[ Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)|[C++](./solutions/2849.%20Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.cpp)|0 ms|
