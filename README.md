@@ -656,6 +656,7 @@
 |1846|[ Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[C++](./solutions/1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging.cpp)|78 ms|
 |1857|[ Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)|[C++](./solutions/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph.cpp)|613 ms|
 |1870|[ Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)|[C++](./solutions/1870.%20Minimum%20Speed%20to%20Arrive%20on%20Time.cpp)|263 ms|
+|1877|[ Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[C++](./solutions/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp)|178 ms|
 |1900|[ The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/)|[C++](./solutions/1900.%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.cpp)|0 ms|
 |1921|[ Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)|[C++](./solutions/1921.%20Eliminate%20Maximum%20Number%20of%20Monsters.cpp)|99 ms|
 |1926|[ Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|[C++](./solutions/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.cpp)|472 ms|
