@@ -652,6 +652,7 @@
 |1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[C++](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.cpp)|7 ms|
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[C++](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.cpp)|545 ms|
 |1834|[ Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|[C++](./solutions/1834.%20Single-Threaded%20CPU.cpp)|841 ms|
+|1838|[ Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)|[C++](./solutions/1838.%20Frequency%20of%20the%20Most%20Frequent%20Element.cpp)|172 ms|
 |1845|[ Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)|[C++](./solutions/1845.%20Seat%20Reservation%20Manager.cpp)|302 ms|
 |1846|[ Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[C++](./solutions/1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging.cpp)|78 ms|
 |1857|[ Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)|[C++](./solutions/1857.%20Largest%20Color%20Value%20in%20a%20Directed%20Graph.cpp)|613 ms|
