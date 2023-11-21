@@ -648,6 +648,7 @@
 |1793|[ Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)|[C++](./solutions/1793.%20Maximum%20Score%20of%20a%20Good%20Subarray.cpp)|115 ms|
 |1799|[ Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)|[C++](./solutions/1799.%20Maximize%20Score%20After%20N%20Operations.cpp)|62 ms|
 |1802|[ Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)|[C++](./solutions/1802.%20Maximum%20Value%20at%20a%20Given%20Index%20in%20a%20Bounded%20Array.cpp)|4 ms|
+|1814|[ Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)|[C++](./solutions/1814.%20Count%20Nice%20Pairs%20in%20an%20Array.cpp)|107 ms|
 |1822|[ Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[C++](./solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array.cpp)|6 ms|
 |1832|[ Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[C++](./solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.cpp)|7 ms|
 |1833|[ Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[C++](./solutions/1833.%20Maximum%20Ice%20Cream%20Bars.cpp)|545 ms|
