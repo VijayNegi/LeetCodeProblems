@@ -614,6 +614,7 @@
 |1603|[ Design Parking System](https://leetcode.com/problems/design-parking-system/)|[C++](./solutions/1603.%20Design%20Parking%20System.cpp)|61 ms|
 |1615|[ Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)|[C++](./solutions/1615.%20Maximal%20Network%20Rank.cpp)|95 ms|
 |1626|[ Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[C++](./solutions/1626.%20Best%20Team%20With%20No%20Conflicts.cpp)|461 ms|
+|1630|[ Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)|[C++](./solutions/1630.%20Arithmetic%20Subarrays.cpp)|217 ms|
 |1631|[ Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)|[C++](./solutions/1631.%20Path%20With%20Minimum%20Effort.cpp)|274 ms|
 |1639|[ Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)|[C++](./solutions/1639.%20Number%20of%20Ways%20to%20Form%20a%20Target%20String%20Given%20a%20Dictionary.cpp)|591 ms|
 |1641|[ Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[C++](./solutions/1641.%20Count%20Sorted%20Vowel%20Strings.cpp)|0 ms|
