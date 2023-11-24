@@ -604,6 +604,7 @@
 |1544|[ Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./solutions/1544.%20Make%20The%20String%20Great.cpp)|5 ms|
 |1547|[ Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)|[C++](./solutions/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.cpp)|213 ms|
 |1557|[ Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[C++](./solutions/1557.%20Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)|322 ms|
+|1561|[ Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|[C++](./solutions/1561.%20Maximum%20Number%20of%20Coins%20You%20Can%20Get.cpp)|87 ms|
 |1569|[ Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)|[C++](./solutions/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.cpp)|504 ms|
 |1572|[ Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[C++](./solutions/1572.%20Matrix%20Diagonal%20Sum.cpp)|13 ms|
 |1575|[ Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/)|[C++](./solutions/1575.%20Count%20All%20Possible%20Routes.cpp)|734 ms|
