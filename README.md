@@ -631,6 +631,7 @@
 |1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[C++](./solutions/1675.%20Minimize%20Deviation%20in%20Array.cpp)|564 ms|
 |1679|[ Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[C++](./solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs.cpp)|221 ms|
 |1680|[ Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)|[C++](./solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers.cpp)|41 ms|
+|1685|[ Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)|[C++](./solutions/1685.%20Sum%20of%20Absolute%20Differences%20in%20a%20Sorted%20Array.cpp)|77 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[C++](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)|32 ms|
 |1695|[ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[C++](./solutions/1695.%20Maximum%20Erasure%20Value.cpp)|798 ms|
 |1696|[ Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|[C++](./solutions/1696.%20Jump%20Game%20VI.cpp)|224 ms|
