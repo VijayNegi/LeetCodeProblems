@@ -640,6 +640,7 @@
 |1706|[ Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[C++](./solutions/1706.%20Where%20Will%20the%20Ball%20Fall.cpp)|23 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[C++](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.cpp)|43 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[C++](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp)|616 ms|
+|1727|[ Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[C++](./solutions/1727.%20Largest%20Submatrix%20With%20Rearrangements.cpp)|147 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|0 ms|
 |1743|[ Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)|[C++](./solutions/1743.%20Restore%20the%20Array%20From%20Adjacent%20Pairs.cpp)|512 ms|
 |1751|[ Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)|[C++](./solutions/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.cpp)|338 ms|
