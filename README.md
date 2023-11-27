@@ -435,6 +435,7 @@
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|40 ms|
 |932|[ Beautiful Array](https://leetcode.com/problems/beautiful-array/)|[C++](./solutions/932.%20Beautiful%20Array.cpp)|4 ms|
 |934|[ Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](./solutions/934.%20Shortest%20Bridge.cpp)|82 ms|
+|935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[C++](./solutions/935.%20Knight%20Dialer.cpp)|78 ms|
 |936|[ Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)|[C++](./solutions/936.%20Stamping%20The%20Sequence.cpp)|17 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./solutions/938.%20Range%20Sum%20of%20BST.cpp)|326 ms|
 |939|[ Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|[C++](./solutions/939.%20Minimum%20Area%20Rectangle.cpp)|144 ms|
