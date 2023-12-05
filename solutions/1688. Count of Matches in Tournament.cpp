@@ -8,6 +8,7 @@ public:
         }
         return res;
     }
+    // elimination
     int numberOfMatches(int n) {
         return n-1;
     }
