@@ -644,6 +644,7 @@
 |1704|[ Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[C++](./solutions/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.cpp)|11 ms|
 |1706|[ Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[C++](./solutions/1706.%20Where%20Will%20the%20Ball%20Fall.cpp)|23 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[C++](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.cpp)|43 ms|
+|1716|[ Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[C++](./solutions/1716.%20Calculate%20Money%20in%20Leetcode%20Bank.cpp)|3 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[C++](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp)|616 ms|
 |1727|[ Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[C++](./solutions/1727.%20Largest%20Submatrix%20With%20Rearrangements.cpp)|147 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|0 ms|
