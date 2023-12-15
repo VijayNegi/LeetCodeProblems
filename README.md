@@ -574,6 +574,7 @@
 |1424|[ Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)|[C++](./solutions/1424.%20Diagonal%20Traverse%20II.cpp)|108 ms|
 |1425|[ Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)|[C++](./solutions/1425.%20Constrained%20Subsequence%20Sum.cpp)|334 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|3 ms|
+|1436|[ Destination City](https://leetcode.com/problems/destination-city/)|[C++](./solutions/1436.%20Destination%20City.cpp)|7 ms|
 |1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[C++](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.cpp)|2 ms|
 |1443|[ Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[C++](./solutions/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.cpp)|189 ms|
 |1444|[ Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)|[C++](./solutions/1444.%20Number%20of%20Ways%20of%20Cutting%20a%20Pizza.cpp)|41 ms|
