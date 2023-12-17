@@ -756,6 +756,7 @@
 |2336|[ Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)|[C++](./solutions/2336.%20Smallest%20Number%20in%20Infinite%20Set.cpp)|67 ms|
 |2348|[ Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|[C++](./solutions/2348.%20Number%20of%20Zero-Filled%20Subarrays.cpp)|170 ms|
 |2352|[ Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)|[C++](./solutions/2352.%20Equal%20Row%20and%20Column%20Pairs.cpp)|303 ms|
+|2353|[ Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)|[C++](./solutions/2353.%20Design%20a%20Food%20Rating%20System.cpp)|392 ms|
 |2359|[ Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)|[C++](./solutions/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.cpp)|191 ms|
 |2360|[ Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)|[C++](./solutions/2360.%20Longest%20Cycle%20in%20a%20Graph.cpp)|453 ms|
 |2366|[ Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)|[C++](./solutions/2366.%20Minimum%20Replacements%20to%20Sort%20the%20Array.cpp)|95 ms|
