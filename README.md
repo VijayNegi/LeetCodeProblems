@@ -677,6 +677,7 @@
 |1887|[ Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/)|[C++](./solutions/1887.%20Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.cpp)|146 ms|
 |1900|[ The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/)|[C++](./solutions/1900.%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.cpp)|0 ms|
 |1903|[ Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[C++](./solutions/1903.%20Largest%20Odd%20Number%20in%20String.cpp)|23 ms|
+|1913|[ Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[C++](./solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.cpp)|12 ms|
 |1921|[ Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)|[C++](./solutions/1921.%20Eliminate%20Maximum%20Number%20of%20Monsters.cpp)|99 ms|
 |1926|[ Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)|[C++](./solutions/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze.cpp)|472 ms|
 |1930|[ Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)|[C++](./solutions/1930.%20Unique%20Length-3%20Palindromic%20Subsequences.cpp)|250 ms|
