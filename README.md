@@ -830,6 +830,7 @@
 |2694|[ Event Emitter](https://leetcode.com/problems/event-emitter/)|[JavaScript](./solutions/2694.%20Event%20Emitter.js)|66 ms|
 |2695|[ Array Wrapper](https://leetcode.com/problems/array-wrapper/)|[JavaScript](./solutions/2695.%20Array%20Wrapper.js)|55 ms|
 |2700|[ Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/)|[JavaScript](./solutions/2700.%20Differences%20Between%20Two%20Objects.js)|69 ms|
+|2706|[ Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)|[C++](./solutions/2706.%20Buy%20Two%20Chocolates.cpp)|11 ms|
 |2707|[ Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)|[C++](./solutions/2707.%20Extra%20Characters%20in%20a%20String.cpp)|84 ms|
 |2742|[ Painting the Walls](https://leetcode.com/problems/painting-the-walls/)|[C++](./solutions/2742.%20Painting%20the%20Walls.cpp)|267 ms|
 |2785|[ Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[C++](./solutions/2785.%20Sort%20Vowels%20in%20a%20String.cpp)|54 ms|
