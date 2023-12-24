@@ -658,6 +658,7 @@
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|0 ms|
 |1743|[ Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)|[C++](./solutions/1743.%20Restore%20the%20Array%20From%20Adjacent%20Pairs.cpp)|512 ms|
 |1751|[ Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)|[C++](./solutions/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.cpp)|338 ms|
+|1758|[ Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[C++](./solutions/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.cpp)|6 ms|
 |1759|[ Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[C++](./solutions/1759.%20Count%20Number%20of%20Homogenous%20Substrings.cpp)|25 ms|
 |1764|[ Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)|[C++](./solutions/1764.%20Form%20Array%20by%20Concatenating%20Subarrays%20of%20Another%20Array.cpp)|8 ms|
 |1768|[ Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[C++](./solutions/1768.%20Merge%20Strings%20Alternately.cpp)|4 ms|
