@@ -681,6 +681,7 @@
 |1870|[ Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)|[C++](./solutions/1870.%20Minimum%20Speed%20to%20Arrive%20on%20Time.cpp)|263 ms|
 |1877|[ Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[C++](./solutions/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp)|178 ms|
 |1887|[ Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/)|[C++](./solutions/1887.%20Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.cpp)|146 ms|
+|1897|[ Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)|[C++](./solutions/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.cpp)|7 ms|
 |1900|[ The Earliest and Latest Rounds Where Players Compete](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/)|[C++](./solutions/1900.%20The%20Earliest%20and%20Latest%20Rounds%20Where%20Players%20Compete.cpp)|0 ms|
 |1903|[ Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)|[C++](./solutions/1903.%20Largest%20Odd%20Number%20in%20String.cpp)|23 ms|
 |1913|[ Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[C++](./solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.cpp)|12 ms|
