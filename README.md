@@ -806,6 +806,7 @@
 |2580|[ Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/)|[C++](./solutions/2580.%20Count%20Ways%20to%20Group%20Overlapping%20Ranges.cpp)|378 ms|
 |2581|[ Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/)|[C++](./solutions/2581.%20Count%20Number%20of%20Possible%20Root%20Nodes.cpp)|778 ms|
 |2593|[ Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)|[C++](./solutions/2593.%20Find%20Score%20of%20an%20Array%20After%20Marking%20All%20Elements.cpp)|322 ms|
+|2610|[ Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)|[C++](./solutions/2610.%20Convert%20an%20Array%20Into%20a%202D%20Array%20With%20Conditions.cpp)|42 ms|
 |2616|[ Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)|[C++](./solutions/2616.%20Minimize%20the%20Maximum%20Difference%20of%20Pairs.cpp)|137 ms|
 |2618|[ Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/)|[JavaScript](./solutions/2618.%20Check%20if%20Object%20Instance%20of%20Class.js)|120 ms|
 |2619|[ Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)|[JavaScript](./solutions/2619.%20Array%20Prototype%20Last.js)|56 ms|
