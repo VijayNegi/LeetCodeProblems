@@ -720,6 +720,7 @@
 |2114|[ Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)|[C++](./solutions/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.cpp)|12 ms|
 |2115|[ Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)|[C++](./solutions/2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies.cpp)|284 ms|
 |2116|[ Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)|[C++](./solutions/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.cpp)|100 ms|
+|2125|[ Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|[C++](./solutions/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank.cpp)|84 ms|
 |2130|[ Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)|[C++](./solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.cpp)|274 ms|
 |2131|[ Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)|[C++](./solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.cpp)|893 ms|
 |2133|[ Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)|[C++](./solutions/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.cpp)|100 ms|
