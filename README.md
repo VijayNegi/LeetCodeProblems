@@ -771,6 +771,7 @@
 |2360|[ Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)|[C++](./solutions/2360.%20Longest%20Cycle%20in%20a%20Graph.cpp)|453 ms|
 |2366|[ Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)|[C++](./solutions/2366.%20Minimum%20Replacements%20to%20Sort%20the%20Array.cpp)|95 ms|
 |2369|[ Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)|[C++](./solutions/2369.%20Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array.cpp)|133 ms|
+|2385|[ Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)|[C++](./solutions/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.cpp)|128 ms|
 |2389|[ Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[C++](./solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.cpp)|23 ms|
 |2390|[ Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)|[C++](./solutions/2390.%20Removing%20Stars%20From%20a%20String.cpp)|81 ms|
 |2391|[ Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)|[C++](./solutions/2391.%20Minimum%20Amount%20of%20Time%20to%20Collect%20Garbage.cpp)|198 ms|
