@@ -714,6 +714,7 @@
 |2087|[ Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/)|[C++](./solutions/2087.%20Minimum%20Cost%20Homecoming%20of%20a%20Robot%20in%20a%20Grid.cpp)|164 ms|
 |2088|[ Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/)|[C++](./solutions/2088.%20Count%20Fertile%20Pyramids%20in%20a%20Land.cpp)|312 ms|
 |2090|[ K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)|[C++](./solutions/2090.%20K%20Radius%20Subarray%20Averages.cpp)|268 ms|
+|2092|[ Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)|[C++](./solutions/2092.%20Find%20All%20People%20With%20Secret.cpp)|365 ms|
 |2095|[ Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)|[C++](./solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.cpp)|2306 ms|
 |2097|[ Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)|[C++](./solutions/2097.%20Valid%20Arrangement%20of%20Pairs.cpp)|1974 ms|
 |2099|[ Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)|[C++](./solutions/2099.%20Find%20Subsequence%20of%20Length%20K%20With%20the%20Largest%20Sum.cpp)|8 ms|
