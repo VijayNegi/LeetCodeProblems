@@ -856,6 +856,7 @@
 |2742|[ Painting the Walls](https://leetcode.com/problems/painting-the-walls/)|[C++](./solutions/2742.%20Painting%20the%20Walls.cpp)|267 ms|
 |2785|[ Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[C++](./solutions/2785.%20Sort%20Vowels%20in%20a%20String.cpp)|54 ms|
 |2849|[ Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)|[C++](./solutions/2849.%20Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.cpp)|0 ms|
+|2864|[ Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)|[C++](./solutions/2864.%20Maximum%20Odd%20Binary%20Number.cpp)|0 ms|
 |2870|[ Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)|[C++](./solutions/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty.cpp)|131 ms|
 |2966|[ Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)|[C++](./solutions/2966.%20Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.cpp)|140 ms|
 |2971|[ Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)|[C++](./solutions/2971.%20Find%20Polygon%20With%20the%20Largest%20Perimeter.cpp)|139 ms|
