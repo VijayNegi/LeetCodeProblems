@@ -666,6 +666,7 @@
 |1727|[ Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[C++](./solutions/1727.%20Largest%20Submatrix%20With%20Rearrangements.cpp)|147 ms|
 |1732|[ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./solutions/1732.%20Find%20the%20Highest%20Altitude.cpp)|0 ms|
 |1743|[ Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/)|[C++](./solutions/1743.%20Restore%20the%20Array%20From%20Adjacent%20Pairs.cpp)|512 ms|
+|1750|[ Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[C++](./solutions/1750.%20Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends.cpp)|24 ms|
 |1751|[ Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)|[C++](./solutions/1751.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended%20II.cpp)|338 ms|
 |1758|[ Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[C++](./solutions/1758.%20Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.cpp)|6 ms|
 |1759|[ Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)|[C++](./solutions/1759.%20Count%20Number%20of%20Homogenous%20Substrings.cpp)|25 ms|
