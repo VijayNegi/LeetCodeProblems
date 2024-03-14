@@ -438,6 +438,7 @@
 |920|[ Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)|[C++](./solutions/920.%20Number%20of%20Music%20Playlists.cpp)|12 ms|
 |923|[ 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[C++](./solutions/923.%203Sum%20With%20Multiplicity.cpp)|10 ms|
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[C++](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.cpp)|25 ms|
+|930|[ Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[C++](./solutions/930.%20Binary%20Subarrays%20With%20Sum.cpp)|20 ms|
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[C++](./solutions/931.%20Minimum%20Falling%20Path%20Sum.cpp)|40 ms|
 |932|[ Beautiful Array](https://leetcode.com/problems/beautiful-array/)|[C++](./solutions/932.%20Beautiful%20Array.cpp)|4 ms|
 |934|[ Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|[C++](./solutions/934.%20Shortest%20Bridge.cpp)|82 ms|
