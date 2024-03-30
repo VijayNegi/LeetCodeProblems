@@ -473,6 +473,7 @@
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[C++](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.cpp)|34 ms|
 |990|[ Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[C++](./solutions/990.%20Satisfiability%20of%20Equality%20Equations.cpp)|11 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[C++](./solutions/991.%20Broken%20Calculator.cpp)|0 ms|
+|992|[ Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[C++](./solutions/992.%20Subarrays%20with%20K%20Different%20Integers.cpp)|200 ms|
 |997|[ Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[C++](./solutions/997.%20Find%20the%20Town%20Judge.cpp)|282 ms|
 |1000|[ Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)|[C++](./solutions/1000.%20Minimum%20Cost%20to%20Merge%20Stones.cpp)|7 ms|
 |1007|[ Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[C++](./solutions/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.cpp)|129 ms|
