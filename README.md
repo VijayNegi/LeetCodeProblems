@@ -146,6 +146,7 @@
 |200|[ Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./solutions/200.%20Number%20of%20Islands.cpp)|32 ms|
 |201|[ Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[C++](./solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.cpp)|0 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./solutions/203.%20Remove%20Linked%20List%20Elements.cpp)|24 ms|
+|205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C++](./solutions/205.%20Isomorphic%20Strings.cpp)|6 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C++](./solutions/206.%20Reverse%20Linked%20List.cpp)|8 ms|
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[C++](./solutions/207.%20Course%20Schedule.cpp)|29 ms|
 |208|[ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[C++](./solutions/208.%20Implement%20Trie%20(Prefix%20Tree).cpp)|52 ms|
