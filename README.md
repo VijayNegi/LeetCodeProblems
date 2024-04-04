@@ -639,6 +639,7 @@
 |1603|[ Design Parking System](https://leetcode.com/problems/design-parking-system/)|[C++](./solutions/1603.%20Design%20Parking%20System.cpp)|61 ms|
 |1609|[ Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)|[C++](./solutions/1609.%20Even%20Odd%20Tree.cpp)|197 ms|
 |1611|[ Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)|[C++](./solutions/1611.%20Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero.cpp)|0 ms|
+|1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[C++](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.cpp)|0 ms|
 |1615|[ Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/)|[C++](./solutions/1615.%20Maximal%20Network%20Rank.cpp)|95 ms|
 |1624|[ Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)|[C++](./solutions/1624.%20Largest%20Substring%20Between%20Two%20Equal%20Characters.cpp)|0 ms|
 |1626|[ Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/)|[C++](./solutions/1626.%20Best%20Team%20With%20No%20Conflicts.cpp)|461 ms|
