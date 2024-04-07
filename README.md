@@ -341,6 +341,7 @@
 |668|[ Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[C++](./solutions/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.cpp)|16 ms|
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[C++](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.cpp)|19 ms|
 |673|[ Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[C++](./solutions/673.%20Number%20of%20Longest%20Increasing%20Subsequence.cpp)|156 ms|
+|678|[ Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[C++](./solutions/678.%20Valid%20Parenthesis%20String.cpp)|0 ms|
 |679|[ 24 Game](https://leetcode.com/problems/24-game/)|[C++](./solutions/679.%2024%20Game.cpp)|11 ms|
 |680|[ Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](./solutions/680.%20Valid%20Palindrome%20II.cpp)|57 ms|
 |682|[ Baseball Game](https://leetcode.com/problems/baseball-game/)|[C++](./solutions/682.%20Baseball%20Game.cpp)|4 ms|
