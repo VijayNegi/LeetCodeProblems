@@ -474,6 +474,7 @@
 |985|[ Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[C++](./solutions/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.cpp)|219 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[C++](./solutions/986.%20Interval%20List%20Intersections.cpp)|32 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[C++](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp)|5 ms|
+|988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[C++](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.cpp)|9 ms|
 |989|[ Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[C++](./solutions/989.%20Add%20to%20Array-Form%20of%20Integer.cpp)|34 ms|
 |990|[ Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)|[C++](./solutions/990.%20Satisfiability%20of%20Equality%20Equations.cpp)|11 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[C++](./solutions/991.%20Broken%20Calculator.cpp)|0 ms|
