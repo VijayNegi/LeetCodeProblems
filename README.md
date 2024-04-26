@@ -547,6 +547,7 @@
 |1286|[ Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[C++](./solutions/1286.%20Iterator%20for%20Combination.cpp)|8 ms|
 |1287|[ Element Appearing More Than 25 In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|[C++](./solutions/1287.%20Element%20Appearing%20More%20Than%2025%20In%20Sorted%20Array.cpp)|7 ms|
 |1288|[ Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[C++](./solutions/1288.%20Remove%20Covered%20Intervals.cpp)|22 ms|
+|1289|[ Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|[C++](./solutions/1289.%20Minimum%20Falling%20Path%20Sum%20II.cpp)|26 ms|
 |1290|[ Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|[C++](./solutions/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)|3 ms|
 |1291|[ Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[C++](./solutions/1291.%20Sequential%20Digits.cpp)|0 ms|
 |1293|[ Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[C++](./solutions/1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.cpp)|373 ms|
