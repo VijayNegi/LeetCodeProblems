@@ -398,7 +398,7 @@
 |815|[ Bus Routes](https://leetcode.com/problems/bus-routes/)|[C++](./solutions/815.%20Bus%20Routes.cpp)|393 ms|
 |820|[ Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[C++](./solutions/820.%20Short%20Encoding%20of%20Words.cpp)|56 ms|
 |823|[ Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[C++](./solutions/823.%20Binary%20Trees%20With%20Factors.cpp)|137 ms|
-|834|[ Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[C++](./solutions/834.%20Sum%20of%20Distances%20in%20Tree.cpp)|457 ms|
+|834|[ Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)|[C++](./solutions/834.%20Sum%20of%20Distances%20in%20Tree.cpp)|280 ms|
 |835|[ Image Overlap](https://leetcode.com/problems/image-overlap/)|[C++](./solutions/835.%20Image%20Overlap.cpp)|24 ms|
 |837|[ New 21 Game](https://leetcode.com/problems/new-21-game/)|[C++](./solutions/837.%20New%2021%20Game.cpp)|5 ms|
 |838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[C++](./solutions/838.%20Push%20Dominoes.cpp)|87 ms|
