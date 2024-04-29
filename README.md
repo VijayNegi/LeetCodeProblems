@@ -884,4 +884,5 @@
 |2958|[ Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)|[C++](./solutions/2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.cpp)|170 ms|
 |2966|[ Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)|[C++](./solutions/2966.%20Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.cpp)|140 ms|
 |2971|[ Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)|[C++](./solutions/2971.%20Find%20Polygon%20With%20the%20Largest%20Perimeter.cpp)|139 ms|
+|2997|[ Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/)|[C++](./solutions/2997.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20XOR%20Equal%20to%20K.cpp)|106 ms|
 |3005|[ Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)|[C++](./solutions/3005.%20Count%20Elements%20With%20Maximum%20Frequency.cpp)|12 ms|
