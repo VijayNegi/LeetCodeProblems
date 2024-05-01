@@ -723,6 +723,7 @@
 |1980|[ Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)|[C++](./solutions/1980.%20Find%20Unique%20Binary%20String.cpp)|6 ms|
 |1992|[ Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)|[C++](./solutions/1992.%20Find%20All%20Groups%20of%20Farmland.cpp)|91 ms|
 |1996|[ The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|[C++](./solutions/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp)|700 ms|
+|2000|[ Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)|[C++](./solutions/2000.%20Reverse%20Prefix%20of%20Word.cpp)|0 ms|
 |2007|[ Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)|[C++](./solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array.cpp)|623 ms|
 |2009|[ Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)|[C++](./solutions/2009.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous.cpp)|244 ms|
 |2022|[ Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)|[C++](./solutions/2022.%20Convert%201D%20Array%20Into%202D%20Array.cpp)|144 ms|
