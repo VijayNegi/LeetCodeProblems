@@ -292,6 +292,7 @@
 |491|[ Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)|[C++](./solutions/491.%20Non-decreasing%20Subsequences.cpp)|503 ms|
 |501|[ Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[C++](./solutions/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.cpp)|11 ms|
 |502|[ IPO](https://leetcode.com/problems/ipo/)|[C++](./solutions/502.%20IPO.cpp)|244 ms|
+|506|[ Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[C++](./solutions/506.%20Relative%20Ranks.cpp)|10 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C++](./solutions/509.%20Fibonacci%20Number.cpp)|0 ms|
 |514|[ Freedom Trail](https://leetcode.com/problems/freedom-trail/)|[C++](./solutions/514.%20Freedom%20Trail.cpp)|26 ms|
 |515|[ Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[C++](./solutions/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.cpp)|8 ms|
