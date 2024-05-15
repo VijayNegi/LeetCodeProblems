@@ -887,6 +887,7 @@
 |2709|[ Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)|[C++](./solutions/2709.%20Greatest%20Common%20Divisor%20Traversal.cpp)|629 ms|
 |2742|[ Painting the Walls](https://leetcode.com/problems/painting-the-walls/)|[C++](./solutions/2742.%20Painting%20the%20Walls.cpp)|267 ms|
 |2785|[ Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)|[C++](./solutions/2785.%20Sort%20Vowels%20in%20a%20String.cpp)|54 ms|
+|2812|[ Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)|[C++](./solutions/2812.%20Find%20the%20Safest%20Path%20in%20a%20Grid.cpp)|374 ms|
 |2816|[ Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)|[C++](./solutions/2816.%20Double%20a%20Number%20Represented%20as%20a%20Linked%20List.cpp)|177 ms|
 |2849|[ Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)|[C++](./solutions/2849.%20Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.cpp)|0 ms|
 |2864|[ Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)|[C++](./solutions/2864.%20Maximum%20Odd%20Binary%20Number.cpp)|0 ms|
