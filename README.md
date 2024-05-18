@@ -474,6 +474,7 @@
 |975|[ Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)|[C++](./solutions/975.%20Odd%20Even%20Jump.cpp)|91 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./solutions/976.%20Largest%20Perimeter%20Triangle.cpp)|92 ms|
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.cpp)|24 ms|
+|979|[ Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[C++](./solutions/979.%20Distribute%20Coins%20in%20Binary%20Tree.cpp)|3 ms|
 |980|[ Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[C++](./solutions/980.%20Unique%20Paths%20III.cpp)|10 ms|
 |981|[ Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[C++](./solutions/981.%20Time%20Based%20Key-Value%20Store.cpp)|551 ms|
 |983|[ Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[C++](./solutions/983.%20Minimum%20Cost%20For%20Tickets.cpp)|0 ms|
