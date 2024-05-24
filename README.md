@@ -545,6 +545,7 @@
 |1239|[ Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[C++](./solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.cpp)|3 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[C++](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)|13 ms|
 |1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[C++](./solutions/1254.%20Number%20of%20Closed%20Islands.cpp)|15 ms|
+|1255|[ Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|[C++](./solutions/1255.%20Maximum%20Score%20Words%20Formed%20by%20Letters.cpp)|0 ms|
 |1260|[ Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[C++](./solutions/1260.%20Shift%202D%20Grid.cpp)|37 ms|
 |1266|[ Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[C++](./solutions/1266.%20Minimum%20Time%20Visiting%20All%20Points.cpp)|5 ms|
 |1268|[ Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[C++](./solutions/1268.%20Search%20Suggestions%20System.cpp)|148 ms|
