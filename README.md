@@ -535,6 +535,7 @@
 |1202|[ Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[C++](./solutions/1202.%20Smallest%20String%20With%20Swaps.cpp)|189 ms|
 |1203|[ Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)|[C++](./solutions/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.cpp)|126 ms|
 |1207|[ Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[C++](./solutions/1207.%20Unique%20Number%20of%20Occurrences.cpp)|5 ms|
+|1208|[ Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[C++](./solutions/1208.%20Get%20Equal%20Substrings%20Within%20Budget.cpp)|9 ms|
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[C++](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)|21 ms|
 |1214|[ Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/)|[C++](./solutions/1214.%20Two%20Sum%20BSTs.cpp)|40 ms|
 |1217|[ Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./solutions/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|4 ms|
