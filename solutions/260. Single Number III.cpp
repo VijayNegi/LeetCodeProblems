@@ -25,10 +25,12 @@ public:
             fullXOR ^= n;
         
         int mask(1);
+        // find one bit set in fullXOR
         while(!(fullXOR & mask) ) mask <<=1;
         int first(0);
         for(auto &n:nums)
         {
+            // note : all nums with this set bit will cancel out except one number 
             if(n & mask)
                 first ^= n;
         }
