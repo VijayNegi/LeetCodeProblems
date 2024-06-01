@@ -908,3 +908,4 @@
 |2997|[ Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/)|[C++](./solutions/2997.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20XOR%20Equal%20to%20K.cpp)|106 ms|
 |3005|[ Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)|[C++](./solutions/3005.%20Count%20Elements%20With%20Maximum%20Frequency.cpp)|12 ms|
 |3075|[ Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)|[C++](./solutions/3075.%20Maximize%20Happiness%20of%20Selected%20Children.cpp)|163 ms|
+|3110|[ Score of a String](https://leetcode.com/problems/score-of-a-string/)|[C++](./solutions/3110.%20Score%20of%20a%20String.cpp)|5 ms|
