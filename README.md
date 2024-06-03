@@ -847,6 +847,7 @@
 |2483|[ Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)|[C++](./solutions/2483.%20Minimum%20Penalty%20for%20a%20Shop.cpp)|24 ms|
 |2484|[ Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/)|[C++](./solutions/2484.%20Count%20Palindromic%20Subsequences.cpp)|1270 ms|
 |2485|[ Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)|[C++](./solutions/2485.%20Find%20the%20Pivot%20Integer.cpp)|0 ms|
+|2486|[ Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)|[C++](./solutions/2486.%20Append%20Characters%20to%20String%20to%20Make%20Subsequence.cpp)|16 ms|
 |2487|[ Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|[C++](./solutions/2487.%20Remove%20Nodes%20From%20Linked%20List.cpp)|256 ms|
 |2492|[ Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)|[C++](./solutions/2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.cpp)|388 ms|
 |2525|[ Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)|[C++](./solutions/2525.%20Categorize%20Box%20According%20to%20Criteria.cpp)|3 ms|
