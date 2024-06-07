@@ -334,6 +334,7 @@
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[C++](./solutions/645.%20Set%20Mismatch.cpp)|93 ms|
 |646|[ Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)|[C++](./solutions/646.%20Maximum%20Length%20of%20Pair%20Chain.cpp)|51 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./solutions/647.%20Palindromic%20Substrings.cpp)|7 ms|
+|648|[ Replace Words](https://leetcode.com/problems/replace-words/)|[C++](./solutions/648.%20Replace%20Words.cpp)|77 ms|
 |649|[ Dota2 Senate](https://leetcode.com/problems/dota2-senate/)|[C++](./solutions/649.%20Dota2%20Senate.cpp)|8 ms|
 |652|[ Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[C++](./solutions/652.%20Find%20Duplicate%20Subtrees.cpp)|30 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[C++](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|114 ms|
