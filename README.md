@@ -521,6 +521,7 @@
 |1095|[ Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[C++](./solutions/1095.%20Find%20in%20Mountain%20Array.cpp)|6 ms|
 |1110|[ Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)|[C++](./solutions/1110.%20Delete%20Nodes%20And%20Return%20Forest.cpp)|29 ms|
 |1117|[ Building H2O](https://leetcode.com/problems/building-h2o/)|[C++](./solutions/1117.%20Building%20H2O.cpp)|8 ms|
+|1122|[ Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[C++](./solutions/1122.%20Relative%20Sort%20Array.cpp)|2 ms|
 |1125|[ Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)|[C++](./solutions/1125.%20Smallest%20Sufficient%20Team.cpp)|115 ms|
 |1129|[ Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)|[C++](./solutions/1129.%20Shortest%20Path%20with%20Alternating%20Colors.cpp)|11 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[C++](./solutions/1137.%20N-th%20Tribonacci%20Number.cpp)|3 ms|
