@@ -514,6 +514,7 @@
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[C++](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)|23 ms|
 |1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[C++](./solutions/1048.%20Longest%20String%20Chain.cpp)|59 ms|
 |1051|[ Height Checker](https://leetcode.com/problems/height-checker/)|[C++](./solutions/1051.%20Height%20Checker.cpp)|4 ms|
+|1052|[ Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)|[C++](./solutions/1052.%20Grumpy%20Bookstore%20Owner.cpp)|22 ms|
 |1061|[ Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|[C++](./solutions/1061.%20Lexicographically%20Smallest%20Equivalent%20String.cpp)|6 ms|
 |1071|[ Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[C++](./solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings.cpp)|0 ms|
 |1074|[ Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[C++](./solutions/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.cpp)|1615 ms|
