@@ -616,6 +616,7 @@
 |1425|[ Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)|[C++](./solutions/1425.%20Constrained%20Subsequence%20Sum.cpp)|334 ms|
 |1431|[ Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](./solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)|3 ms|
 |1436|[ Destination City](https://leetcode.com/problems/destination-city/)|[C++](./solutions/1436.%20Destination%20City.cpp)|7 ms|
+|1438|[ Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|[C++](./solutions/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.cpp)|62 ms|
 |1441|[ Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[C++](./solutions/1441.%20Build%20an%20Array%20With%20Stack%20Operations.cpp)|2 ms|
 |1442|[ Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|[C++](./solutions/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR.cpp)|6 ms|
 |1443|[ Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[C++](./solutions/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree.cpp)|189 ms|
