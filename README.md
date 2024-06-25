@@ -508,6 +508,7 @@
 |1029|[ Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[C++](./solutions/1029.%20Two%20City%20Scheduling.cpp)|3 ms|
 |1032|[ Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[C++](./solutions/1032.%20Stream%20of%20Characters.cpp)|264 ms|
 |1035|[ Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[C++](./solutions/1035.%20Uncrossed%20Lines.cpp)|20 ms|
+|1038|[ Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)|[C++](./solutions/1038.%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.cpp)|0 ms|
 |1041|[ Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[C++](./solutions/1041.%20Robot%20Bounded%20In%20Circle.cpp)|0 ms|
 |1043|[ Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[C++](./solutions/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)|7 ms|
 |1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C++](./solutions/1046.%20Last%20Stone%20Weight.cpp)|0 ms|
