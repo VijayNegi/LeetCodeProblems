@@ -813,6 +813,7 @@
 |2265|[ Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)|[C++](./solutions/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.cpp)|2 ms|
 |2272|[ Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)|[C++](./solutions/2272.%20Substring%20With%20Largest%20Variance.cpp)|261 ms|
 |2279|[ Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|[C++](./solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.cpp)|195 ms|
+|2285|[ Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/)|[C++](./solutions/2285.%20Maximum%20Total%20Importance%20of%20Roads.cpp)|261 ms|
 |2300|[ Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|[C++](./solutions/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions.cpp)|273 ms|
 |2305|[ Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)|[C++](./solutions/2305.%20Fair%20Distribution%20of%20Cookies.cpp)|4 ms|
 |2306|[ Naming a Company](https://leetcode.com/problems/naming-a-company/)|[C++](./solutions/2306.%20Naming%20a%20Company.cpp)|444 ms|
